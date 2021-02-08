@@ -1,0 +1,6 @@
+Fastest growing cities analysis
+
+https://wallethub.com/edu/fastest-growing-cities/7010
+
+short description:
+a ranking of fastest growing cities using weighed score based on 17 metrics. They use the same data from the US Census Bureau that we plan to use.

@@ -1,6 +1,47 @@
-Fastest growing cities analysis
+-Fastest growing cities analysis
 
 https://wallethub.com/edu/fastest-growing-cities/7010
 
 short description:
 a ranking of fastest growing cities using weighed score based on 17 metrics. They use the same data from the US Census Bureau that we plan to use.
+
+-U.S. Bureau of Economic Analysis
+
+https://www.bea.gov/data/employment/employment-county-metro-and-other-areas
+
+short description:
+was able to pull csv files that might help us from this website. Total employment growth rate bewteen 2014 to 2018 and GDP growth rate
+between 2014 and 2018 for metropolitan statistical areas
+
+-U.S. Department of Energy
+
+https://openei.org/doe-opendata/dataset/u-s-electric-utility-companies-and-rates-look-up-by-zipcode-2018
+
+short description:
+pulled commercial electricity rates per zipcode. fringe feature, but I read lower utilities could be tied to job development
+
+- United States Census Burea
+
+https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-metro-and-micro-statistical-areas.html
+
+short description:
+pulled cumulative estimates of resident population change from 2010 to 2019 for metropolitan statistical areas
+
+- U.S. Bureau of Labor Statistics
+
+https://www.bls.gov/lau/#tables
+
+short description:
+scraped a table with 2018 unemployment rates for metropolitan statistical areas
+
+- http://federalgovernmentzipcodes.us/
+
+short description:
+pulled latitude and longitude for every zipcode in U.S. This will allow us to create heatmap/bubble chart or whatever overlayed on map of U.S.
+
+
+
+
+
+
+

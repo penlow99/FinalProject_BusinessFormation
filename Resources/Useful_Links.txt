@@ -3,7 +3,7 @@
 https://wallethub.com/edu/fastest-growing-cities/7010
 
 short description:
-a ranking of fastest growing cities using weighed score based on 17 metrics. They use the same data from the US Census Bureau that we plan to use.
+a ranking of fastest growing cities using weighed score based on 17  ,mnvbmetrics. They use the same data from the US Census Bureau that we plan to use.
 
 -U.S. Bureau of Economic Analysis
 
@@ -26,6 +26,14 @@ https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-metro-a
 
 short description:
 pulled cumulative estimates of resident population change from 2010 to 2019 for metropolitan statistical areas
+
+https://www.census.gov/library/visualizations/interactive/bfs-annual-state-county.html
+short description:
+a resource with statistics for new business applications at the state and county level
+
+https://www.census.gov/housing/hvs/index.html
+short description:
+shows housing vacancies and homeownership data, some of which is availabe for the largest 75 metro areas  
 
 - U.S. Bureau of Labor Statistics
 

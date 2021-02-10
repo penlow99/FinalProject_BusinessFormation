@@ -53,6 +53,18 @@ Ranking Methodology
 
 This is from a website that does pretty much everything we talked about doing. They rank places based on what the user values: family, outdoor, entertainment, etc. They use z-scores for each factor for each place. Based on the z-score the assign a letter grade.
 
+How to calculate Z-scores in pandas and with scipy zscore
+
+-https://stackoverflow.com/questions/24761998/pandas-compute-z-score-for-all-columns
+
+two different ways to compute Z-scores in pandas. A possible way of how to do our ranking.
+
+More on weighed ranking
+
+-https://www.countyhealthrankings.org/explore-health-rankings/our-methods/calculating-ranks
+
+This example ranks the "health" of counties based on weighted composite scores. In short, they first calculate z-scores for each county for each attribute, then multiply that by its determined weight and then add up all the scores for each county. The counties are then ranked on this score
+
 
 
 

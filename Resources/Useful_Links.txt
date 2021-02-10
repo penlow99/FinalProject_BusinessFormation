@@ -47,6 +47,11 @@ scraped a table with 2018 unemployment rates for metropolitan statistical areas
 short description:
 pulled latitude and longitude for every zipcode in U.S. This will allow us to create heatmap/bubble chart or whatever overlayed on map of U.S.
 
+Ranking Methodology
+
+-https://www.niche.com/places-to-live/rankings/methodology/
+
+This is from a website that does pretty much everything we talked about doing. They rank places based on what the user values: family, outdoor, entertainment, etc. They use z-scores for each factor for each place. Based on the z-score the assign a letter grade.
 
 
 

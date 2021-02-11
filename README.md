@@ -15,7 +15,7 @@ The main database we will be using is the US census database by County (2010-201
 
 We also looked at several other databases and resources when formalizing our project. Some of these included:
 
-##Technology
+##Technology 1
 
 Our technology plan includes the use of the following:
 

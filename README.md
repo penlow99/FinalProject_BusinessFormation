@@ -1,4 +1,5 @@
 ##Summary
+The purpose of this project is to analyze historic census data from add dataset and use the analysis to predict the next "It City". The model will use a ranking system to compare attributes and variables.
 
 ###Team members: Stephanie Paul, Patrick Enlow, McKenzie Kilburn, Andrej Arsovski, Josh Severin, and Cat de Rohan
 
@@ -14,9 +15,9 @@ The main database we will be using is the US census database by County (2010-201
 
 We also looked at several other databases and resources when formalizing our project. Some of these included:
 
-##Technology
+##Technology 1
 
-Our technology plan includes:
+Our technology plan includes the use of the following:
 
 Python/Pandas 
 Mongo DB 

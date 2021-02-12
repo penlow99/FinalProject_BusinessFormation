@@ -5,8 +5,10 @@ The purpose of this project is to analyze historic census data from add dataset 
 ### Team members: Stephanie Paul, Patrick Enlow, McKenzie Kilburn, Andrej Arsovski, Josh Severin, and Cat de Rohan
 
 
+
 ## Project Background
 The idea of our project started with the question if the next "It City" can be predicted by the number of new business formations. After looking at different data sources and scope of work we altered our project to create our own ranking methodology using various features to decide which cities would be the "trending" cities to move to in the next few years.
+
 
 ## Data Exploration
 We researched several datasets to find a dataset we could use to rank top cities to live in. 
@@ -50,4 +52,4 @@ Flask and Plotly
 
 
 ## Communication 
-Our team will be using Discord to communication and Zoom for meetings and collaboration. We will also be using Trello to keep track of organize and prioritize our tasks.
+Our team will be using Discord to communication and Zoom for meetings and collaboration. We will also be using [Trello](https://trello.com/metrognomes) to organize and prioritize our tasks.

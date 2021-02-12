@@ -1,0 +1,14 @@
+Relevant information for the files listed in this directory
+
+sub-est2019_all.csv
+- from Census Bureau, located at https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-cities-and-towns.html
+- lists population estimates from 2010-2019 for municipalities, counties, and states in the US
+
+
+SUB-IP-EST2019-ANNRNK.xlsx
+- from Census Bureau, located at https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-cities-and-towns.html
+- Annual Estimates of the Resident Population for Incorporated Places of 50,000 or More, Ranked by July 1, 2019 Population: April 1, 2010 to July 1, 2019
+
+wiki_copy_pop_density.csv
+- https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
+- Contains city populations, as well as land area and density

@@ -2,7 +2,7 @@
 The purpose of this project is to analyze historic census data from add dataset and use the analysis to predict the next "It City". The model will use a ranking system to compare attributes and variables.
 
 
-### Team members: Stephanie Paul, Patrick Enlow, McKenzie Kilburn, Andrej Arsovski, Josh Severin, and Cat de Rohan
+#### Team members: Stephanie Paul, Patrick Enlow, McKenzie Kilburn, Andrej Arsovski, Josh Severin, and Cat de Rohan
 
 
 ## Project Background
@@ -51,4 +51,5 @@ Mongo DB
 Flask and Plotly
 
 
-## Communication Our team will be using Discord to communication and Zoom for meetings and collaboration. We will also be using [Trello](https://trello.com/metrognomes) to organize and prioritize our tasks.
+## Communication 
+Our team will be using Discord to communication and Zoom for meetings and collaboration. We will also be using [Trello](https://trello.com/metrognomes) to organize and prioritize our tasks.

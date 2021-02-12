@@ -50,9 +50,5 @@ Mongo DB
 **Visualization:** 
 Flask and Plotly
 
-Python/Pandas 
-Mongo DB 
-Flask
-Plotly
 
 ##Communication Our team will be using Discord to communication and Zoom for meetings and collaboration. We will also be using Trello to keep track of organize and prioritize our tasks.

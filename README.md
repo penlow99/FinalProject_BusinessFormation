@@ -1,7 +1,7 @@
 # FinalProject_BusinessFormation
 
 ##Summary
-
+The purpose of this project is to predict the next "top" cities to move to in the United States. 
 
 **Team members: Stepanie Paul, Patrick Enlow, McKenzie Kilburn, Andrej Arsovski, Josh Severin, and Cat de Rohan
 
@@ -12,7 +12,7 @@ The idea of our project started with the question if the next "It City" can be p
 ##Data Exploration
 We researched several datasets to find a dataset we could use to rank top cities to live in. 
 
-The main dataset we will be using is from the US Census Bureau. 
+The main dataset we will be using is from the US Census Bureau using county data from 2010 to 2019. 
 
 We also looked at several other databases and resources when formalizing our project. Some of these included:
 

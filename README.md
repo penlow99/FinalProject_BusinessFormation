@@ -38,7 +38,7 @@ Lastly we researched various ranking methodologies and how we could best impleme
 - https://www.niche.com/places-to-live/rankings/methodology/
 
 
-##Technology
+## Technology
 Our technology plan includes:
 
 **Preparing Data:** 
@@ -51,4 +51,4 @@ Mongo DB
 Flask and Plotly
 
 
-##Communication Our team will be using Discord to communication and Zoom for meetings and collaboration. We will also be using [Trello](https://trello.com/metrognomes) to organize and prioritize our tasks.
+## Communication Our team will be using Discord to communication and Zoom for meetings and collaboration. We will also be using [Trello](https://trello.com/metrognomes) to organize and prioritize our tasks.

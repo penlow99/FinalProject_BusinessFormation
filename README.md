@@ -13,7 +13,7 @@ The main database we will be using is the US census database by County (2010-201
 ##Data Exploration
 We researched several datasets to find a dataset we could use to rank top cities to live in. 
 
-The main dataset we will be using is from the US Census Bureau. 
+The main dataset we will be using is from the US Census Bureau using county data from 2010 to 2019. 
 
 We also looked at several other databases and resources when formalizing our project. Some of these included:
 
@@ -50,9 +50,5 @@ Mongo DB
 **Visualization:** 
 Flask and Plotly
 
-Python/Pandas 
-Mongo DB 
-Flask
-Plotly
 
 ##Communication Our team will be using Discord to communication and Zoom for meetings and collaboration. We will also be using Trello to keep track of organize and prioritize our tasks.

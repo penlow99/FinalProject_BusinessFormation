@@ -1,5 +1,5 @@
 ## Summary
-The purpose of this project is to analyze historic census data from add dataset and use the analysis to predict the next "It City". The model will use a ranking system to compare attributes and variables.
+The purpose of this project is to analyze historic census data from [US Census](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-cities-and-towns.html) and use the analysis to predict the next "It City". The model will use the historic data from cities we know to be popular as the model for the machine learning prediction. 
 
 
 **Team members: Stephanie Paul, Patrick Enlow, McKenzie Kilburn, Andrej Arsovski, Josh Severin, and Cat de Rohan**
@@ -7,7 +7,7 @@ The purpose of this project is to analyze historic census data from add dataset 
 
 
 ## Project Background
-The idea of our project started with the question if the next "It City" can be predicted by the number of new business formations. After looking at different data sources and scope of work we altered our project to create our own ranking methodology using various features to decide which cities would be the "trending" cities to move to in the next few years.
+The idea of our project started with the question if the next "It City" can be predicted by the number of new business formations. After looking at different data sources and scope of work we altered our project to look at population and unemployment data to decide which cities would be the "trending" cities to move to in the next few years.
 
 
 ## Data Exploration

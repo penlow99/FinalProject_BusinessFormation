@@ -14,14 +14,14 @@ We researched several datasets to find a dataset we could use to rank top cities
 
 The datasets we will be using are:
 
-Population * Metro Census Data of population change from 2010 to 2019
-https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-metro-and-micro-statistical-areas.htm
+**Population** Metro Census Data of population change from 2010 to 2019
+- https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-metro-and-micro-statistical-areas.htm
 
-Unemployment Rate * Bureau of Labor and Statistics
-https://www.bls.gov/lau/#tables
+**Unemployment Rate** Bureau of Labor and Statistics
+- https://www.bls.gov/lau/#tables
 
-GDP and Total Employment * Bureau of Economic Analysis
-https://www.bea.gov/
+**GDP and Total Employment** Bureau of Economic Analysis
+- https://www.bea.gov/
 
 
 We also looked at several other databases and resources when formalizing our project. Some of these included:
@@ -29,7 +29,7 @@ We also looked at several other databases and resources when formalizing our pro
 
 We decided not to use this dataset because we needed to keep data on the same granularity scale. When looking to rank cities we want to keep dataset just to cities for scale and easibility in preparing the data. 
 
-* https://www.census.gov/library/visualizations/interactive/bfs-annual-state-county.html
+- https://www.census.gov/library/visualizations/interactive/bfs-annual-state-county.html
 
 Originally we wanted to use this resource that had statistics for new business application at the state and county level to use as a feature in our dataset to measure growth. For the same reason as above we decided to keep all data on the same granularity scale and continued digging for city data. 
 
@@ -57,7 +57,7 @@ Mongo
 **Visualization:** 
 Flask and Plotly
 
-**Web App**
+**Web App:**
 Heroku
 
 

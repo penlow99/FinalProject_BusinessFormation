@@ -1,9 +1,8 @@
 ## Summary
-The purpose of this project is to analyze historic census data from [US Census](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-cities-and-towns.html) and use the analysis to predict the next "It City". The model will use the historic data from cities we know to be popular as the model for the machine learning prediction. 
+The purpose of this project is to analyze historic census data and use the analysis to predict the next "It City". The model will use the historic population and employments data from cities we know to be popular as the model for the machine learning prediction. 
 
 
 **Team members: Stephanie Paul, Patrick Enlow, McKenzie Kilburn, Andrej Arsovski, Josh Severin, and Cat de Rohan**
-
 
 
 ## Project Background
@@ -13,12 +12,20 @@ The idea of our project started with the question if the next "It City" can be p
 ## Data Exploration
 We researched several datasets to find a dataset we could use to rank top cities to live in. 
 
-The main dataset we will be using is from the US Census Bureau database by County (2010-2019).
+The datasets we will be using are:
+
+Population * Metro Census Data of population change from 2010 to 2019
+https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-metro-and-micro-statistical-areas.htm
+
+Unemployment Rate * Bureau of Labor and Statistics
+https://www.bls.gov/lau/#tables
+
+GDP and Total Employment * Bureau of Economic Analysis
+https://www.bea.gov/
+
 
 We also looked at several other databases and resources when formalizing our project. Some of these included:
 
-* Metro Census Data of population change from 2010 to 2019
-https://www.census.gov/data/datasets/time-series/demo/popest/2010s-total-metro-and-micro-statistical-areas.html
 
 We decided not to use this dataset because we needed to keep data on the same granularity scale. When looking to rank cities we want to keep dataset just to cities for scale and easibility in preparing the data. 
 
@@ -44,11 +51,14 @@ Our technology plan includes:
 **Preparing Data:** 
 Python/Pandas
 
-**ETL:** 
-Mongo DB
+**ETL:**
+Mongo
 
 **Visualization:** 
 Flask and Plotly
+
+**Web App**
+Heroku
 
 
 ## Communication 

@@ -1,0 +1,385 @@
+,GeoFips,GeoName,prediction_2024,employment_prediction_2024_rank
+0,10180,"Abilene, TX (Metropolitan Statistical Area)",1.1446639898871673,177.0
+1,10420,"Akron, OH (Metropolitan Statistical Area)",0.5427189660567597,108.0
+2,10500,"Albany, GA (Metropolitan Statistical Area)",0.7667069293302404,130.0
+3,10540,"Albany-Lebanon, OR (Metropolitan Statistical Area)",2.4583655515600356,305.0
+4,10580,"Albany-Schenectady-Troy, NY (Metropolitan Statistical Area)",1.1866482128627496,182.0
+5,10740,"Albuquerque, NM (Metropolitan Statistical Area)",0.6952481723976618,123.0
+6,10780,"Alexandria, LA (Metropolitan Statistical Area)",-1.272423601059188,11.0
+7,10900,"Allentown-Bethlehem-Easton, PA-NJ (Metropolitan Statistical Area)",1.693471013840039,234.0
+8,11020,"Altoona, PA (Metropolitan Statistical Area)",-0.14772551959890023,53.0
+9,11100,"Amarillo, TX (Metropolitan Statistical Area)",0.31454303399173966,82.0
+10,11180,"Ames, IA (Metropolitan Statistical Area)",0.39552117971138046,93.0
+11,11260,"Anchorage, AK (Metropolitan Statistical Area)",-0.8835317325779215,19.0
+12,11460,"Ann Arbor, MI (Metropolitan Statistical Area)",2.749612879321319,323.0
+13,11500,"Anniston-Oxford, AL (Metropolitan Statistical Area)",-1.0744996955524755,14.0
+14,11540,"Appleton, WI (Metropolitan Statistical Area)",1.128273833622636,175.0
+15,11700,"Asheville, NC (Metropolitan Statistical Area)",2.69844639401137,322.0
+16,12020,"Athens-Clarke County, GA (Metropolitan Statistical Area)",2.150736735639832,280.0
+17,12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",3.610788268946351,361.0
+18,12100,"Atlantic City-Hammonton, NJ (Metropolitan Statistical Area)",-0.4230061985142868,38.0
+19,12220,"Auburn-Opelika, AL (Metropolitan Statistical Area)",2.057376041558996,270.0
+20,12260,"Augusta-Richmond County, GA-SC (Metropolitan Statistical Area)",2.2624042409370304,288.0
+21,12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",5.524649241142015,383.0
+22,12540,"Bakersfield, CA (Metropolitan Statistical Area)",1.6707792135194381,231.0
+23,12580,"Baltimore-Columbia-Towson, MD (Metropolitan Statistical Area)",1.5478429921358838,218.0
+24,12620,"Bangor, ME (Metropolitan Statistical Area)",0.4721544966315747,103.0
+25,12700,"Barnstable Town, MA (Metropolitan Statistical Area)",1.3737180647406362,200.0
+26,12940,"Baton Rouge, LA (Metropolitan Statistical Area)",0.6917593989463313,122.0
+27,12980,"Battle Creek, MI (Metropolitan Statistical Area)",0.3753522250137564,89.0
+28,13020,"Bay City, MI (Metropolitan Statistical Area)",0.39641030806330946,94.0
+29,13140,"Beaumont-Port Arthur, TX (Metropolitan Statistical Area)",0.5832421826542831,110.0
+30,13220,"Beckley, WV (Metropolitan Statistical Area)",-0.9705584256752786,16.0
+31,13380,"Bellingham, WA (Metropolitan Statistical Area)",1.2583454714595774,189.0
+32,13460,"Bend, OR (Metropolitan Statistical Area)",3.4233179403096017,355.0
+33,13740,"Billings, MT (Metropolitan Statistical Area)",0.4769534216790561,104.0
+34,13780,"Binghamton, NY (Metropolitan Statistical Area)",-0.30653142462676186,44.0
+35,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",1.7021328131692428,235.0
+36,13900,"Bismarck, ND (Metropolitan Statistical Area)",0.27689021914068235,76.0
+37,13980,"Blacksburg-Christiansburg, VA (Metropolitan Statistical Area) *",1.0378510621885084,166.0
+38,14010,"Bloomington, IL (Metropolitan Statistical Area)",-0.3890579969786643,41.0
+39,14020,"Bloomington, IN (Metropolitan Statistical Area)",1.0979768258359073,173.0
+40,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",-0.5573532670471479,31.0
+41,14260,"Boise City, ID (Metropolitan Statistical Area)",3.916036913338502,371.0
+42,14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",3.5088498919797075,359.0
+43,14500,"Boulder, CO (Metropolitan Statistical Area) *",5.487809056409105,382.0
+44,14540,"Bowling Green, KY (Metropolitan Statistical Area)",2.0450131836697665,269.0
+45,14740,"Bremerton-Silverdale-Port Orchard, WA (Metropolitan Statistical Area)",1.4407678180282062,203.0
+46,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",0.7825617437041625,133.0
+47,15180,"Brownsville-Harlingen, TX (Metropolitan Statistical Area)",0.7750635663350636,131.0
+48,15260,"Brunswick, GA (Metropolitan Statistical Area)",1.4662227455160064,206.0
+49,15380,"Buffalo-Cheektowaga, NY (Metropolitan Statistical Area)",1.1876253342404368,183.0
+50,15500,"Burlington, NC (Metropolitan Statistical Area)",2.9178708272225435,336.0
+51,15540,"Burlington-South Burlington, VT (Metropolitan Statistical Area)",1.3155829001572101,195.0
+52,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",0.17035590927486055,69.0
+53,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",1.5812674854619786,222.0
+54,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",2.538750620354321,311.0
+55,16020,"Cape Girardeau, MO-IL (Metropolitan Statistical Area)",0.3490777463863086,87.0
+56,16060,"Carbondale-Marion, IL (Metropolitan Statistical Area)",0.23223307464740195,73.0
+57,16180,"Carson City, NV (Metropolitan Statistical Area)",1.077493770130019,167.0
+58,16220,"Casper, WY (Metropolitan Statistical Area)",-1.2928847457024517,10.0
+59,16300,"Cedar Rapids, IA (Metropolitan Statistical Area)",0.9123512228173354,150.0
+60,16540,"Chambersburg-Waynesboro, PA (Metropolitan Statistical Area)",0.16116577383522213,68.0
+61,16580,"Champaign-Urbana, IL (Metropolitan Statistical Area)",0.990182530725491,161.0
+62,16620,"Charleston, WV (Metropolitan Statistical Area)",-1.5070848738837128,9.0
+63,16700,"Charleston-North Charleston, SC (Metropolitan Statistical Area)",3.5319412279697247,360.0
+64,16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",3.8484114922098627,369.0
+65,16820,"Charlottesville, VA (Metropolitan Statistical Area) *",2.4525914164238145,304.0
+66,16860,"Chattanooga, TN-GA (Metropolitan Statistical Area)",2.6736399245723987,320.0
+67,16940,"Cheyenne, WY (Metropolitan Statistical Area)",1.2502662697237668,188.0
+68,16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",1.8211440221441535,247.0
+69,17020,"Chico, CA (Metropolitan Statistical Area)",1.3347011969167397,197.0
+70,17140,"Cincinnati, OH-KY-IN (Metropolitan Statistical Area)",2.175862954155832,281.0
+71,17300,"Clarksville, TN-KY (Metropolitan Statistical Area)",0.9128191531331282,151.0
+72,17420,"Cleveland, TN (Metropolitan Statistical Area)",2.4456193540175377,303.0
+73,17460,"Cleveland-Elyria, OH (Metropolitan Statistical Area)",1.9044330299666115,254.0
+74,17660,"Coeur d'Alene, ID (Metropolitan Statistical Area)",1.7340896935978805,241.0
+75,17780,"College Station-Bryan, TX (Metropolitan Statistical Area)",3.4240363360457593,356.0
+76,17820,"Colorado Springs, CO (Metropolitan Statistical Area)",3.103734928453747,345.0
+77,17860,"Columbia, MO (Metropolitan Statistical Area)",1.3244107460354313,196.0
+78,17900,"Columbia, SC (Metropolitan Statistical Area)",2.0156594389435867,264.0
+79,17980,"Columbus, GA-AL (Metropolitan Statistical Area)",0.7191117359972488,126.0
+80,18020,"Columbus, IN (Metropolitan Statistical Area)",2.1946892338833948,283.0
+81,18140,"Columbus, OH (Metropolitan Statistical Area)",2.911316439123823,335.0
+82,18580,"Corpus Christi, TX (Metropolitan Statistical Area)",0.8677732796243518,146.0
+83,18700,"Corvallis, OR (Metropolitan Statistical Area)",2.4210952738462765,300.0
+84,18880,"Crestview-Fort Walton Beach-Destin, FL (Metropolitan Statistical Area)",1.495461491424166,209.0
+85,19060,"Cumberland, MD-WV (Metropolitan Statistical Area)",-0.586031831156177,29.0
+86,19100,"Dallas-Fort Worth-Arlington, TX (Metropolitan Statistical Area)",4.258333359077085,375.0
+87,19140,"Dalton, GA (Metropolitan Statistical Area)",-0.028380244818713152,61.0
+88,19180,"Danville, IL (Metropolitan Statistical Area)",-1.093795039443414,13.0
+89,19300,"Daphne-Fairhope-Foley, AL (Metropolitan Statistical Area)",2.874483795955623,331.0
+90,19340,"Davenport-Moline-Rock Island, IA-IL (Metropolitan Statistical Area)",0.34163988600103323,84.0
+91,19430,"Dayton-Kettering, OH (Metropolitan Statistical Area)",2.271182180737867,290.0
+92,19460,"Decatur, AL (Metropolitan Statistical Area)",2.0147303765858737,262.0
+93,19500,"Decatur, IL (Metropolitan Statistical Area)",-0.42745621506604436,37.0
+94,19660,"Deltona-Daytona Beach-Ormond Beach, FL (Metropolitan Statistical Area)",1.5706774218926753,221.0
+95,19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",4.220113583152056,373.0
+96,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",2.0155311350233944,263.0
+97,19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",3.0510000703343394,340.0
+98,20020,"Dothan, AL (Metropolitan Statistical Area)",0.4835484153168208,107.0
+99,20100,"Dover, DE (Metropolitan Statistical Area)",1.0029477150481512,162.0
+100,20220,"Dubuque, IA (Metropolitan Statistical Area)",0.41851649681871095,97.0
+101,20260,"Duluth, MN-WI (Metropolitan Statistical Area)",0.4521094242676291,100.0
+102,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",3.257251134316107,348.0
+103,20700,"East Stroudsburg, PA (Metropolitan Statistical Area)",-0.46078495463433455,35.0
+104,20740,"Eau Claire, WI (Metropolitan Statistical Area)",0.7836874077894755,134.0
+105,20940,"El Centro, CA (Metropolitan Statistical Area)",-0.6979570836350035,27.0
+106,21060,"Elizabethtown-Fort Knox, KY (Metropolitan Statistical Area)",-0.04065691629686796,58.0
+107,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",2.5945323424547837,313.0
+108,21300,"Elmira, NY (Metropolitan Statistical Area)",-0.09923514004265144,57.0
+109,21340,"El Paso, TX (Metropolitan Statistical Area)",1.6890424437282405,233.0
+110,21420,"Enid, OK (Metropolitan Statistical Area)",-1.8090800545982688,5.0
+111,21500,"Erie, PA (Metropolitan Statistical Area)",0.045277643145166024,63.0
+112,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",1.841622231338505,251.0
+113,21780,"Evansville, IN-KY (Metropolitan Statistical Area)",1.1500189334128095,178.0
+114,21820,"Fairbanks, AK (Metropolitan Statistical Area) *",-1.2208423626085505,12.0
+115,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",1.6370352724719694,226.0
+116,22140,"Farmington, NM (Metropolitan Statistical Area)",-2.896444370272093,1.0
+117,22180,"Fayetteville, NC (Metropolitan Statistical Area)",-0.036063477825251766,59.0
+118,22220,"Fayetteville-Springdale-Rogers, AR (Metropolitan Statistical Area)",2.507942602265909,308.0
+119,22380,"Flagstaff, AZ (Metropolitan Statistical Area)",0.4154137532015625,96.0
+120,22420,"Flint, MI (Metropolitan Statistical Area)",1.5089946880230514,210.0
+121,22500,"Florence, SC (Metropolitan Statistical Area)",2.143651389047818,279.0
+122,22520,"Florence-Muscle Shoals, AL (Metropolitan Statistical Area)",1.0052153433357347,163.0
+123,22540,"Fond du Lac, WI (Metropolitan Statistical Area)",1.5281752114320568,215.0
+124,22660,"Fort Collins, CO (Metropolitan Statistical Area)",3.812755161866164,368.0
+125,22900,"Fort Smith, AR-OK (Metropolitan Statistical Area)",-0.11544603819436006,56.0
+126,23060,"Fort Wayne, IN (Metropolitan Statistical Area)",2.400303525474669,298.0
+127,23420,"Fresno, CA (Metropolitan Statistical Area)",2.8028999666367156,325.0
+128,23460,"Gadsden, AL (Metropolitan Statistical Area)",0.34326602976848974,85.0
+129,23540,"Gainesville, FL (Metropolitan Statistical Area)",2.3774293169267082,296.0
+130,23580,"Gainesville, GA (Metropolitan Statistical Area)",3.2851015150945955,349.0
+131,23900,"Gettysburg, PA (Metropolitan Statistical Area)",0.23140063457654492,72.0
+132,24020,"Glens Falls, NY (Metropolitan Statistical Area)",-0.7727310169109103,24.0
+133,24140,"Goldsboro, NC (Metropolitan Statistical Area)",0.30972100249363876,81.0
+134,24220,"Grand Forks, ND-MN (Metropolitan Statistical Area)",-0.41422471887273105,39.0
+135,24260,"Grand Island, NE (Metropolitan Statistical Area)",0.346136843834536,86.0
+136,24300,"Grand Junction, CO (Metropolitan Statistical Area)",-0.14859354302959105,52.0
+137,24340,"Grand Rapids-Kentwood, MI (Metropolitan Statistical Area)",3.906071373047155,370.0
+138,24420,"Grants Pass, OR (Metropolitan Statistical Area)",1.5634057177124205,219.0
+139,24500,"Great Falls, MT (Metropolitan Statistical Area)",0.2126147587323679,70.0
+140,24540,"Greeley, CO (Metropolitan Statistical Area) *",3.6422356284086703,363.0
+141,24580,"Green Bay, WI (Metropolitan Statistical Area)",0.9257208838173341,153.0
+142,24660,"Greensboro-High Point, NC (Metropolitan Statistical Area)",1.5645456117781293,220.0
+143,24780,"Greenville, NC (Metropolitan Statistical Area)",0.7801578941702729,132.0
+144,24860,"Greenville-Anderson, SC (Metropolitan Statistical Area)",3.6254464121090564,362.0
+145,25060,"Gulfport-Biloxi, MS (Metropolitan Statistical Area)",1.2060716444606214,185.0
+146,25180,"Hagerstown-Martinsburg, MD-WV (Metropolitan Statistical Area)",0.46936585119607344,102.0
+147,25220,"Hammond, LA (Metropolitan Statistical Area)",-0.28141726416890833,46.0
+148,25260,"Hanford-Corcoran, CA (Metropolitan Statistical Area)",0.2217296693921753,71.0
+149,25420,"Harrisburg-Carlisle, PA (Metropolitan Statistical Area)",1.4506428361544579,204.0
+150,25500,"Harrisonburg, VA (Metropolitan Statistical Area) *",1.7034675510712134,236.0
+151,25540,"Hartford-East Hartford-Middletown, CT (Metropolitan Statistical Area)",0.8236052599700727,140.0
+152,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",0.8050366313147492,137.0
+153,25860,"Hickory-Lenoir-Morganton, NC (Metropolitan Statistical Area)",2.6857485365924276,321.0
+154,25940,"Hilton Head Island-Bluffton, SC (Metropolitan Statistical Area)",2.527055934649468,310.0
+155,25980,"Hinesville, GA (Metropolitan Statistical Area)",-0.7103542926405453,25.0
+156,26140,"Homosassa Springs, FL (Metropolitan Statistical Area)",-0.20123213950739682,50.0
+157,26300,"Hot Springs, AR (Metropolitan Statistical Area)",0.3931659516845514,91.0
+158,26380,"Houma-Thibodaux, LA (Metropolitan Statistical Area)",-2.728828740747531,2.0
+159,26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",2.941868586276925,337.0
+160,26580,"Huntington-Ashland, WV-KY-OH (Metropolitan Statistical Area)",-0.4524662750963131,36.0
+161,26620,"Huntsville, AL (Metropolitan Statistical Area)",2.030674009219119,266.0
+162,26820,"Idaho Falls, ID (Metropolitan Statistical Area)",2.2929671567973884,292.0
+163,26900,"Indianapolis-Carmel-Anderson, IN (Metropolitan Statistical Area)",2.888151959511532,333.0
+164,26980,"Iowa City, IA (Metropolitan Statistical Area)",0.5575097279827901,109.0
+165,27060,"Ithaca, NY (Metropolitan Statistical Area)",-0.6913509777227205,28.0
+166,27100,"Jackson, MI (Metropolitan Statistical Area)",1.179513041393193,181.0
+167,27140,"Jackson, MS (Metropolitan Statistical Area)",0.47700350372754485,105.0
+168,27180,"Jackson, TN (Metropolitan Statistical Area)",1.712698447363607,237.0
+169,27260,"Jacksonville, FL (Metropolitan Statistical Area)",3.394433950732349,353.0
+170,27340,"Jacksonville, NC (Metropolitan Statistical Area)",-1.5649632791063368,8.0
+171,27500,"Janesville-Beloit, WI (Metropolitan Statistical Area)",1.8713872848854578,252.0
+172,27620,"Jefferson City, MO (Metropolitan Statistical Area)",0.6842920464220867,121.0
+173,27740,"Johnson City, TN (Metropolitan Statistical Area)",0.5988018983962835,114.0
+174,27780,"Johnstown, PA (Metropolitan Statistical Area)",-1.7791385549865595,6.0
+175,27860,"Jonesboro, AR (Metropolitan Statistical Area)",3.0892593872215457,343.0
+176,27900,"Joplin, MO (Metropolitan Statistical Area)",0.5968336067020985,113.0
+177,27980,"Kahului-Wailuku-Lahaina, HI (Metropolitan Statistical Area)",1.5403226931025102,217.0
+178,28020,"Kalamazoo-Portage, MI (Metropolitan Statistical Area)",2.2361027147117056,287.0
+179,28100,"Kankakee, IL (Metropolitan Statistical Area)",1.1050692971327862,174.0
+180,28140,"Kansas City, MO-KS (Metropolitan Statistical Area)",2.0778508268795974,271.0
+181,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",2.0824473608018508,274.0
+182,28660,"Killeen-Temple, TX (Metropolitan Statistical Area)",0.4488214620484996,99.0
+183,28700,"Kingsport-Bristol, TN-VA (Metropolitan Statistical Area) *",0.1159374268245621,65.0
+184,28740,"Kingston, NY (Metropolitan Statistical Area)",0.7448637588138922,129.0
+185,28940,"Knoxville, TN (Metropolitan Statistical Area)",1.2842844625125558,193.0
+186,29020,"Kokomo, IN (Metropolitan Statistical Area)",1.5827141462386862,223.0
+187,29100,"La Crosse-Onalaska, WI-MN (Metropolitan Statistical Area)",0.8127675172524889,138.0
+188,29180,"Lafayette, LA (Metropolitan Statistical Area)",-0.7093454037299693,26.0
+189,29200,"Lafayette-West Lafayette, IN (Metropolitan Statistical Area)",2.6719298350305962,319.0
+190,29340,"Lake Charles, LA (Metropolitan Statistical Area)",4.239267817497023,374.0
+191,29420,"Lake Havasu City-Kingman, AZ (Metropolitan Statistical Area)",-0.29186889329895394,45.0
+192,29460,"Lakeland-Winter Haven, FL (Metropolitan Statistical Area)",2.958040134764019,339.0
+193,29540,"Lancaster, PA (Metropolitan Statistical Area)",2.181374665624361,282.0
+194,29620,"Lansing-East Lansing, MI (Metropolitan Statistical Area)",1.4770974159955017,207.0
+195,29700,"Laredo, TX (Metropolitan Statistical Area)",0.3697280966628682,88.0
+196,29740,"Las Cruces, NM (Metropolitan Statistical Area)",-0.5538629836030395,32.0
+197,29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",2.1196951444578644,277.0
+198,29940,"Lawrence, KS (Metropolitan Statistical Area)",2.4341695803009884,302.0
+199,30020,"Lawton, OK (Metropolitan Statistical Area)",-0.3952454370381844,40.0
+200,30140,"Lebanon, PA (Metropolitan Statistical Area)",0.413571684736155,95.0
+201,30300,"Lewiston, ID-WA (Metropolitan Statistical Area)",0.9214449466769992,152.0
+202,30340,"Lewiston-Auburn, ME (Metropolitan Statistical Area)",0.7028800123436554,125.0
+203,30460,"Lexington-Fayette, KY (Metropolitan Statistical Area)",1.8262926600013714,248.0
+204,30620,"Lima, OH (Metropolitan Statistical Area)",0.6460457957822427,120.0
+205,30700,"Lincoln, NE (Metropolitan Statistical Area)",1.514053875254561,212.0
+206,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",0.8427895382101838,143.0
+207,30860,"Logan, UT-ID (Metropolitan Statistical Area)",1.960747329462336,257.0
+208,30980,"Longview, TX (Metropolitan Statistical Area)",-0.007158434529429769,62.0
+209,31020,"Longview, WA (Metropolitan Statistical Area)",2.51254996942248,309.0
+210,31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",3.1220020532139756,346.0
+211,31140,"Louisville/Jefferson County, KY-IN (Metropolitan Statistical Area)",2.4890396768617222,307.0
+212,31180,"Lubbock, TX (Metropolitan Statistical Area)",2.8686368829435764,330.0
+213,31340,"Lynchburg, VA (Metropolitan Statistical Area) *",0.9722920889628526,158.0
+214,31420,"Macon-Bibb County, GA (Metropolitan Statistical Area)",1.260773111039569,190.0
+215,31460,"Madera, CA (Metropolitan Statistical Area)",0.8429264292459493,144.0
+216,31540,"Madison, WI (Metropolitan Statistical Area)",1.8401496558307429,250.0
+217,31700,"Manchester-Nashua, NH (Metropolitan Statistical Area)",1.8082042143993817,245.0
+218,31740,"Manhattan, KS (Metropolitan Statistical Area)",-0.13400877050290205,54.0
+219,31860,"Mankato, MN (Metropolitan Statistical Area)",0.9375266994819402,154.0
+220,31900,"Mansfield, OH (Metropolitan Statistical Area)",0.3805556520340758,90.0
+221,32580,"McAllen-Edinburg-Mission, TX (Metropolitan Statistical Area)",0.5920853399373982,112.0
+222,32780,"Medford, OR (Metropolitan Statistical Area)",1.5196521551406903,214.0
+223,32820,"Memphis, TN-MS-AR (Metropolitan Statistical Area)",1.6520127951283143,228.0
+224,32900,"Merced, CA (Metropolitan Statistical Area)",1.9993945096855867,260.0
+225,33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",3.7968784154640787,366.0
+226,33140,"Michigan City-La Porte, IN (Metropolitan Statistical Area)",0.2946459843718685,79.0
+227,33220,"Midland, MI (Metropolitan Statistical Area)",1.09417278828208,171.0
+228,33260,"Midland, TX (Metropolitan Statistical Area)",4.971862055452348,379.0
+229,33340,"Milwaukee-Waukesha, WI (Metropolitan Statistical Area)",1.3809749906570232,201.0
+230,33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",1.9770244365961673,259.0
+231,33540,"Missoula, MT (Metropolitan Statistical Area)",1.7167601751214363,238.0
+232,33660,"Mobile, AL (Metropolitan Statistical Area)",0.6228554813391813,117.0
+233,33700,"Modesto, CA (Metropolitan Statistical Area)",2.662778077966294,317.0
+234,33740,"Monroe, LA (Metropolitan Statistical Area)",0.11788681377295873,66.0
+235,33780,"Monroe, MI (Metropolitan Statistical Area)",0.9634938469487508,156.0
+236,33860,"Montgomery, AL (Metropolitan Statistical Area)",-0.2415253439889966,48.0
+237,34060,"Morgantown, WV (Metropolitan Statistical Area)",0.6339769841565328,118.0
+238,34100,"Morristown, TN (Metropolitan Statistical Area)",2.236002992006547,286.0
+239,34580,"Mount Vernon-Anacortes, WA (Metropolitan Statistical Area)",1.663757621931893,229.0
+240,34620,"Muncie, IN (Metropolitan Statistical Area)",1.6674083347970168,230.0
+241,34740,"Muskegon, MI (Metropolitan Statistical Area)",0.4279523979026507,98.0
+242,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC (Metropolitan Statistical Area)",2.0025214844203703,261.0
+243,34900,"Napa, CA (Metropolitan Statistical Area)",2.671688480330573,318.0
+244,34940,"Naples-Marco Island, FL (Metropolitan Statistical Area)",3.0902034084592316,344.0
+245,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN (Metropolitan Statistical Area)",4.761401065434484,377.0
+246,35100,"New Bern, NC (Metropolitan Statistical Area)",-0.3342149674736987,43.0
+247,35300,"New Haven-Milford, CT (Metropolitan Statistical Area)",0.8268671299164083,142.0
+248,35380,"New Orleans-Metairie, LA (Metropolitan Statistical Area)",3.3468490454554285,351.0
+249,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",2.7609566268108097,324.0
+250,35660,"Niles, MI (Metropolitan Statistical Area)",0.9701493216391555,157.0
+251,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",2.6029674055307908,315.0
+252,35980,"Norwich-New London, CT (Metropolitan Statistical Area)",-0.8419017151351795,22.0
+253,36100,"Ocala, FL (Metropolitan Statistical Area)",1.0959688450367935,172.0
+254,36140,"Ocean City, NJ (Metropolitan Statistical Area)",0.5886647033849357,111.0
+255,36220,"Odessa, TX (Metropolitan Statistical Area)",3.9269800745469468,372.0
+256,36260,"Ogden-Clearfield, UT (Metropolitan Statistical Area)",2.945785008149983,338.0
+257,36420,"Oklahoma City, OK (Metropolitan Statistical Area)",1.8136562279153736,246.0
+258,36500,"Olympia-Lacey-Tumwater, WA (Metropolitan Statistical Area)",2.1140687186143765,276.0
+259,36540,"Omaha-Council Bluffs, NE-IA (Metropolitan Statistical Area)",1.828766284856556,249.0
+260,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",4.4063860034929405,376.0
+261,36780,"Oshkosh-Neenah, WI (Metropolitan Statistical Area)",0.6422424170963161,119.0
+262,36980,"Owensboro, KY (Metropolitan Statistical Area)",0.7841220567894709,135.0
+263,37100,"Oxnard-Thousand Oaks-Ventura, CA (Metropolitan Statistical Area)",1.0801801639449629,169.0
+264,37340,"Palm Bay-Melbourne-Titusville, FL (Metropolitan Statistical Area)",3.052283130001058,341.0
+265,37460,"Panama City, FL (Metropolitan Statistical Area)",-0.886860620774371,18.0
+266,37620,"Parkersburg-Vienna, WV (Metropolitan Statistical Area)",-1.036654221954251,15.0
+267,37860,"Pensacola-Ferry Pass-Brent, FL (Metropolitan Statistical Area)",2.858586586139296,328.0
+268,37900,"Peoria, IL (Metropolitan Statistical Area)",-0.8664427018782135,21.0
+269,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",2.0798610637915544,272.0
+270,38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",2.865851124738896,329.0
+271,38220,"Pine Bluff, AR (Metropolitan Statistical Area)",-1.646841684645338,7.0
+272,38300,"Pittsburgh, PA (Metropolitan Statistical Area)",1.517517532578637,213.0
+273,38340,"Pittsfield, MA (Metropolitan Statistical Area)",0.6112331118943963,116.0
+274,38540,"Pocatello, ID (Metropolitan Statistical Area)",1.3572322609511502,198.0
+275,38860,"Portland-South Portland, ME (Metropolitan Statistical Area)",1.9137372384778075,255.0
+276,38900,"Portland-Vancouver-Hillsboro, OR-WA (Metropolitan Statistical Area)",3.427657960114857,357.0
+277,38940,"Port St. Lucie, FL (Metropolitan Statistical Area)",2.21132283980117,284.0
+278,39100,"Poughkeepsie-Newburgh-Middletown, NY (Metropolitan Statistical Area)",0.9885574198895766,160.0
+279,39150,"Prescott Valley-Prescott, AZ (Metropolitan Statistical Area)",0.6073406159170815,115.0
+280,39300,"Providence-Warwick, RI-MA (Metropolitan Statistical Area)",1.7520391287017674,242.0
+281,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",5.016371930522183,380.0
+282,39380,"Pueblo, CO (Metropolitan Statistical Area)",1.7268077318565815,240.0
+283,39460,"Punta Gorda, FL (Metropolitan Statistical Area)",3.13663454340832,347.0
+284,39540,"Racine, WI (Metropolitan Statistical Area)",0.7291258815053396,127.0
+285,39580,"Raleigh-Cary, NC (Metropolitan Statistical Area)",3.734891145746161,365.0
+286,39660,"Rapid City, SD (Metropolitan Statistical Area)",1.1516773620106626,179.0
+287,39740,"Reading, PA (Metropolitan Statistical Area)",1.5356683465015237,216.0
+288,39820,"Redding, CA (Metropolitan Statistical Area)",0.8764602463618871,148.0
+289,39900,"Reno, NV (Metropolitan Statistical Area)",3.3569441627444405,352.0
+290,40060,"Richmond, VA (Metropolitan Statistical Area) *",2.2709027543704963,289.0
+291,40140,"Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",2.217270893014792,285.0
+292,40220,"Roanoke, VA (Metropolitan Statistical Area) *",0.46230828013140624,101.0
+293,40340,"Rochester, MN (Metropolitan Statistical Area)",1.1593480022672864,180.0
+294,40380,"Rochester, NY (Metropolitan Statistical Area)",1.2766255138279803,192.0
+295,40420,"Rockford, IL (Metropolitan Statistical Area)",0.3943312110478132,92.0
+296,40580,"Rocky Mount, NC (Metropolitan Statistical Area)",0.0838244809429014,64.0
+297,40660,"Rome, GA (Metropolitan Statistical Area)",1.3036138323185185,194.0
+298,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",2.5996754248926948,314.0
+299,40980,"Saginaw, MI (Metropolitan Statistical Area)",1.2491804392036556,187.0
+300,41060,"St. Cloud, MN (Metropolitan Statistical Area)",0.8264800055603718,141.0
+301,41100,"St. George, UT (Metropolitan Statistical Area)",2.5655505863209385,312.0
+302,41140,"St. Joseph, MO-KS (Metropolitan Statistical Area)",-0.37591127418299664,42.0
+303,41180,"St. Louis, MO-IL (Metropolitan Statistical Area)",1.4518759494279152,205.0
+304,41420,"Salem, OR (Metropolitan Statistical Area)",2.2939247461248726,293.0
+305,41500,"Salinas, CA (Metropolitan Statistical Area)",2.882136963534549,332.0
+306,41540,"Salisbury, MD-DE (Metropolitan Statistical Area)",1.3687327416611625,199.0
+307,41620,"Salt Lake City, UT (Metropolitan Statistical Area)",3.689288132574802,364.0
+308,41660,"San Angelo, TX (Metropolitan Statistical Area)",1.3885684863856227,202.0
+309,41700,"San Antonio-New Braunfels, TX (Metropolitan Statistical Area)",3.337921567455453,350.0
+310,41740,"San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",2.420909587749577,299.0
+311,41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",4.795957779977016,378.0
+312,41940,"San Jose-Sunnyvale-Santa Clara, CA (Metropolitan Statistical Area)",6.252163738952504,384.0
+313,42020,"San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",1.9735023382669539,258.0
+314,42100,"Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)",2.9050605174953716,334.0
+315,42140,"Santa Fe, NM (Metropolitan Statistical Area)",-0.7792083826360283,23.0
+316,42200,"Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)",2.336150497272797,295.0
+317,42220,"Santa Rosa-Petaluma, CA (Metropolitan Statistical Area)",3.0811522621148697,342.0
+318,42340,"Savannah, GA (Metropolitan Statistical Area)",2.483149503013408,306.0
+319,42540,"Scranton--Wilkes-Barre, PA (Metropolitan Statistical Area)",0.9003632380832443,149.0
+320,42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",3.8007228505634316,367.0
+321,42680,"Sebastian-Vero Beach, FL (Metropolitan Statistical Area)",1.5923828840653584,224.0
+322,42700,"Sebring-Avon Park, FL (Metropolitan Statistical Area)",-0.5007677036838345,34.0
+323,43100,"Sheboygan, WI (Metropolitan Statistical Area)",1.015119428656348,164.0
+324,43300,"Sherman-Denison, TX (Metropolitan Statistical Area)",2.8558441861658252,327.0
+325,43340,"Shreveport-Bossier City, LA (Metropolitan Statistical Area)",-0.911849893386659,17.0
+326,43420,"Sierra Vista-Douglas, AZ (Metropolitan Statistical Area)",-2.1832948037371693,4.0
+327,43580,"Sioux City, IA-NE-SD (Metropolitan Statistical Area)",1.0807302752899943,170.0
+328,43620,"Sioux Falls, SD (Metropolitan Statistical Area)",2.0272392419776395,265.0
+329,43780,"South Bend-Mishawaka, IN-MI (Metropolitan Statistical Area)",1.9436642003298914,256.0
+330,43900,"Spartanburg, SC (Metropolitan Statistical Area)",5.219374338069088,381.0
+331,44060,"Spokane-Spokane Valley, WA (Metropolitan Statistical Area)",2.1391862364361884,278.0
+332,44100,"Springfield, IL (Metropolitan Statistical Area)",0.8687675360963283,147.0
+333,44140,"Springfield, MA (Metropolitan Statistical Area)",2.286094651542129,291.0
+334,44180,"Springfield, MO (Metropolitan Statistical Area)",1.1879753004998275,184.0
+335,44220,"Springfield, OH (Metropolitan Statistical Area)",0.7295566957000403,128.0
+336,44300,"State College, PA (Metropolitan Statistical Area)",-0.5182288638892487,33.0
+337,44420,"Staunton, VA (Metropolitan Statistical Area) *",1.238943666491565,186.0
+338,44700,"Stockton, CA (Metropolitan Statistical Area)",3.442384505460268,358.0
+339,44940,"Sumter, SC (Metropolitan Statistical Area)",1.0800054106508128,168.0
+340,45060,"Syracuse, NY (Metropolitan Statistical Area)",0.6967379635703423,124.0
+341,45220,"Tallahassee, FL (Metropolitan Statistical Area)",2.4230853632301432,301.0
+342,45300,"Tampa-St. Petersburg-Clearwater, FL (Metropolitan Statistical Area)",3.4162128798390086,354.0
+343,45460,"Terre Haute, IN (Metropolitan Statistical Area)",-0.155969336123839,51.0
+344,45500,"Texarkana, TX-AR (Metropolitan Statistical Area)",0.12144696329583837,67.0
+345,45540,"The Villages, FL (Metropolitan Statistical Area)",-0.8712373871696855,20.0
+346,45780,"Toledo, OH (Metropolitan Statistical Area)",1.6415225463065042,227.0
+347,45820,"Topeka, KS (Metropolitan Statistical Area)",0.8212583088637473,139.0
+348,45940,"Trenton-Princeton, NJ (Metropolitan Statistical Area)",2.0371507271217695,268.0
+349,46060,"Tucson, AZ (Metropolitan Statistical Area)",1.0151784213787423,165.0
+350,46140,"Tulsa, OK (Metropolitan Statistical Area)",1.753603734118343,243.0
+351,46220,"Tuscaloosa, AL (Metropolitan Statistical Area)",2.032280197479878,267.0
+352,46300,"Twin Falls, ID (Metropolitan Statistical Area)",1.8053851797784652,244.0
+353,46340,"Tyler, TX (Metropolitan Statistical Area)",0.7965406868496814,136.0
+354,46520,"Urban Honolulu, HI (Metropolitan Statistical Area)",0.2983732774399641,80.0
+355,46540,"Utica-Rome, NY (Metropolitan Statistical Area)",0.2872664994912242,78.0
+356,46660,"Valdosta, GA (Metropolitan Statistical Area)",0.26285251422945066,75.0
+357,46700,"Vallejo, CA (Metropolitan Statistical Area)",2.6507241762064098,316.0
+358,47020,"Victoria, TX (Metropolitan Statistical Area)",0.31668240693601746,83.0
+359,47220,"Vineland-Bridgeton, NJ (Metropolitan Statistical Area)",-0.20316318009734857,49.0
+360,47260,"Virginia Beach-Norfolk-Newport News, VA-NC (Metropolitan Statistical Area) *",0.9769948821007901,159.0
+361,47300,"Visalia, CA (Metropolitan Statistical Area)",1.72012349088304,239.0
+362,47380,"Waco, TX (Metropolitan Statistical Area)",2.081417337721035,273.0
+363,47460,"Walla Walla, WA (Metropolitan Statistical Area)",1.2627848963364272,191.0
+364,47580,"Warner Robins, GA (Metropolitan Statistical Area)",1.131342040968704,176.0
+365,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV (Metropolitan Statistical Area) *",1.6790944156535978,232.0
+366,47940,"Waterloo-Cedar Falls, IA (Metropolitan Statistical Area)",-0.11758849516100156,55.0
+367,48060,"Watertown-Fort Drum, NY (Metropolitan Statistical Area)",-2.4571724651155478,3.0
+368,48140,"Wausau-Weston, WI (Metropolitan Statistical Area)",0.4831611555734412,106.0
+369,48260,"Weirton-Steubenville, WV-OH (Metropolitan Statistical Area)",-0.5627316434730005,30.0
+370,48300,"Wenatchee, WA (Metropolitan Statistical Area)",1.4828670031231508,208.0
+371,48540,"Wheeling, WV-OH (Metropolitan Statistical Area)",-0.2700928781320897,47.0
+372,48620,"Wichita, KS (Metropolitan Statistical Area)",1.511791256743038,211.0
+373,48660,"Wichita Falls, TX (Metropolitan Statistical Area)",0.9470653643064963,155.0
+374,48700,"Williamsport, PA (Metropolitan Statistical Area)",-0.032101223560372816,60.0
+375,48900,"Wilmington, NC (Metropolitan Statistical Area)",2.3865907157512902,297.0
+376,49020,"Winchester, VA-WV (Metropolitan Statistical Area) *",1.612672257210182,225.0
+377,49180,"Winston-Salem, NC (Metropolitan Statistical Area)",2.105351429794297,275.0
+378,49340,"Worcester, MA-CT (Metropolitan Statistical Area)",2.3212776725551976,294.0
+379,49420,"Yakima, WA (Metropolitan Statistical Area)",1.8809747493973248,253.0
+380,49620,"York-Hanover, PA (Metropolitan Statistical Area)",0.8442617721031995,145.0
+381,49660,"Youngstown-Warren-Boardman, OH-PA (Metropolitan Statistical Area)",0.28499444951978603,77.0
+382,49700,"Yuba City, CA (Metropolitan Statistical Area)",2.833319315699356,326.0
+383,49740,"Yuma, AZ (Metropolitan Statistical Area)",0.2368936156704251,74.0

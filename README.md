@@ -60,9 +60,13 @@ Flask and Plotly
 **Web App:**
 Heroku
 
+**Presentation:**
+https://docs.google.com/presentation/d/1hDRkBLbo_e6D-0roOfvdUls_1-utlWcHfgddTy63qJM/edit
+
 
 ## Communication 
 Our team will be using Discord to communication and Zoom for meetings and collaboration. We will also be using [Trello](https://trello.com/metrognomes) to organize and prioritize our tasks.
 
 We also have a google doc for additional note taking, project updates, and status for each time we meet.
 https://docs.google.com/spreadsheets/d/11tBE4anY_8wx0iDraOMmek-0PlKdWVXFqECHaIlFleM/edit#gid=0
+

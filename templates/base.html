@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.23/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/select/1.3.1/css/select.dataTables.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
+    <!-- Use this to set favicon, otherwise you might get a 404 error -->
+    <link rel="shortcut icon" href="static/images/gnome.svg">
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+        crossorigin=""></script>
+    <!-- d3 JavaScript -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <title>{{ title }}</title>
+</head>
+
+<body>
+    <div class="header">
+        &nbsp;&nbsp;&nbsp;<a href="/index" class="text-white">Home</a>&nbsp;&nbsp;&nbsp;<a href="/table" class="text-white">Table</a>&nbsp;&nbsp;&nbsp;<a href="/map" class="text-white">Map</a>
+    </div>
+
+    {% block main_content %}
+
+    {% endblock %}
+</body>
+<!-- <script type="text/javascript" src="{{ url_for('static', filename='js/config.js') }}"></script> -->
+<!-- Our JavaScript -->
+</html>

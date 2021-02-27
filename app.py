@@ -29,7 +29,7 @@ def go_home():
 #-----------------------------------------------------------------
 @app.route('/index')
 def index():
-    return render_template('index.html', title="MSA Prediction Model")
+    return render_template('index.html', title="Metro Area Projection Model")
 #-----------------------------------------------------------------
 @app.route('/table')
 def table():

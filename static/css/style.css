@@ -5,7 +5,8 @@ body,
   height: 100%;
   padding: 0;
   margin: 0;
-  background-color: rgb(241, 238, 238);
+  background-color: rgb(153, 152, 152);
+  
 }
 
 .navbar {
@@ -30,12 +31,17 @@ tr:nth-child(odd) {
   width: 120px;
   height: 100%; 
   background-color: rgb(31, 31, 31);
+  background-image: url(../images/city_lights.jpg);
 }
 
 .little-icon {
   width: 43px; 
   border: 2px solid black; 
-  background-color: rgb(247, 245, 245); 
+  background-color: #e3e3e4; 
   padding: 2px; 
   border-radius: 7px;
+}
+
+hr {
+  border-top: 1px dotted rgb(172, 173, 173);
 }

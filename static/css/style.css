@@ -5,6 +5,11 @@ body,
   height: 100%;
   padding: 0;
   margin: 0;
+  background-color: rgb(241, 238, 238);
+}
+
+.navbar {
+  background-color: rgb(83, 83, 83);
 }
 
 table {
@@ -12,10 +17,17 @@ table {
 }
 
 th {
-  background-color: rgb(124, 230, 230);
+  background-color: rgb(172, 173, 173);
   text-align: left;
 }
 
 tr:nth-child(odd) {
   background-color: #f2f2f2;
+}
+
+.sidebar { 
+  position: absolute; 
+  width: 120px;
+  height: 100%; 
+  background-color: rgb(31, 31, 31);
 }

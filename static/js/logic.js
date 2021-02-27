@@ -25,8 +25,8 @@ let baseMaps = {
 // Create the map object with center, zoom level and default layer.
 let map = L.map('mapid', {
   center: [37.1, -95.7],
-  zoom: 4,
-  layers: [streets]
+  zoom: 5,
+  layers: [dark]
 })
 
 // Create a style for the lines.

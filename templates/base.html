@@ -25,17 +25,21 @@
 
 <body>
     <nav class="navbar navbar-expand-sm navbar-dark">
-        <a href="#" class="navbar-brand"><img src="{{ url_for('static', filename='images/MetroGnomes_small.png') }}" class="img-fluid" alt="MetroGnomes Logo"></a>
+        <a href="#" class="navbar-brand"><img src="{{ url_for('static', filename='images/MetroGnomics_small.png') }}" class="img-fluid" alt="MetroGnomes Logo"></a>
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarRightMenu">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarRightMenu">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a href="#" class="nav-link">Github</a>
+                    <a href="https://github.com/penlow99/FinalProject_BusinessFormation" class="nav-link" target="_blank">
+                        <img src="{{ url_for('static', filename='images/GitHub-Mark-64px.png') }}" class="img-fluid little-icon" alt="GitHub Repository">
+                    </a>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="nav-link">Google Slides</a>
+                    <a href="https://docs.google.com/presentation/d/1hDRkBLbo_e6D-0roOfvdUls_1-utlWcHfgddTy63qJM/edit?usp=sharing" class="nav-link" target="_blank">
+                        <img src="{{ url_for('static', filename='images/google_slides.png') }}" class="img-fluid little-icon" alt="Google Slides Presentation">
+                    </a>
                 </li>             
             </ul>
         </div> 
@@ -75,7 +79,11 @@
             </main>
         </div>
     </div>
-    
+    <footer class="footer">
+        <div class="navbar fixed-bottom navbar-dark bg-dark" style="text-align: center; display:inline-block; float: none; vertical-align: top;">
+            <span class="text-muted">powered by the fine folk at MetroGnomes</span>
+        </div>
+    </footer>
     
 </body>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

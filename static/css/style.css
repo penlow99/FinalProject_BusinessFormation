@@ -13,6 +13,11 @@ body,
   background-color: rgb(83, 83, 83);
 }
 
+main {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
 table {
   border: 0;
 }
@@ -26,12 +31,13 @@ tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
 
-.sidebar { 
-  position: absolute; 
-  width: 120px;
+.sidebar {  
+  width: 130px;
   height: 100%; 
   background-color: rgb(31, 31, 31);
   background-image: url(../images/city_lights.jpg);
+  position: fixed;
+  padding-top: 65px;
 }
 
 .little-icon {

@@ -24,7 +24,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-sm navbar-dark">
+    <nav class="navbar fixed-top navbar-expand-sm navbar-dark">
         <a href="#" class="navbar-brand"><img src="{{ url_for('static', filename='images/MetroGnomics_small.png') }}" class="img-fluid" alt="MetroGnomes Logo"></a>
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarRightMenu">
             <span class="navbar-toggler-icon"></span>
@@ -70,11 +70,11 @@
                     </div>
                 </div>
             </nav>
-            <main role="main" class="col-md-11 ml-md-auto px-4 main">
+            <main role="main" class="col-lg-11 col-md-10 ml-md-auto main">
                 <br>
-                    {% block main_content %}
+                        {% block main_content %}
 
-                    {% endblock %}
+                        {% endblock %}
             </main>
         </div>
     </div>

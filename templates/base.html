@@ -56,19 +56,19 @@
                         <ul class="navbar-nav">
                             <hr>
                             <li class="nav-item">
-                                <a href="/index" class="nav-link">Dashboard</a>
+                                <a href="/index" class="nav-link" id="index">Dashboard</a>
                                 <hr>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">Comparison</a>
+                                <a href="#" class="nav-link" id="comparison">Comparison</a>
                                 <hr>
                             </li>
                             <li class="nav-item">
-                                <a href="/table" class="nav-link">Projections</a>
+                                <a href="/table" class="nav-link" id="table">Projections</a>
                                 <hr>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">About</a>
+                                <a href="#" class="nav-link" id="about">About</a>
                             </li>
                         </ul>
                     </div>
@@ -92,4 +92,21 @@
 
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+<script>
+    function setActiveLink(){
+        var pages = ['index','table','comparison','about'];
+        arrayLength = pages.length;
+        var currentPageArray = document.location.href.split('/');
+        var currentPage = currentPageArray[currentPageArray.length - 1];
+        
+        for (var i = 0; i < arrayLength; i++) {
+            document.getElementById(pages[i]).style["fontWeight"] = 'normal';
+        }
+
+        document.getElementById(currentPage).style.fontWeight = 'bolder';
+        document.getElementById(currentPage).style.color = '#b3b5b6';
+    }
+
+    window.onload = setActiveLink();
+</script>
 </html>

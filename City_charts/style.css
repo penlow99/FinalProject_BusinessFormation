@@ -1,0 +1,23 @@
+body {
+
+    color: #0c0c0c;
+    background-color: rgb(219, 221, 221);
+  }
+.jumbotron {
+    background-image: url("skyline.png");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(3, 3, 3);
+  }
+#MSA1 {
+background-color: steelblue;
+ }
+#MSA2 {
+background-color: tan;
+}
+#MSA3 {
+  background-color: thistle;
+} 
+#MSA4 {
+  background-color: tomato;
+}

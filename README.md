@@ -23,6 +23,14 @@ The datasets we will be using are:
 **GDP and Total Employment** Bureau of Economic Analysis
 - https://www.bea.gov/
 
+**Labor Force**
+
+**Wages**
+
+**Business Applications**
+
+**Consumer price index**
+
 
 We also looked at several other databases and resources when formalizing our project. Some of these included:
 

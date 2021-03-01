@@ -18,8 +18,8 @@ let dark = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/dark-v10/tiles/{
 
 // Create a base layer that holds both maps.
 let baseMaps = {
-  Dark: dark,
-  Street: streets
+  "<span style='color: black'>Dark</span>": dark,
+  "<span style='color: black'>Street</span>": streets
 };
 
 // Create the map object with center, zoom level and default layer.

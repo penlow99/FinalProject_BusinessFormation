@@ -107,3 +107,7 @@ table.dataTable tbody tr.selected {
 label {
   color: #b3b5b6 !important;
 }
+
+.leaflet-control-layers-toggle{ 
+  color:#000 ;
+}

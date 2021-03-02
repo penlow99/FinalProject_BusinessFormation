@@ -1,5 +1,3 @@
-// Add console.log to check to see if our code is working.
-console.log("working");
 
 // We create the tile layer that will be the background of our map.
 let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}', {
@@ -47,24 +45,6 @@ L.control.layers(baseMaps).addTo(map);
 // Load up the MSA geojson data
 let MSAjson = "https://raw.githubusercontent.com/penlow99/Mapping_MSA/main/MSA_geo.geojson"
 
-var counter = 0
-var NewList = []
-
-// get values dumped into hidden fields in html
-var data_dump = document.getElementById('hidden_data').value
-var cbsa_dump = document.getElementById('hidden_cbsa').value
-var emergent_dump = document.getElementById('hidden_emergent').value
-// separate into arrays
-var arrayData = data_dump.split('||');
-var arrayCBSA = cbsa_dump.split('||')
-var msaYes = emergent_dump.split('||')
-console.log(msaYes)
-// use two arrays to build dictionary with CBSA as key
-dict = {}
-for(var i = 0; i < arrayData.length; i++) {
-  dict[arrayCBSA[i]] = arrayData[i];
-}
-
 // Grabbing our GeoJSON data.
 d3.json(MSAjson).then(function(data) {
 // Creating a GeoJSON layer with the retrieved data.
@@ -73,8 +53,7 @@ d3.json(MSAjson).then(function(data) {
       if (feature.properties.lsad === "M1") return true
     },
     style: function(feature) {
-      if (msaYes.includes(feature.properties.cbsafp)) {
-        NewList.push(feature.properties.cbsafp)
+      if (emergent_array.includes(Number(feature.properties.cbsafp))) {
         return yesIt;
       } else {
         return noIt;
@@ -82,43 +61,47 @@ d3.json(MSAjson).then(function(data) {
     },
     onEachFeature: function(feature, layer) {
       let cbsa = feature.properties.cbsafp;
-      layer.bindPopup(build_html(feature.properties.name, cbsa, dict[cbsa]));
+      layer.bindPopup(build_html(cbsa));
     }
   }).addTo(map);
-//console.log(NewList)
 });
 
-function build_html(msa_name, cbsa, ranks) {
-  var arrRanks = ranks.split('|')
-  var html = `
-  <h5>`  + msa_name + `</h5>
-  <table>
-    <tr>
-        <td>CBSA : </td>
-        <td>` + cbsa + `</td>
-    </tr>
-    <tr>
-        <td>Population ROC Rank : </td>
-        <td>` + arrRanks[0] + `</td>
-    </tr>
-    <tr>
-        <td>Unemployment ROC Rank : </td>
-        <td>` + arrRanks[1] + `</td>
-    </tr>
-    <tr>
-        <td>Employment ROC Rank : </td>
-        <td>` + arrRanks[2] + `</td>
-    </tr>
-    <tr>
-        <td>GDP ROC Rank : </td>
-        <td>` + arrRanks[3] + `</td>
-    </tr>
-    <tr>
-        <td>Rank Total : </td>
-        <td>` + arrRanks[4] + `</td>
-    </tr>
-  </table>
-  `
+//---------------------------------------------------------------------------------------
+function build_html(cbsa) {
+  try {
+    var html = `
+    <h5>`  + data_dict['MSA'][cbsa] + `</h5>
+    <table>
+      <tr>
+          <td>CBSA : </td>
+          <td>` + cbsa + `</td>
+      </tr>
+      <tr>
+          <td>Population ROC : </td>
+          <td>` + data_dict['2024_Pop_ROC'][cbsa].toFixed(2) + `</td>
+      </tr>
+      <tr>
+          <td>Unemployment ROC : </td>
+          <td>` + data_dict['2024_Unem_ROC'][cbsa].toFixed(2) + `</td>
+      </tr>
+      <tr>
+          <td>Employment ROC : </td>
+          <td>` + data_dict['2024_Emp_ROC'][cbsa].toFixed(2) + `</td>
+      </tr>
+      <tr>
+          <td>GDP ROC : </td>
+          <td>` + data_dict['2024_GDP_ROC'][cbsa].toFixed(2) + `</td>
+      </tr>
+      <tr>
+          <td>Total Score : </td>
+          <td>` + data_dict['Total_Score'][cbsa] + `</td>
+      </tr>
+    </table>
+    `
+  }
+  catch (err) {
+    console.log('Problem child is: ' + cbsa + ' -- ' + data_dict['MSA'][cbsa])
+  }
   return html
 }
-
+//---------------------------------------------------------------------------------------

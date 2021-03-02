@@ -20,8 +20,9 @@ def go_home():
 #-----------------------------------------------------------------
 @app.route('/index')
 def index():
-    cbsa_string, data_string, emergent_string = functions.get_map_data()
-    return render_template('index.html', title="Metro Area Projection Model", cbsa=cbsa_string, data=data_string, emergent=emergent_string)
+    emergent_table, df_table = functions.get_map_data()
+    df_table.set_index(str('CBSA'), inplace=True)
+    return render_template('index.html', title="Metro Area Projection Model", emergent=emergent_table.to_list(), data_table=df_table.to_dict())
 #-----------------------------------------------------------------
 @app.route('/table')
 def table():

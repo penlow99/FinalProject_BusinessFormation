@@ -14,34 +14,24 @@ db = client['MSA']
 #-----------------------------------------------------------
 
 def get_map_data():
-    db_data = db.Predicted_2024_ROC_rank_total2
+    db_data = db.arima_2024_ROC_score_total
     # Convert entire collection to Pandas dataframe
     df = pd.DataFrame(list(db_data.find()))
     df.drop(columns=['_id'], inplace=True)
 
     # create the 'Emergent' list
-    df_top = df[['CBSA', 'Rank_Total']].copy()
-    df_top = df_top.sort_values(by=['Rank_Total'])
-    # grab the Top 40
-    ser_top = df_top.iloc[0:39,0]
-    emergent_string = ''
-    for value in ser_top:
-        emergent_string = emergent_string + str(value) + '||'
+    df_top = df[['CBSA', 'Total_Score']].copy()
+    df_top = df_top.sort_values(by=['Total_Score'], ascending=False)
+    # grab the Top 40, and just the first column (CBSA)
+    ser_top = df_top.iloc[0:40,0]
 
-    # create two lists for the javascript
-    cbsa_string = ''
-    data_string = ''
-    for index, row in df.iterrows():
-        cbsa_string = cbsa_string + str(row['CBSA']) + '||'
-        data_string = data_string + str(row['Pop_ROC_Rank']) + '|' + str(row['Unem_ROC_Rank']) + '|' + str(row['Emp_ROC_Rank']) + '|' + str(row['GDP_ROC_Rank']) + '|' + str(row['Rank_Total']) + '||'
-    
-    return cbsa_string, data_string, emergent_string
+    return ser_top, df
 
 #---------------------------------------------------------------------------------------
 
 def get_table_data():
     # Select the collection within the database
-    db_data = db.Predicted_2024_ROC_rank_total2
+    db_data = db.arima_2024_ROC_score_total
     # Convert entire collection to Pandas dataframe
     df = pd.DataFrame(list(db_data.find()))
     df.drop(columns=['_id'], inplace=True)

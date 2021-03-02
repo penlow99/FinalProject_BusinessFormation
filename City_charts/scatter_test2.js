@@ -391,7 +391,6 @@ function buildCharts(sample, sample2, sample3, sample4) {
             return rows.map(function (row) { return row[key]; });
         }
 
-
         var trace = {
             type: "scatter",
             mode: "lines+markers",
@@ -478,30 +477,36 @@ function buildCharts(sample, sample2, sample3, sample4) {
             return rows.map(function (row) { return row[key]; });
         }
 
+        var rank = unpack(rows, 'Rank_Total')
+        var name = unpack(rows, 'NAME')
+
+        var result = rows.reduce(function (result, field, index) {
+            result[name[index]] = field;
+            return result;
+        }, {})
+
+        var x = result[sample]
+        console.log(x)
         var gaugeTrace = {
-            value: 450,
-            transforms: [
-                {
-                    type: 'filter',
-                    target: unpack(rows, 'NAME'),
-                    operation: '=',
-                    value: sample
-                },],
+            title: { text: 'Rank Total', font: { size: 14 } },
+            value: x["Rank_Total"],
             type: "indicator",
             mode: "gauge+number",
             gauge: {
                 axis: { range: [100, 1500] },
-                bar: { color: "black" },
+                bar: { color: "darkorange" },
                 steps: [
-                    { range: [100, 400], color: "red" },
-                    { range: [400, 700], color: "orange" },
-                    { range: [700, 1000], color: "yellow" },
-                    { range: [1000, 1300], color: "lightgreen" },
-                    { range: [1300, 1500], color: "green" }
+                    { range: [100, 800], color: "silver" },
+                    { range: [800, 1500], color: "grey" }
                 ],
-
+                threshold: {
+                    line: { color: "red", width: 4 },
+                    thickness: 0.75,
+                    value: 1200
+                }
             }
         }
+        console.log(gaugeTrace)
         var gaugeData = [gaugeTrace];
 
 
@@ -511,108 +516,145 @@ function buildCharts(sample, sample2, sample3, sample4) {
         // Use Plotly to plot the gauge data and layout.
         Plotly.newPlot("gauge1", gaugeData, gaugeLayout);
     })
+
     // // Create the trace for the gauge chart 2.
-    // Plotly.d3.csv("population_long.csv", function (err, rows) {
+    Plotly.d3.csv("rank.csv", function (err, rows) {
 
-    //     function unpack(rows, key) {
-    //         return rows.map(function (row) { return row[key]; });
-    //     }
+        function unpack(rows, key) {
+            return rows.map(function (row) { return row[key]; });
+        }
 
-    //     var gaugeTrace = {
-    //         value: wfreq,
-    //         type: "indicator",
-    //         mode: "gauge+number",
-    //         title: { text: "MSA 2 Score" },
-    //         gauge: {
-    //             axis: { range: [null, 10] },
-    //             bar: { color: "black" },
-    //             steps: [
-    //                 { range: [0, 2], color: "red" },
-    //                 { range: [2, 4], color: "orange" },
-    //                 { range: [4, 60], color: "yellow" },
-    //                 { range: [6, 8], color: "lightgreen" },
-    //                 { range: [8, 10], color: "green" }
-    //             ],
+        var rank = unpack(rows, 'Rank_Total')
+        var name = unpack(rows, 'NAME')
 
-    //         }
-    //     }
-    //     var gaugeData = [gaugeTrace];
+        var result = rows.reduce(function (result, field, index) {
+            result[name[index]] = field;
+            return result;
+        }, {})
+
+        var x = result[sample2]
+        console.log(x)
+        var gaugeTrace = {
+            title: { text: 'Rank Total', font: { size: 14 } },
+            value: x["Rank_Total"],
+            type: "indicator",
+            mode: "gauge+number",
+            gauge: {
+                axis: { range: [100, 1500] },
+                bar: { color: "darkorange" },
+                steps: [
+                    { range: [100, 800], color: "silver" },
+                    { range: [800, 1500], color: "grey" }
+                ],
+                threshold: {
+                    line: { color: "red", width: 4 },
+                    thickness: 0.75,
+                    value: 1200
+                }
+            }
+        }
+        console.log(gaugeTrace)
+        var gaugeData = [gaugeTrace];
 
 
-    //     // 5. Create the layout for the gauge chart.
-    //     var gaugeLayout = { width: 450, height: 500, margin: { t: 1, b: 1, l: 1, r: 1 }, paper_bgcolor: "aqua", };
+        // Create the layout for the gauge chart.
+        var gaugeLayout = { width: 140, height: 140, margin: { t: 1, b: 1, l: 1, r: 1 }, paper_bgcolor: '#f5f5f5' };
 
-    //     // 6. Use Plotly to plot the gauge data and layout.
-    //     Plotly.newPlot("gauge", gaugeData, gaugeLayout);
-    // })
+        // Use Plotly to plot the gauge data and layout.
+        Plotly.newPlot("gauge2", gaugeData, gaugeLayout);
+    })
     // // 4. Create the trace for the gauge chart 3.
-    // Plotly.d3.csv("population_long.csv", function (err, rows) {
+    Plotly.d3.csv("rank.csv", function (err, rows) {
 
-    //     function unpack(rows, key) {
-    //         return rows.map(function (row) { return row[key]; });
-    //     }
+        function unpack(rows, key) {
+            return rows.map(function (row) { return row[key]; });
+        }
 
-    //     var gaugeTrace = {
-    //         value: wfreq,
-    //         type: "indicator",
-    //         mode: "gauge+number",
-    //         title: { text: "MSA 3 Score" },
-    //         gauge: {
-    //             axis: { range: [null, 10] },
-    //             bar: { color: "black" },
-    //             steps: [
-    //                 { range: [0, 2], color: "red" },
-    //                 { range: [2, 4], color: "orange" },
-    //                 { range: [4, 60], color: "yellow" },
-    //                 { range: [6, 8], color: "lightgreen" },
-    //                 { range: [8, 10], color: "green" }
-    //             ],
+        var rank = unpack(rows, 'Rank_Total')
+        var name = unpack(rows, 'NAME')
 
-    //         }
-    //     }
-    //     var gaugeData = [gaugeTrace];
+        var result = rows.reduce(function (result, field, index) {
+            result[name[index]] = field;
+            return result;
+        }, {})
+
+        var x = result[sample3]
+        console.log(x)
+        var gaugeTrace = {
+            title: { text: 'Rank Total', font: { size: 14 } },
+            value: x["Rank_Total"],
+            type: "indicator",
+            mode: "gauge+number",
+            gauge: {
+                axis: { range: [100, 1500] },
+                bar: { color: "darkorange" },
+                steps: [
+                    { range: [100, 800], color: "silver" },
+                    { range: [800, 1500], color: "grey" }
+                ],
+                threshold: {
+                    line: { color: "red", width: 4 },
+                    thickness: 0.75,
+                    value: 1200
+                }
+            }
+        }
+        console.log(gaugeTrace)
+        var gaugeData = [gaugeTrace];
 
 
-    //     // 5. Create the layout for the gauge chart.
-    //     var gaugeLayout = { width: 450, height: 500, margin: { t: 1, b: 1, l: 1, r: 1 }, paper_bgcolor: "aqua", };
+        // Create the layout for the gauge chart.
+        var gaugeLayout = { width: 140, height: 140, margin: { t: 1, b: 1, l: 1, r: 1 }, paper_bgcolor: '#f5f5f5' };
 
-    //     // 6. Use Plotly to plot the gauge data and layout.
-    //     Plotly.newPlot("gauge", gaugeData, gaugeLayout);
-    // })
+        // Use Plotly to plot the gauge data and layout.
+        Plotly.newPlot("gauge3", gaugeData, gaugeLayout);
+    })
     // // 4. Create the trace for the gauge chart 4.
-    // Plotly.d3.csv("population_long.csv", function (err, rows) {
+    Plotly.d3.csv("rank.csv", function (err, rows) {
 
-    //     function unpack(rows, key) {
-    //         return rows.map(function (row) { return row[key]; });
-    //     }
+        function unpack(rows, key) {
+            return rows.map(function (row) { return row[key]; });
+        }
 
-    //     var gaugeTrace = {
-    //         value: wfreq,
-    //         type: "indicator",
-    //         mode: "gauge+number",
-    //         title: { text: "MSA 4 Score" },
-    //         gauge: {
-    //             axis: { range: [null, 10] },
-    //             bar: { color: "black" },
-    //             steps: [
-    //                 { range: [0, 2], color: "red" },
-    //                 { range: [2, 4], color: "orange" },
-    //                 { range: [4, 60], color: "yellow" },
-    //                 { range: [6, 8], color: "lightgreen" },
-    //                 { range: [8, 10], color: "green" }
-    //             ],
+        var rank = unpack(rows, 'Rank_Total')
+        var name = unpack(rows, 'NAME')
 
-    //         }
-    //     }
-    //     var gaugeData = [gaugeTrace];
+        var result = rows.reduce(function (result, field, index) {
+            result[name[index]] = field;
+            return result;
+        }, {})
+
+        var x = result[sample4]
+        console.log(x)
+        var gaugeTrace = {
+            title: { text: 'Rank Total', font: { size: 14 } },
+            value: x["Rank_Total"],
+            type: "indicator",
+            mode: "gauge+number",
+            gauge: {
+                axis: { range: [100, 1500] },
+                bar: { color: "darkorange" },
+                steps: [
+                    { range: [100, 800], color: "silver" },
+                    { range: [800, 1500], color: "grey" }
+                ],
+                threshold: {
+                    line: { color: "red", width: 4 },
+                    thickness: 0.75,
+                    value: 1200
+                }
+            }
+        }
+        console.log(gaugeTrace)
+        var gaugeData = [gaugeTrace];
 
 
-    //     // 5. Create the layout for the gauge chart.
-    //     var gaugeLayout = { width: 450, height: 500, margin: { t: 1, b: 1, l: 1, r: 1 }, paper_bgcolor: "aqua", };
+        // Create the layout for the gauge chart.
+        var gaugeLayout = { width: 140, height: 140, margin: { t: 1, b: 1, l: 1, r: 1 }, paper_bgcolor: '#f5f5f5' };
 
-    //     // 6. Use Plotly to plot the gauge data and layout.
-    //     Plotly.newPlot("gauge", gaugeData, gaugeLayout);
-    // })
+        // Use Plotly to plot the gauge data and layout.
+        Plotly.newPlot("gauge4", gaugeData, gaugeLayout);
+    })
 
 
 

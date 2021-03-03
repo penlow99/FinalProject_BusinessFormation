@@ -34,12 +34,7 @@ The datasets we will be using are:
 
 We also looked at several other databases and resources when formalizing our project. Some of these included:
 
-
 We decided not to use this dataset because we needed to keep data on the same granularity scale. When looking to rank cities we want to keep dataset just to cities for scale and easibility in preparing the data. 
-
-- https://www.census.gov/library/visualizations/interactive/bfs-annual-state-county.html
-
-Originally we wanted to use this resource that had statistics for new business application at the state and county level to use as a feature in our dataset to measure growth. For the same reason as above we decided to keep all data on the same granularity scale and continued digging for city data. 
 
 Lastly we researched various ranking methodologies and how we could best implement a ranking methodology to dataset. Some research links include
 

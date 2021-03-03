@@ -1,0 +1,99 @@
+{% extends "base.html" %}
+
+{% block main_content %}
+
+<div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Metropolitan Comparison Dashboard</h1>
+        <p>_</p>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="col-md-12 text-center">
+        <h3> Select up to four Metropolitan Statistical Areas (MSAs) and compare historical data</h3>
+      </div>
+    </div>
+    <div class='container'>
+      <div class="row">
+        <div class="col-md-3">
+          <div class="well" style="width:200px;" id='MSA1'>
+            <h5>MSA 1:</h5>
+            <!-- <select id="selDataset"></select> -->
+            <select id="selDataset" onchange="optionChanged1(this.value)" style="width:140px;"></select>
+          </div>
+
+        </div>
+        <div class="col-md-3">
+          <div class="well" style="width:200px;" id='MSA2'>
+            <h5>MSA 2:</h5>
+            <!-- <select id="selDataset"></select> -->
+            <select id="selDataset2" onchange="optionChanged2(this.value)" style="width:140px;"></select>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="well" style="width:200px;" id='MSA3'>
+            <h5>MSA 3:</h5>
+            <!-- <select id="selDataset"></select> -->
+            <select id="selDataset3" onchange="optionChanged3(this.value)" style="width:140px;"></select>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="well" style="width:200px;" id='MSA4'>
+            <h5>MSA 4:</h5>
+            <!-- <select id="selDataset"></select> -->
+            <select id="selDataset4" onchange="optionChanged4(this.value)" style="width:140px;"></select>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='container'>
+      <div class="row">
+        <div class="col-md-3">
+          <div class="well" style="width:200px;">
+            <div id="gauge1"></div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="well" style="width:200px;">
+            <div id="gauge2"></div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="well" style="width:200px;">
+            <div id="gauge3"></div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="well" style="width:200px;">
+            <div id="gauge4"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class='well'>
+        <div id="scatter"></div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class='well'>
+        <div id="scatter2"></div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class='well'>
+        <div id="scatter3"></div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class='well'>
+        <div id="scatter4"></div>
+      </div>
+    </div>
+</div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="comparison.js"></script>
+
+{% endblock %}

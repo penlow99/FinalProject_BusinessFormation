@@ -29,6 +29,14 @@ def table():
     html_table = functions.get_table_data()
     return render_template('table.html', title="MSA Table", table=html_table)
 #-----------------------------------------------------------------
+@app.route('/comparison')
+def comparison():
+    return render_template('comparison.html', title="MSA Comparison")
+#-----------------------------------------------------------------
+@app.route('/about')
+def about():
+    return render_template('about.html', title="About MetroGnomics")
+#-----------------------------------------------------------------
 
 
 # app import check

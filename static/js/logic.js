@@ -27,24 +27,14 @@ let map = L.map('mapid', {
   layers: [dark]
 })
 
-// Create a style for the lines.
-let yesIt = {
-  color: "black",
-  weight: 1,
-  fillColor: "#304FFF"
-}
-let noIt = {
-  color: "black",
-  weight: 1,
-  fillColor: "#FF3730"
-  //fill: false
-}
-
 // Pass our map layers into our layers control and add the layers control to the map.
 L.control.layers(baseMaps).addTo(map);
 
 // Load up the MSA geojson data
 let MSAjson = "https://raw.githubusercontent.com/penlow99/Mapping_MSA/main/MSA_geo.geojson"
+
+// get color scale for heat map colors
+var color_array = chroma.scale(['#3030D3', 'white']).colors(Object.keys(data_dict['MSA']).length)
 
 // Grabbing our GeoJSON data.
 d3.json(MSAjson).then(function(data) {
@@ -53,12 +43,15 @@ d3.json(MSAjson).then(function(data) {
     filter: function(feature) {
       if (feature.properties.lsad === "M1") return true
     },
-    style: function(feature) {
-      if (emergent_array.includes(Number(feature.properties.cbsafp))) {
-        return yesIt;
-      } else {
-        return noIt;
+    style : function(feature) {
+      let cbsa = feature.properties.cbsafp;
+      poly_style = {
+        color: "black",
+        weight: 1,
+        fillColor: color_array[data_dict['index'][cbsa]],
+        fillOpacity: .8
       }
+      return poly_style
     },
     onEachFeature: function(feature, layer) {
       let cbsa = feature.properties.cbsafp;

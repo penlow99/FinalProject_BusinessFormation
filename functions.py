@@ -18,17 +18,13 @@ def get_map_data():
     # Convert entire collection to Pandas dataframe
     df = pd.DataFrame(list(db_data.find()))
     df.drop(columns=['_id'], inplace=True)
+    df = df.sort_values(by=['Total_Score'], ascending=False)
+    df.reset_index(inplace=True, drop=True)
+    df.reset_index(inplace=True)
+    # create the 'Top 10' list
+    df_top10 = df.iloc[0:10]
 
-    # create the 'Emergent' list
-    df_top = df[['CBSA', 'Total_Score', 'MSA']].copy()
-    df_top = df_top.sort_values(by=['Total_Score'], ascending=False)
-    # grab the Top 40, and just the first column (CBSA)
-    ser_top40 = df_top.iloc[0:40,0]
-    # Get Top 10 for bar chart
-    df_top10 = df_top.iloc[0:10]
-    df_top10.reset_index(inplace=True, drop=True)
-
-    return df_top10, ser_top40, df
+    return df_top10, df
 #---------------------------------------------------------------------------------------
 
 def get_table_data():

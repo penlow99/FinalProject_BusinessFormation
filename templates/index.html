@@ -36,9 +36,10 @@
     </div>
     <script>
         var data_dict = {{ data_table|tojson }}
-        var emergent_array = {{ emergent }}
+        console.log(data_dict)
         var top10 = {{ top10|safe }}
     </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/logic.js') }}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/bar_chart.js') }}"></script>
 {% endblock %}

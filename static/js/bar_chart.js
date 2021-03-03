@@ -68,7 +68,7 @@ var myBarChart = new Chart(ctx, {
         },
         maintainAspectRatio: false,
         animation: {
-            duration: 1,
+            duration: 800,
             onComplete: function () {
                 var chartInstance = this.chart,
                     ctx = chartInstance.ctx;

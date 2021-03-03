@@ -55,7 +55,7 @@ Python/Pandas
 Mongo
 
 **Visualization:** 
-Flask and Plotly
+Flask, Plotly, GraphJS
 
 **Web App:**
 Heroku

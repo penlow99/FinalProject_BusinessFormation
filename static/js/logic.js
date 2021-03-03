@@ -31,12 +31,13 @@ let map = L.map('mapid', {
 let yesIt = {
   color: "black",
   weight: 1,
-  fillColor: "blue"
+  fillColor: "#304FFF"
 }
 let noIt = {
   color: "black",
   weight: 1,
-  fillColor: "red"
+  fillColor: "#FF3730"
+  //fill: false
 }
 
 // Pass our map layers into our layers control and add the layers control to the map.
@@ -70,33 +71,35 @@ d3.json(MSAjson).then(function(data) {
 function build_html(cbsa) {
   try {
     var html = `
-    <h5>`  + data_dict['MSA'][cbsa] + `</h5>
-    <table>
-      <tr>
-          <td>CBSA : </td>
-          <td>` + cbsa + `</td>
-      </tr>
-      <tr>
-          <td>Population ROC : </td>
-          <td>` + data_dict['2024_Pop_ROC'][cbsa].toFixed(2) + `</td>
-      </tr>
-      <tr>
-          <td>Unemployment ROC : </td>
-          <td>` + data_dict['2024_Unem_ROC'][cbsa].toFixed(2) + `</td>
-      </tr>
-      <tr>
-          <td>Employment ROC : </td>
-          <td>` + data_dict['2024_Emp_ROC'][cbsa].toFixed(2) + `</td>
-      </tr>
-      <tr>
-          <td>GDP ROC : </td>
-          <td>` + data_dict['2024_GDP_ROC'][cbsa].toFixed(2) + `</td>
-      </tr>
-      <tr>
-          <td>Total Score : </td>
-          <td>` + data_dict['Total_Score'][cbsa] + `</td>
-      </tr>
-    </table>
+    <div>
+      <h6 style="width: 170px; diplay: inline; text-align: center;">`  + data_dict['MSA'][cbsa] + `</h6>
+      <table style="diplay: inline; margin: auto; width: 180px;">
+        <tr>
+            <td>CBSA : </td>
+            <td>` + cbsa + `</td>
+        </tr>
+        <tr>
+            <td>Population ROC : </td>
+            <td>` + data_dict['2024_Pop_ROC'][cbsa].toFixed(2) + `</td>
+        </tr>
+        <tr>
+            <td>Unemployment ROC : </td>
+            <td>` + data_dict['2024_Unem_ROC'][cbsa].toFixed(2) + `</td>
+        </tr>
+        <tr>
+            <td>Employment ROC : </td>
+            <td>` + data_dict['2024_Emp_ROC'][cbsa].toFixed(2) + `</td>
+        </tr>
+        <tr>
+            <td>GDP ROC : </td>
+            <td>` + data_dict['2024_GDP_ROC'][cbsa].toFixed(2) + `</td>
+        </tr>
+        <tr>
+            <td>Total Score : </td>
+            <td>` + data_dict['Total_Score'][cbsa] + `</td>
+        </tr>
+      </table>
+    </div>
     `
   }
   catch (err) {

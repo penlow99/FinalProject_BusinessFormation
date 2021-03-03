@@ -37,6 +37,7 @@
     <script>
         var data_dict = {{ data_table|tojson }}
         var emergent_array = {{ emergent }}
+        var top10 = {{ top10|safe }}
     </script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/logic.js') }}"></script>
     <script type="text/javascript" src="{{ url_for('static', filename='js/bar_chart.js') }}"></script>

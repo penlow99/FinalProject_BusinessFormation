@@ -1,14 +1,23 @@
+
 var ctx = document.getElementById('top10_BarChart').getContext('2d');
 
 Chart.defaults.global.defaultFontColor = '#8C9091';
 
+//round the score values
+var scores = Object.values(top10['Total_Score']);
+let x = 0;
+while (x < scores.length) {
+    scores[x] = Math.round(scores[x]);
+    x++;
+}
+
 var myBarChart = new Chart(ctx, {
     type: 'horizontalBar',
     data: {
-        labels: ['Austin-Roundrock', 'Seattle-Tacoma', 'Dallas-Ft. Worth', 'New York', 'Chicago', 'Nashville', 'Atlanta', 'Phoenix', 'Las Vegas', 'San Francisco'],
+        labels: Object.values(top10['MSA']),
         datasets: [{
             label: 'Ranking Score',
-            data: [120, 115, 107, 101, 92, 83, 74, 68, 65, 62],
+            data: scores,
             backgroundColor: [
                 '#4747C1',
                 '#77C6FF',
@@ -31,14 +40,17 @@ var myBarChart = new Chart(ctx, {
         },
         scales: {
             xAxes: [{
+                scaleLabel: {
+                    display: true,
+                    labelString: 'Total Score'
+                },
                 gridLines: {
                     display: true,
                     drawBorder: true,
                     drawOnChartArea: false
                 },
                 ticks: {
-                    beginAtZero: true,
-                    suggestedMax: 130,
+                    beginAtZero: false,
                     maxTicksLimit: 10,
                     
                 }
@@ -54,7 +66,27 @@ var myBarChart = new Chart(ctx, {
         legend: {
             display: false,
         },
-        maintainAspectRatio: false
+        maintainAspectRatio: false,
+        animation: {
+            duration: 1,
+            onComplete: function () {
+                var chartInstance = this.chart,
+                    ctx = chartInstance.ctx;
+                ctx.font = Chart.helpers.fontString(12, 'bold', Chart.defaults.global.defaultFontFamily);
+                ctx.textAlign = 'center';
+                ctx.textBaseline = 'bottom';
+                ctx
+    
+                this.data.datasets.forEach(function (dataset, i) {
+                    var meta = chartInstance.controller.getDatasetMeta(i);
+                    meta.data.forEach(function (bar, index) {
+                        var data = dataset.data[index];
+                        ctx.fillStyle = "#182023";                            
+                        ctx.fillText(data, bar._model.x - 20, bar._model.y + 7);
+                    });
+                });
+            }
+        }
     }
 });
 

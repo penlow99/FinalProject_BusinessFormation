@@ -15,6 +15,10 @@ body {
   background-color: #182023;
 }
 
+.top-bar {
+  border-bottom: 2px solid #0c0c0c;
+}
+
 main {
   padding-top: 80px;
   padding-bottom: 60px;
@@ -26,6 +30,7 @@ main {
   display:inline-block; 
   float: none; 
   vertical-align: top;
+  border-top: 2px solid #0c0c0c;
 }
 
 table {
@@ -38,7 +43,13 @@ th {
 }
 
 tr:nth-child(odd) {
-  background-color: #f2f2f2;
+  background-color: #2f3133;
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup.tip {
+  background-color: #182023;
+  color: #b3b5b6;
+  border: 2px solid #b3b5b6;
 }
 
 .sidebar {  
@@ -48,11 +59,12 @@ tr:nth-child(odd) {
   background-image: url(../images/city_lights.jpg);
   position: fixed;
   padding-top: 65px;
+  border-right: 2px solid #0c0c0c;
 }
 
 .little-icon {
   width: 43px; 
-  border: 2px solid black; 
+  border: 2px solid 0c0c0c; 
   background-color: #e3e3e4; 
   padding: 2px; 
   border-radius: 7px;
@@ -70,7 +82,7 @@ hr {
 
 #chartContainer {
   position: relative; 
-  width: 500px; 
+  width: 100%; 
   height: 300px;
 }
 

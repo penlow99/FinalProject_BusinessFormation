@@ -9,8 +9,8 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     
-    <!-- Use this to set favicon, otherwise you might get a 404 error -->
-    <link rel="shortcut icon" href="static/images/Gnome_icon.png">
+    <!-- Use this to set the favicon, cuz you gnome you want to -->
+    <link rel="shortcut icon" href="{{ url_for('static', filename='images/garden-gnome-hands.png')}}">
     <!-- Leaflet -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
         integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
@@ -30,7 +30,7 @@
 
 <body>
     <nav class="navbar fixed-top fixed-left navbar-expand-sm navbar-dark top-bar">
-        <a href="#" class="navbar-brand"><img src="{{ url_for('static', filename='images/MetroGnomics_small.png') }}" class="img-fluid" alt="MetroGnomes Logo"></a>
+        <a href="/index" class="navbar-brand"><img src="{{ url_for('static', filename='images/MetroGnomics_small.png') }}" class="img-fluid" alt="MetroGnomes Logo"></a>
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarRightMenu">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -65,7 +65,7 @@
                                 <hr>
                             </li>
                             <li class="nav-item">
-                                <a href="/table" class="nav-link" id="table">Projections</a>
+                                <a href="/table" class="nav-link" id="table">Forecasts</a>
                                 <hr>
                             </li>
                             <li class="nav-item">

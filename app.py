@@ -22,16 +22,16 @@ def go_home():
 def index():
     top10_df, df_table = functions.get_map_data()
     df_table.set_index(str('CBSA'), inplace=True)
-    return render_template('index.html', title="Metro Area Projection Model", top10=top10_df.to_dict(), data_table=df_table.to_dict())
+    return render_template('index.html', title="MetroGnomics Dashboard", top10=top10_df.to_dict(), data_table=df_table.to_dict())
 #-----------------------------------------------------------------
 @app.route('/table')
 def table():
     html_table = functions.get_table_data()
-    return render_template('table.html', title="MSA Table", table=html_table)
+    return render_template('table.html', title="MetroGnomics Forecasts", table=html_table)
 #-----------------------------------------------------------------
 @app.route('/comparison')
 def comparison():
-    return render_template('comparison.html', title="MSA Comparison")
+    return render_template('comparison.html', title="MetroGnomics Comparison")
 #-----------------------------------------------------------------
 @app.route('/about')
 def about():

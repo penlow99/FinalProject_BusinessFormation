@@ -96,6 +96,10 @@ hr {
   width: 95%;
 }
 
+.img-wrapper {
+  padding: 15px;
+}
+
 .table-holder {
   padding-right: 20px;
   position: relative;

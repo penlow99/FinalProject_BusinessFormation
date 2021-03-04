@@ -1,14 +1,14 @@
 
 // We create the tile layer that will be the background of our map.
 let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-        //attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
+        attribution: '©<a href="https://www.openstreetmap.org/">OpenStreetMap</a></a> | ©<a href="https://www.mapbox.com/">Mapbox</a>',
         maxZoom: 18,
         accessToken: 'pk.eyJ1IjoicGVubG93OTkiLCJhIjoiY2tsZDgzOXNpMDF6YTJ1cXBiaXZ6cDl3bCJ9.BJssP1C-Mp7LCPqEQhmOow'
 });
 
 // We create the dark view tile layer that will be an option for our map.
 let dark = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/dark-v10/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-    //attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
+  attribution: '©<a href="https://www.openstreetmap.org/">OpenStreetMap</a></a> | ©<a href="https://www.mapbox.com/">Mapbox</a>',
     maxZoom: 18,
     accessToken: 'pk.eyJ1IjoicGVubG93OTkiLCJhIjoiY2tsZDgzOXNpMDF6YTJ1cXBiaXZ6cDl3bCJ9.BJssP1C-Mp7LCPqEQhmOow'
     // checking
@@ -22,10 +22,20 @@ let baseMaps = {
 
 // Create the map object with center, zoom level and default layer.
 let map = L.map('mapid', {
-  center: [38.93, -98.85],
+  center: [38.65, -98.05],
   zoom: 4,
   layers: [dark]
 })
+
+// add image as legend
+var legend = L.control({position: 'bottomleft'});
+legend.onAdd = function (map) {
+    var div = L.DomUtil.create('div', 'info legend'),
+        labels = [""];
+        div.innerHTML = '<img src="static/images/map_legend.png"></img>'
+    return div;
+};
+legend.addTo(map);
 
 // Pass our map layers into our layers control and add the layers control to the map.
 L.control.layers(baseMaps).addTo(map);
@@ -34,14 +44,15 @@ L.control.layers(baseMaps).addTo(map);
 let MSAjson = "https://raw.githubusercontent.com/penlow99/Mapping_MSA/main/MSA_geo.geojson"
 
 // get color scale for heat map colors
-var color_array = chroma.scale(['#3030D3', 'white']).colors(Object.keys(data_dict['MSA']).length)
+var color_array = chroma.scale(['blue', 'white']).colors(Object.keys(data_dict['MSA']).length)
+//console.log(chroma.scale(['#79D6B2', 'white']).colors(4))
 
 // Grabbing our GeoJSON data.
 d3.json(MSAjson).then(function(data) {
 // Creating a GeoJSON layer with the retrieved data.
   L.geoJson(data, {
     filter: function(feature) {
-      if (feature.properties.lsad === "M1") return true
+      if (data_dict['MSA'][feature.properties.cbsafp]) return true
     },
     style : function(feature) {
       let cbsa = feature.properties.cbsafp;

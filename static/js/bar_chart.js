@@ -1,7 +1,7 @@
 
 var ctx = document.getElementById('top10_BarChart').getContext('2d');
 
-Chart.defaults.global.defaultFontColor = '#8C9091';
+Chart.defaults.global.defaultFontColor = '#b3b5b6';
 
 //round the score values
 var scores = Object.values(top10['Total_Score']);
@@ -12,7 +12,7 @@ while (x < scores.length) {
 }
 
 //var arrColors = ["#3434b5", "#5151c0", "#6e6eca", "#8b8bd5", "#a8a8df", "#c5c5ea", "#e2e2f4", "#ffffff"]
-var arrColors = ["#3434b5", "#5151c0", "#6e6eca", "#8b8bd5", "#79d6b2", "#a6e4cc", "#d2f1e5", "#ffffff"]
+var arrColors = ["#195785", "#3f68a0", "#6E81B5", "#B1B1D3", "#79d6b2", "#a6e4cc", "#d2f1e5", "#ffffff"]
 
 var arrGDP = Object.values(top10['GDP_Score']);
 var arrPop = Object.values(top10['Pop_Score']);

@@ -11,7 +11,6 @@ let dark = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/dark-v10/tiles/{
   attribution: '©<a href="https://www.openstreetmap.org/">OpenStreetMap</a></a> | ©<a href="https://www.mapbox.com/">Mapbox</a>',
     maxZoom: 18,
     accessToken: 'pk.eyJ1IjoicGVubG93OTkiLCJhIjoiY2tsZDgzOXNpMDF6YTJ1cXBiaXZ6cDl3bCJ9.BJssP1C-Mp7LCPqEQhmOow'
-    // checking
 });
 
 // Create a base layer that holds both maps.
@@ -44,8 +43,8 @@ L.control.layers(baseMaps).addTo(map);
 let MSAjson = "https://raw.githubusercontent.com/penlow99/Mapping_MSA/main/MSA_geo.geojson"
 
 // get color scale for heat map colors
-var color_array = chroma.scale(['blue', 'white']).colors(Object.keys(data_dict['MSA']).length)
-//console.log(chroma.scale(['#79D6B2', 'white']).colors(4))
+var color_array = chroma.scale(['#004EC2', '#FFF']).colors(Object.keys(data_dict['MSA']).length)
+//console.log(chroma.scale(['#195785', '#8b8bd5']).colors(4))
 
 // Grabbing our GeoJSON data.
 d3.json(MSAjson).then(function(data) {
@@ -60,7 +59,7 @@ d3.json(MSAjson).then(function(data) {
         color: "black",
         weight: 1,
         fillColor: color_array[data_dict['index'][cbsa]],
-        fillOpacity: .8
+        fillOpacity: .9
       }
       return poly_style
     },

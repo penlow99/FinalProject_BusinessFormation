@@ -64,10 +64,15 @@ tr:nth-child(odd) {
 
 .little-icon {
   width: 43px; 
-  border: 2px solid 0c0c0c; 
+  border: 2px solid #000; 
   background-color: #e3e3e4; 
   padding: 2px; 
   border-radius: 7px;
+}
+
+.little-icon:hover {
+  background-color: #1D68A0; 
+  border: 2px solid #e3e3e4; 
 }
 
 hr {
@@ -131,4 +136,16 @@ label {
 
 .about-page {
   color: #b3b5b6;
+}
+
+.footer-line {
+  color: #909091;
+}
+
+.footer-line:hover .metro-text {
+  color: #EE4323;
+}
+
+.footer-line:hover .gnome-text {
+  color: #195785;
 }

@@ -1,5 +1,5 @@
 body {
-  background-color:#2f3133;
+  background-color:#48494b;
 }
 
 #mapid {
@@ -31,19 +31,6 @@ main {
   float: none; 
   vertical-align: top;
   border-top: 2px solid #0c0c0c;
-}
-
-table {
-  border: 0;
-}
-
-th {
-  background-color: #b3b5b6;
-  text-align: left;
-}
-
-tr:nth-child(odd) {
-  background-color: #2f3133;
 }
 
 .leaflet-popup-content-wrapper, .leaflet-popup.tip {
@@ -82,6 +69,7 @@ hr {
 .main-element {
   background-color: #182023;
   border-radius: 7px;
+  border: 2px solid #0c0c0c;
   padding: 0;
 }
 
@@ -102,13 +90,41 @@ hr {
 }
 
 .img-wrapper {
-  padding: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 7px;
+}
+
+.table-title {
+  text-align: center;
+  color:#e3e3e4;
+}
+
+.table-title-span {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #182023;
+  border: 2px solid #b3b5b6;
+  border-radius: 7px;
+  padding: 10px;
 }
 
 .table-holder {
-  padding-right: 20px;
   position: relative;
+  margin: auto;
 }
+
+table {
+  border: 1px solid #182023;
+}
+
+th {
+  background-color: #182023;
+  color: #b3b5b6;
+  text-align: left;
+  border: 1px solid #b3b5b6;
+}
+
 
 .dataTables_wrapper .dataTables_paginate .paginate_button, .ellipsis {
   color: #b3b5b6 !important;
@@ -122,8 +138,12 @@ hr {
   color: #b3b5b6 !important;
 }
 
+table.dataTable tr.odd { 
+  background-color: rgb(223, 223, 223);
+}
+
 table.dataTable tbody tr.selected {
-  background-color: #77C6FF;
+  background-color: #1D68A0;
 }
 
 label {
@@ -148,4 +168,27 @@ label {
 
 .footer-line:hover .gnome-text {
   color: #195785;
+}
+
+.jumbotron {
+  background-image: url("skyline.png");
+  background-size: 100% 100%;
+  text-align: center;
+  color: rgb(3, 3, 3);
+}
+
+#MSA1 {
+background-color: steelblue;
+}
+
+#MSA2 {
+background-color: tan;
+}
+
+#MSA3 {
+background-color: thistle;
+} 
+
+#MSA4 {
+background-color: tomato;
 }

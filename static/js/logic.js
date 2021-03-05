@@ -75,33 +75,35 @@ function build_html(cbsa) {
   try {
     var html = `
     <div>
-      <h6 style="width: 170px; diplay: inline; text-align: center;">`  + data_dict['MSA'][cbsa] + `</h6>
+      <h6 style="width: 170px; diplay: inline; text-align: center;"><b>`  + data_dict['MSA'][cbsa] + `</b></h6>
       <table style="diplay: inline; margin: auto; width: 180px;">
         <tr>
             <td>CBSA : </td>
             <td>` + cbsa + `</td>
         </tr>
         <tr>
-            <td>Population ROC : </td>
+            <td>Population RoC : </td>
             <td>` + data_dict['2024_Pop_ROC'][cbsa].toFixed(2) + `</td>
         </tr>
         <tr>
-            <td>Unemployment ROC : </td>
-            <td>` + data_dict['2024_Unem_ROC'][cbsa].toFixed(2) + `</td>
-        </tr>
-        <tr>
-            <td>Employment ROC : </td>
-            <td>` + data_dict['2024_Emp_ROC'][cbsa].toFixed(2) + `</td>
-        </tr>
-        <tr>
-            <td>GDP ROC : </td>
+            <td>GDP RoC : </td>
             <td>` + data_dict['2024_GDP_ROC'][cbsa].toFixed(2) + `</td>
+        </tr>
+        <tr>
+            <td>Unemployment : </td>
+            <td>` + data_dict['2024_Unem_Rate'][cbsa].toFixed(2) + `</td>
+        </tr>
+        
+        <tr>
+            <td>Bus. Applicatoins RoC : </td>
+            <td>` + data_dict['2024_Bus_ROC'][cbsa].toFixed(2) + `</td>
         </tr>
         <tr>
             <td>Total Score : </td>
             <td>` + data_dict['Total_Score'][cbsa] + `</td>
         </tr>
       </table>
+      <h6 style="width: 170px; diplay: inline; text-align: center;">Ranking : `  + data_dict['Overall_Rank'][cbsa] + `</h6>
     </div>
     `
   }

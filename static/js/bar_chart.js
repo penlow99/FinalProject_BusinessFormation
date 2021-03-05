@@ -1,4 +1,4 @@
-
+ 
 var ctx = document.getElementById('top10_BarChart').getContext('2d');
 
 Chart.defaults.global.defaultFontColor = '#b3b5b6';
@@ -18,6 +18,10 @@ var arrGDP = Object.values(top10['GDP_Score']);
 var arrPop = Object.values(top10['Pop_Score']);
 var arrUnemp = Object.values(top10['Unem_Score']);
 var arrEmp = Object.values(top10['Emp_Score']);
+var arrAMW = Object.values(top10['AMW_Score']);
+var arrCPI = Object.values(top10['CPI_Score']);
+var arrLP = Object.values(top10['LP_Score']);
+var arrBApp = Object.values(top10['Bus_Score']);
 
 var myBarChart = new Chart(ctx, {
     type: 'horizontalBar',
@@ -42,19 +46,19 @@ var myBarChart = new Chart(ctx, {
           }, {
             label: 'Mean Wage Score',
             backgroundColor: arrColors[4],
-            data: arrGDP
+            data: arrAMW
           }, {
             label: 'CPI Score',
             backgroundColor: arrColors[5],
-            data: arrPop
+            data: arrCPI
           }, {
             label: 'Labor Participation Score',
             backgroundColor: arrColors[6],
-            data: arrUnemp
+            data: arrLP
           }, {
             label: 'Business Applications Score',
             backgroundColor: arrColors[7],
-            data: arrEmp
+            data: arrBApp
           }
         ],
     },
@@ -112,10 +116,13 @@ var myBarChart = new Chart(ctx, {
                     var arrXY = [];
                     meta.data.forEach(function (bar, index) {
                         var data = dataset.data[index];
-                        ctx.fillStyle = "#182023";                          
-                        ctx.fillText(data, bar._model.x - 20, bar._model.y + 7);
+                        ctx.fillStyle = "#182023"; 
+                        if (data > 50) {
+                            ctx.fillText(data, bar._model.x - 20, bar._model.y + 7);
+                        }                         
+                        
                         if (i == 7) {
-                            arrXY.push([bar._model.x + 15, bar._model.y + 7])
+                            arrXY.push([bar._model.x + 20, bar._model.y + 7])
                         }
                     });
                     // set the total at the end of each stack

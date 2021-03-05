@@ -24,20 +24,18 @@ The datasets we will be using are:
 - https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas
 
 **Labor Force**
--https://api.bls.gov/publicAPI/v2/timeseries/data/ 
+- https://api.bls.gov/publicAPI/v2/timeseries/data/ 
 
 **Annual Mean Wage**
--https://www.bls.gov/oes/home.htm
+- https://www.bls.gov/oes/home.htm
 
 **Business Applications**
--https://www.census.gov/library/visualizations/interactive/bfs-annual-state-county.html
+- https://www.census.gov/library/visualizations/interactive/bfs-annual-state-county.html
 
 **Consumer price index**
--https://api.bls.gov/publicAPI/v2/timeseries/data/
+- https://api.bls.gov/publicAPI/v2/timeseries/data/
 
-We also looked at several other databases and resources when formalizing our project. Some of these included:
-
-We decided not to use this dataset because we needed to keep data on the same granularity scale. When looking to rank cities we want to keep dataset just to cities for scale and easibility in preparing the data. 
+We also looked at several other databases and resources when formalizing our project.
 
 Lastly we researched various ranking methodologies and how we could best implement a ranking methodology to dataset. Some research links include
 

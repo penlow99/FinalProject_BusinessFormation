@@ -5,7 +5,7 @@ function init() {
     var selector3 = d3.select("#selDataset3");
     var selector4 = d3.select("#selDataset4");
     //     // Use the list of sample names to populate the select options
-    Plotly.d3.csv("CBSA_code_to_name.csv", function (err, rows) {
+    Plotly.d3.csv("static/csv/CBSA_code_to_name.csv", function (err, rows) {
         function unpack(rows, key) {
             return rows.map(function (row) { return row[key]; });
         }
@@ -21,9 +21,8 @@ function init() {
         });
 
         // Grab a reference to the dropdown select element
-
         //     // Use the list of sample names to populate the select options
-        Plotly.d3.csv("CBSA_code_to_name.csv", function (err, rows) {
+        Plotly.d3.csv("static/csv/CBSA_code_to_name.csv", function (err, rows) {
             function unpack(rows, key) {
                 return rows.map(function (row) { return row[key]; });
             }
@@ -36,11 +35,8 @@ function init() {
                     .property("value", sample2);
             });
 
-
-
-
             //     // Use the list of sample names to populate the select options
-            Plotly.d3.csv("CBSA_code_to_name.csv", function (err, rows) {
+            Plotly.d3.csv("static/csv/CBSA_code_to_name.csv", function (err, rows) {
                 function unpack(rows, key) {
                     return rows.map(function (row) { return row[key]; });
                 }
@@ -53,9 +49,8 @@ function init() {
                         .property("value", sample3);
                 });
 
-
                 //     // Use the list of sample names to populate the select options
-                Plotly.d3.csv("CBSA_code_to_name.csv", function (err, rows) {
+                Plotly.d3.csv("static/csv/CBSA_code_to_name.csv", function (err, rows) {
                     function unpack(rows, key) {
                         return rows.map(function (row) { return row[key]; });
                     }
@@ -66,9 +61,6 @@ function init() {
                             .append("option")
                             .text(sample4)
                             .property("value", sample4);
-
-
-
                     });
 
                     var firstSample = sampleNames[0];
@@ -138,7 +130,7 @@ function rebuildCharts(newSample, newSample2, newSample3, newSample4) {
 // 1. Create the buildCharts function.
 function buildCharts(sample, sample2, sample3, sample4) {
 
-    Plotly.d3.csv("Employment_clean_monthlyV3.csv", function (err, rows) {
+    Plotly.d3.csv("static/csv/Employment_clean_monthlyV3.csv", function (err, rows) {
 
         function unpack(rows, key) {
             return rows.map(function (row) { return row[key]; });
@@ -221,7 +213,7 @@ function buildCharts(sample, sample2, sample3, sample4) {
         };
         Plotly.newPlot('scatter2', data, layout);
     })
-    Plotly.d3.csv("UnemploymentRateMonthly_Avg.csv", function (err, rows) {
+    Plotly.d3.csv("static/csv/UnemploymentRateMonthly_Avg.csv", function (err, rows) {
         function unpack(rows, key) {
             return rows.map(function (row) { return row[key]; });
         }
@@ -302,7 +294,7 @@ function buildCharts(sample, sample2, sample3, sample4) {
 
         Plotly.newPlot('scatter', data, layout);
     })
-    Plotly.d3.csv("GDP_longV5.csv", function (err, rows) {
+    Plotly.d3.csv("static/csv/GDP_longV5.csv", function (err, rows) {
         function unpack(rows, key) {
             return rows.map(function (row) { return row[key]; });
         }
@@ -385,7 +377,7 @@ function buildCharts(sample, sample2, sample3, sample4) {
 
     })
 
-    Plotly.d3.csv("population_longV2.csv", function (err, rows) {
+    Plotly.d3.csv("static/csv/population_longV2.csv", function (err, rows) {
 
         function unpack(rows, key) {
             return rows.map(function (row) { return row[key]; });
@@ -471,7 +463,7 @@ function buildCharts(sample, sample2, sample3, sample4) {
         Plotly.newPlot('scatter4', data, layout);
     })
     //Create the trace for the gauge chart 1.
-    Plotly.d3.csv("rank.csv", function (err, rows) {
+    Plotly.d3.csv("static/csv/rank.csv", function (err, rows) {
 
         function unpack(rows, key) {
             return rows.map(function (row) { return row[key]; });
@@ -518,7 +510,7 @@ function buildCharts(sample, sample2, sample3, sample4) {
     })
 
     // // Create the trace for the gauge chart 2.
-    Plotly.d3.csv("rank.csv", function (err, rows) {
+    Plotly.d3.csv("static/csv/rank.csv", function (err, rows) {
 
         function unpack(rows, key) {
             return rows.map(function (row) { return row[key]; });
@@ -564,7 +556,7 @@ function buildCharts(sample, sample2, sample3, sample4) {
         Plotly.newPlot("gauge2", gaugeData, gaugeLayout);
     })
     // // 4. Create the trace for the gauge chart 3.
-    Plotly.d3.csv("rank.csv", function (err, rows) {
+    Plotly.d3.csv("static/csv/rank.csv", function (err, rows) {
 
         function unpack(rows, key) {
             return rows.map(function (row) { return row[key]; });
@@ -610,7 +602,7 @@ function buildCharts(sample, sample2, sample3, sample4) {
         Plotly.newPlot("gauge3", gaugeData, gaugeLayout);
     })
     // // 4. Create the trace for the gauge chart 4.
-    Plotly.d3.csv("rank.csv", function (err, rows) {
+    Plotly.d3.csv("static/csv/rank.csv", function (err, rows) {
 
         function unpack(rows, key) {
             return rows.map(function (row) { return row[key]; });

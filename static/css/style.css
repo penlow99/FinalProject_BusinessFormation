@@ -172,7 +172,7 @@ label {
 }
 
 .jumbotron {
-  background-image: url("skyline.png");
+  background-image: url("../images/skyline.png");
   background-size: 100% 100%;
   text-align: center;
   color: rgb(3, 3, 3);

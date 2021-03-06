@@ -1,7 +1,7 @@
  
 var ctx = document.getElementById('top10_BarChart').getContext('2d');
 
-Chart.defaults.global.defaultFontColor = '#b3b5b6';
+Chart.defaults.global.defaultFontColor = '#e3e3e4';
 
 //round the score values
 var scores = Object.values(top10['Total_Score']);
@@ -158,3 +158,19 @@ var myBarChart = new Chart(ctx, {
         }
     }
 });
+
+var pattern = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a'];
+var current = 0;
+var keyHandler = function (event) {
+    if (pattern.indexOf(event.key) < 0 || event.key !== pattern[current]) {
+        current = 0;
+        return;
+    }
+    current++;
+    if (pattern.length === current) {
+        current = 0;
+        window.alert('What do you call an elf from the city?');
+        window.alert('A metro-gnome!!!');
+    }
+};
+document.addEventListener('keydown', keyHandler, false);

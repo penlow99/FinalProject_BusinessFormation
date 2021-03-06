@@ -92,7 +92,8 @@ hr {
 .img-wrapper {
   padding-top: 15px;
   padding-bottom: 15px;
-  border-radius: 7px;
+  border-radius: 7px; 
+  margin: auto;
 }
 
 .table-title {
@@ -155,7 +156,7 @@ label {
 }
 
 .about-page {
-  color: #b3b5b6;
+  color: #e3e3e4;
 }
 
 .footer-line {

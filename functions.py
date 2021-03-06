@@ -3,12 +3,8 @@ from pymongo import MongoClient
 import pandas as pd
 import os 
 
-# Create instance of MongoClient
-client = MongoClient()
-# Connection URI
 connStr = os.getenv('MONGO_CONN')
 client = MongoClient(connStr)
-# Select database
 db = client['MSA']
 
 #-----------------------------------------------------------

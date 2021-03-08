@@ -48,7 +48,8 @@ main {
   width: 130px;
   height: 100%; 
   background-color: rgb(31, 31, 31);
-  background-image: url(../images/city_lights.jpg);
+  background-image: url(../images/city_night.png);
+  background-position: 75%;
   position: fixed;
   padding-top: 65px;
   border-right: 2px solid #0c0c0c;

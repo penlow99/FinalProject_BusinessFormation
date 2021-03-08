@@ -116,7 +116,15 @@ var myBarChart = new Chart(ctx, {
                 ctx.font = Chart.helpers.fontString(12, 'bold', Chart.defaults.global.defaultFontFamily);
                 ctx.textAlign = 'center';
                 ctx.textBaseline = 'bottom';
-
+                //find 'unhidden' datasets to find end of stack where total is added
+                var arrLastOne = []
+                this.data.datasets.forEach(function (dataset, i) {
+                    var meta = chartInstance.controller.getDatasetMeta(i);
+                    if (meta.hidden != true) {
+                        arrLastOne.push(i);
+                    } 
+                });
+                //loop through datasets
                 this.data.datasets.forEach(function (dataset, i) {
                     var meta = chartInstance.controller.getDatasetMeta(i);
                     var arrXY = [];
@@ -124,12 +132,12 @@ var myBarChart = new Chart(ctx, {
                         var data = dataset.data[index];
                         ctx.fillStyle = "#182023"; 
                         if (meta.hidden != true) {
+                            //if value is too small, numbers will overlap with next stack in bar
                             if (data > 50) {
                                 ctx.fillText(data, bar._model.x - 20, bar._model.y + 7);
                             }
                         }
-
-                        if (i == 7) {
+                        if (i == arrLastOne[arrLastOne.length - 1]) {
                             arrXY.push([bar._model.x + 20, bar._model.y + 7])
                         }
                     });

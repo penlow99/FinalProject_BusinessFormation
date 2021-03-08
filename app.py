@@ -2,13 +2,10 @@
 from flask import Flask, render_template, url_for, redirect, request
 import functions
 
-
-
 ############################
 ### Initialize flask app ###
 ############################
 app = Flask(__name__)
-
 
 ##############
 ### ROUTES ###
@@ -41,7 +38,6 @@ def about():
     mode = functions.setMode(request.args.get('mode'))
     return render_template('about.html', title="About MetroGnomics", theme=mode)
 #-----------------------------------------------------------------
-
 
 # app import check
 if __name__ == '__main__':

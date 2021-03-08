@@ -48,7 +48,8 @@ body {
   .sidebar {  
     width: 130px;
     height: 100%; 
-    background-image: url(../images/city_day.jpeg);
+    background-image: url(../images/city_day.png);
+    background-position: 75%;
     position: fixed;
     padding-top: 65px;
     border-right: 2px solid #0c0c0c;
@@ -109,6 +110,10 @@ body {
     text-align: center;
     color:#e3e3e4;
   }
+
+  .roc-span {
+    color: var(--elementText);
+  }
   
   .table-title-span {
     font-size: 24px;
@@ -137,15 +142,15 @@ body {
   
   
   .dataTables_wrapper .dataTables_paginate .paginate_button, .ellipsis {
-    color: #b3b5b6 !important;
+    color: var(--elementText) !important;
   }
   
   .dataTables_wrapper .dataTables_length select {
-    color: #b3b5b6 !important;
+    color: var(--elementText) !important;
   }
   
   .dataTables_wrapper .dataTables_filter input {
-    color: #b3b5b6 !important;
+    color: var(--elementText) !important;
   }
   
   table.dataTable tr.odd { 
@@ -157,7 +162,7 @@ body {
   }
   
   label {
-    color: #b3b5b6 !important;
+    color: var(--elementText) !important;
   }
   
   .leaflet-control-layers-toggle{ 

@@ -1,5 +1,5 @@
  
-from flask import Flask, render_template, url_for, redirect
+from flask import Flask, render_template, url_for, redirect, request
 import functions
 
 
@@ -22,20 +22,24 @@ def go_home():
 def index():
     top10_df, df_table = functions.get_map_data()
     df_table.set_index(str('CBSA'), inplace=True)
-    return render_template('index.html', title="MetroGnomics Dashboard", top10=top10_df.to_dict(), data_table=df_table.to_dict())
+    mode = functions.setMode(request.args.get('mode'))
+    return render_template('index.html', title="MetroGnomics Dashboard", top10=top10_df.to_dict(), data_table=df_table.to_dict(), theme=mode)
 #-----------------------------------------------------------------
 @app.route('/table')
 def table():
     html_table = functions.get_table_data()
-    return render_template('table.html', title="MetroGnomics Forecasts", table=html_table)
+    mode = functions.setMode(request.args.get('mode'))
+    return render_template('table.html', title="MetroGnomics Forecasts", table=html_table, theme=mode)
 #-----------------------------------------------------------------
 @app.route('/comparison')
 def comparison():
-    return render_template('comparison.html', title="MetroGnomics Comparison")
+    mode = functions.setMode(request.args.get('mode'))
+    return render_template('comparison.html', title="MetroGnomics Comparison", theme=mode)
 #-----------------------------------------------------------------
 @app.route('/about')
 def about():
-    return render_template('about.html', title="About MetroGnomics")
+    mode = functions.setMode(request.args.get('mode'))
+    return render_template('about.html', title="About MetroGnomics", theme=mode)
 #-----------------------------------------------------------------
 
 

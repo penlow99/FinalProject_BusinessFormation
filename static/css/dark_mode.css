@@ -1,3 +1,8 @@
+:root {
+  --elementBackground: #182023;
+  --elementText: #e3e3e4;
+}
+
 body {
   background-color:#48494b;
 }
@@ -211,5 +216,13 @@ background-color: tomato;
   padding: 15px;
 }
 
+.btn-info {
+  background-color: #a9aaaa !important;
+  color: var(--elementText) !important;
+  border: 1px solid black !important;
+}
 
+.btn-info:hover {
+  background-color: #c9c7c7 !important;
+}
 

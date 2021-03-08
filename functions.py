@@ -41,4 +41,10 @@ def get_table_data():
     html_table = df.to_html(header=True, table_id="table_data", index=False)
 
     return html_table
-    
+#---------------------------------------------------------------------------------------
+
+def setMode(mode):
+    if mode != None:
+        return mode
+    else:
+        return 'dark'    

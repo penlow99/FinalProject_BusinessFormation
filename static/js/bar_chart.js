@@ -1,6 +1,5 @@
  
 var ctx = document.getElementById('top10_BarChart').getContext('2d');
-
 Chart.defaults.global.defaultFontColor = '#e3e3e4';
 
 //round the score values
@@ -99,6 +98,14 @@ var myBarChart = new Chart(ctx, {
         },
         legend: {
             display: true,
+            onClick: function(e, legendItem) {
+                var index = legendItem.datasetIndex;
+                var ci = this.chart;
+                var meta = ci.getDatasetMeta(index);
+                meta.hidden = meta.hidden === null ? !ci.data.datasets[index].hidden : null;
+                // We hid a dataset ... rerender the chart
+                ci.update();
+            }
         },
         maintainAspectRatio: false,
         animation: {
@@ -109,18 +116,19 @@ var myBarChart = new Chart(ctx, {
                 ctx.font = Chart.helpers.fontString(12, 'bold', Chart.defaults.global.defaultFontFamily);
                 ctx.textAlign = 'center';
                 ctx.textBaseline = 'bottom';
-                ctx
-                
+
                 this.data.datasets.forEach(function (dataset, i) {
                     var meta = chartInstance.controller.getDatasetMeta(i);
                     var arrXY = [];
                     meta.data.forEach(function (bar, index) {
                         var data = dataset.data[index];
                         ctx.fillStyle = "#182023"; 
-                        if (data > 50) {
-                            ctx.fillText(data, bar._model.x - 20, bar._model.y + 7);
-                        }                         
-                        
+                        if (meta.hidden != true) {
+                            if (data > 50) {
+                                ctx.fillText(data, bar._model.x - 20, bar._model.y + 7);
+                            }
+                        }
+
                         if (i == 7) {
                             arrXY.push([bar._model.x + 20, bar._model.y + 7])
                         }

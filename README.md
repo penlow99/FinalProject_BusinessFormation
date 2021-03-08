@@ -52,11 +52,11 @@ Lastly we researched various ranking methodologies and how we could best impleme
 ## Technology
 Our technology plan includes:
 
-**Preparing Data:** 
+**ETL:**
 Python/Pandas
 
-**ETL:**
-Mongo
+**Database:**
+MongoDB
 
 **Visualization:** 
 Flask, Plotly, GraphJS

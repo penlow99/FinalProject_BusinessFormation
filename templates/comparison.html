@@ -3,10 +3,10 @@
 {% block main_content %}
 <div class="container">
   <div class="row">
-    <div class="col-md-12 jumbotron text-center" style="height:265px;">
-      <h3> Select up to four Metropolitan Statistical Areas (MSAs) and compare data</h3>
+    <div class="col-md-12 jumbotron text-center">
     </div>
   </div>
+  <h3 class="header-text"> Select up to four Metropolitan Statistical Areas (MSAs) and compare data</h3>
   <div class='container'>
     <div class="row">
       <div class="col-md-3">
@@ -111,6 +111,7 @@
     </div>
   </div>
 </div>
+<input type="hidden" id="rankFile" name="rankFile" value="{{ url_for('static', filename='csv/ranks.csv') }}">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="{{ url_for('static', filename='js/city_comparison.js') }}"></script>

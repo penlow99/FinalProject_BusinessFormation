@@ -209,7 +209,7 @@ Select MSA,0
 "Longview, TX",1551
 "Longview, WA",1990
 "Los Angeles-Long Beach-Anaheim, CA",1926
-"Louisville/Jefferson County, KY-IN",1540
+"Louisville-Jefferson County, KY-IN",1540
 "Lubbock, TX",2191
 "Lynchburg, VA",1669
 "Macon-Bibb County, GA",1170
@@ -243,7 +243,7 @@ Select MSA,0
 "Myrtle Beach-Conway-North Myrtle Beach, SC-NC",1918.5
 "Napa, CA",1719.5
 "Naples-Marco Island, FL",2138.5
-"Nashville-Davidson--Murfreesboro--Franklin, TN",1754
+"Nashville-Davidson-Murfreesboro-Franklin, TN",1754
 "New Bern, NC",1293
 "New Haven-Milford, CT",1154.5
 "New Orleans-Metairie, LA",1005.5
@@ -312,7 +312,7 @@ Select MSA,0
 "Santa Maria-Santa Barbara, CA",1852
 "Santa Rosa-Petaluma, CA",1746
 "Savannah, GA",1823
-"Scranton--Wilkes-Barre, PA",1109.5
+"Scranton-Wilkes-Barre, PA",1109.5
 "Seattle-Tacoma-Bellevue, WA",2586.5
 "Sebastian-Vero Beach, FL",1627.5
 "Sebring-Avon Park, FL",1292

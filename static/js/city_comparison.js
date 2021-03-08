@@ -87,10 +87,7 @@ function init() {
 
 }
 
-
-
-
-
+var rankFile = document.getElementById("rankFile").value
 
 // Initialize the dashboard
 init();
@@ -1012,7 +1009,7 @@ function buildCharts(sample, sample2, sample3, sample4) {
     })
 
     //Create the trace for the gauge chart 1.
-    Plotly.d3.csv("static/csv/rank.csv", function (err, rows) {
+    Plotly.d3.csv(rankFile, function (err, rows) {
 
         function unpack(rows, key) {
             return rows.map(function (row) { return row[key]; });
@@ -1059,7 +1056,7 @@ function buildCharts(sample, sample2, sample3, sample4) {
     })
 
     // // Create the trace for the gauge chart 2.
-    Plotly.d3.csv("static/csv/rank.csv", function (err, rows) {
+    Plotly.d3.csv(rankFile, function (err, rows) {
 
         function unpack(rows, key) {
             return rows.map(function (row) { return row[key]; });
@@ -1106,7 +1103,7 @@ function buildCharts(sample, sample2, sample3, sample4) {
     })
 
     // // 4. Create the trace for the gauge chart 3.
-    Plotly.d3.csv("static/csv/rank.csv", function (err, rows) {
+    Plotly.d3.csv(rankFile, function (err, rows) {
 
         function unpack(rows, key) {
             return rows.map(function (row) { return row[key]; });
@@ -1153,7 +1150,7 @@ function buildCharts(sample, sample2, sample3, sample4) {
     })
 
     // // 4. Create the trace for the gauge chart 4.
-    Plotly.d3.csv("static/csv/rank.csv", function (err, rows) {
+    Plotly.d3.csv(rankFile, function (err, rows) {
 
         function unpack(rows, key) {
             return rows.map(function (row) { return row[key]; });

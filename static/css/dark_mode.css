@@ -132,6 +132,15 @@ th {
   border: 1px solid #b3b5b6;
 }
 
+tr:nth-child(odd) {
+  border-bottom: 1px solid #b3b5b6;
+  border-top: 1px solid #b3b5b6;
+}
+
+tr:nth-child(1) {
+  border-bottom: 1px solid #b3b5b6;
+  border-top: none;
+}
 
 .dataTables_wrapper .dataTables_paginate .paginate_button, .ellipsis {
   color: #b3b5b6 !important;
@@ -163,6 +172,15 @@ label {
 
 .about-page {
   color: #e3e3e4;
+}
+
+.team-pics {
+  border-radius: 15px;
+  border: 2px solid #b3b5b6;
+}
+
+.about-team {
+  text-align: center;
 }
 
 .footer-line {

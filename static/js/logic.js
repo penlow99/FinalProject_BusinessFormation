@@ -97,7 +97,7 @@ function build_html(cbsa) {
         </tr>
         
         <tr>
-            <td>Bus. Applicatoins RoC : </td>
+            <td>Bus. Applications RoC : </td>
             <td>` + data_dict['2024_Bus_ROC'][cbsa].toFixed(2) + `</td>
         </tr>
         <tr>

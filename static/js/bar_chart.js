@@ -10,8 +10,9 @@ while (x < scores.length) {
     x++;
 }
 
-//var arrColors = ["#3434b5", "#5151c0", "#6e6eca", "#8b8bd5", "#a8a8df", "#c5c5ea", "#e2e2f4", "#ffffff"]
-var arrColors = ["#195785", "#3f68a0", "#6E81B5", "#B1B1D3", "#79d6b2", "#a6e4cc", "#d2f1e5", "#ffffff"]
+var arrColors = ["#4168C1", "#627DBC", "#859EDB", "#B1B1D3", "#4BBC8F", "#78CEAC", "#A5DFC8", "#d2f1e5"]
+//var arrColors = ["#4168C1", "#627DBC", "#859EDB", "#B1B1D3", "#79d6b2", "#a6e4cc", "#d2f1e5", "#ffffff"]
+var clickBorderColor = '#FF5230';
 
 var arrGDP = Object.values(top10['GDP_Score']);
 var arrPop = Object.values(top10['Pop_Score']);
@@ -27,53 +28,70 @@ var myBarChart = new Chart(ctx, {
     data: {
         labels: Object.values(top10['MSA']),
         datasets: [{
-            label: 'GDP Score',
+            label: 'GDP',
             backgroundColor: arrColors[0],
-            data: arrGDP
+            data: arrGDP,
+            hoverBorderColor: clickBorderColor,
+            hoverBorderWidth: 1
           }, {
-            label: 'Population Score',
+            label: 'Population',
             backgroundColor: arrColors[1],
-            data: arrPop
+            data: arrPop,
+            hoverBorderColor: clickBorderColor,
+            hoverBorderWidth: 1
           }, {
-            label: 'Unemployment Score',
+            label: 'Unemployment',
             backgroundColor: arrColors[2],
-            data: arrUnemp
+            data: arrUnemp,
+            hoverBorderColor: clickBorderColor,
+            hoverBorderWidth: 1
           }, {
-            label: 'Employment Score',
+            label: 'Employment',
             backgroundColor: arrColors[3],
-            data: arrEmp
+            data: arrEmp,
+            hoverBorderColor: clickBorderColor,
+            hoverBorderWidth: 1
           }, {
-            label: 'Mean Wage Score',
+            label: 'Mean Wage',
             backgroundColor: arrColors[4],
-            data: arrAMW
+            data: arrAMW,
+            hoverBorderColor: clickBorderColor,
+            hoverBorderWidth: 1
           }, {
-            label: 'CPI Score',
+            label: 'CPI',
             backgroundColor: arrColors[5],
-            data: arrCPI
+            data: arrCPI,
+            hoverBorderColor: clickBorderColor,
+            hoverBorderWidth: 1
           }, {
-            label: 'Labor Participation Score',
+            label: 'Labor Participation',
             backgroundColor: arrColors[6],
-            data: arrLP
+            data: arrLP,
+            hoverBorderColor: clickBorderColor,
+            hoverBorderWidth: 1
           }, {
-            label: 'Business Applications Score',
+            label: 'Business Applications',
             backgroundColor: arrColors[7],
-            data: arrBApp
+            data: arrBApp,
+            hoverBorderColor: clickBorderColor,
+            hoverBorderWidth: 1,
+            hoverBackgroundColor: '#F2F2F2'
           }
         ],
     },
     options: {
+        events: ['click'], // only fire events on click
         title: {
             display: true,
             text: 'Top 10 Emergent US Metro Areas',
-            fontSize: 20
+            fontSize: 16
         },
         scales: {
             xAxes: [{
                 scaleLabel: {
                     display: true,
                     labelString: 'Total Score', 
-                    fontColor: '#79D6B2',
-                    fontSize: 18,
+                    fontSize: 12,
                     fontStyle: 'bold'
                 },
                 gridLines: {
@@ -85,7 +103,7 @@ var myBarChart = new Chart(ctx, {
                     beginAtZero: false,
                     maxTicksLimit: 10
                 },
-                stacked: true
+                stacked: true                
             }],
             yAxes: [{
                 gridLines: {
@@ -93,7 +111,8 @@ var myBarChart = new Chart(ctx, {
                     drawBorder: true,
                     drawOnChartArea: false 
                 },
-                stacked: true
+                stacked: true,
+                barPercentage: 1
             }]
         },
         legend: {
@@ -109,7 +128,7 @@ var myBarChart = new Chart(ctx, {
         },
         maintainAspectRatio: false,
         animation: {
-            duration: 850,
+            duration: 950,
             onComplete: function () {
                 var chartInstance = this.chart,
                 ctx = chartInstance.ctx;
@@ -134,25 +153,27 @@ var myBarChart = new Chart(ctx, {
                         if (meta.hidden != true) {
                             //if value is too small, numbers will overlap with next stack in bar
                             if (data > 50) {
-                                ctx.fillText(data, bar._model.x - 20, bar._model.y + 7);
+                                ctx.fillText(data, bar._model.x - 20, bar._model.y + 7.5);
                             }
                         }
                         if (i == arrLastOne[arrLastOne.length - 1]) {
-                            arrXY.push([bar._model.x + 20, bar._model.y + 7])
+                            arrXY.push([bar._model.x + 20, bar._model.y + 7.5])
                         }
                     });
                     // set the total at the end of each stack
                     arrXY.forEach(function (value, i) {
                         //console.log(i, value);
-                        ctx.fillStyle = '#79D6B2';
+                        ctx.fillStyle = 'white';
                         ctx.fillText(scores[i], value[0], value[1]);
                     })                    
                 });
             }
         },
         tooltips: {
+            enabled: false, // turned off for now
             mode: 'label',
-            backgroundColor: '#2f3133',
+            backgroundColor: 'red',
+            opacity: 20,
             callbacks: {
                 label: function(tooltipItem, data) {
                     var measure = data.datasets[tooltipItem.datasetIndex].label;
@@ -169,7 +190,7 @@ var myBarChart = new Chart(ctx, {
                     } else { // .. else, you display the dataset and the total, using an array
                         return [measure + " : " + data_value, "Total : " + total];
                     }
-                }
+                },
             }
         }
     }

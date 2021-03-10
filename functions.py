@@ -44,7 +44,7 @@ def get_table_data():
 #---------------------------------------------------------------------------------------
 
 def setMode(mode):
-    if mode != None:
+    if (mode != None) and (mode == 'light'):
         return mode
     else:
         return 'dark'    

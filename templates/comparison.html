@@ -1,0 +1,119 @@
+{% extends "base.html" %}
+
+{% block main_content %}
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 jumbotron text-center">
+    </div>
+  </div>
+  <h3 class="header-text"> Select up to four Metropolitan Statistical Areas (MSAs) and compare data</h3>
+  <div class='container'>
+    <div class="row">
+      <div class="col-md-3">
+        <div class="card comparison-select-card" id='MSA1'>
+          <h3>MSA 1:</h3>
+          <!-- <select id="selDataset"></select> -->
+          <select id="selDataset" onchange="optionChanged1(this.value)"></select>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card comparison-select-card" id='MSA2'>
+          <h3>MSA 2:</h3>
+          <!-- <select id="selDataset"></select> -->
+          <select id="selDataset2" onchange="optionChanged2(this.value)"></select>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card comparison-select-card" id='MSA3'>
+          <h3>MSA 3:</h3>
+          <!-- <select id="selDataset"></select> -->
+          <select id="selDataset3" onchange="optionChanged3(this.value)"></select>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card comparison-select-card" id='MSA4'>
+          <h3>MSA 4:</h3>
+          <!-- <select id="selDataset"></select> -->
+          <select id="selDataset4" onchange="optionChanged4(this.value)"></select>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='container'>
+    <div class="row">
+      <div class="col-md-3">
+        <div class="card">
+          <h4>Total Score</h4>
+          <div id="gauge1"></div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card">
+          <h4>Total Score</h4>
+          <div id="gauge2"></div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card">
+          <h4>Total Score</h4>
+          <div id="gauge3"></div>
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="card">
+          <h4>Total Score</h4>
+          <div id="gauge4"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 card">
+      <div class='well'>
+        <div id="scatter"></div>
+      </div>
+    </div>
+    <div class="col-md-6 card">
+      <div class='well'>
+        <div id="scatter2"></div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 card">
+      <div class='well'>
+        <div id="scatter3"></div>
+      </div>
+    </div>
+    <div class="col-md-6 card">
+      <div class='well'>
+        <div id="scatter4"></div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 card">
+      <div class='well'>
+        <div id="scatter5"></div>
+      </div>
+    </div>
+    <div class="col-md-6 card">
+      <div class='well'>
+        <div id="scatter6"></div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 card">
+      <div class='well'>
+        <div id="scatter7"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<input type="hidden" id="rankFile" name="rankFile" value="{{ url_for('static', filename='csv/ranks.csv') }}">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="{{ url_for('static', filename='js/city_comparison.js') }}"></script>
+
+{% endblock %}

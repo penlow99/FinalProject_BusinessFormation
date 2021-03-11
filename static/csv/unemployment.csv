@@ -1,0 +1,3841 @@
+,MSA,year,value
+339,Select MSA,2015,
+722,Select MSA,2016,
+1105,Select MSA,2017,
+1488,Select MSA,2018,
+1871,Select MSA,2019,
+2254,Select MSA,2020,
+2637,Select MSA,2021,
+3020,Select MSA,2022,
+3403,Select MSA,2023,
+3786,Select MSA,2024,
+1,"Abilene, TX",2015,3.8
+384,"Abilene, TX",2016,3.5
+767,"Abilene, TX",2017,3.1
+1150,"Abilene, TX",2018,2.8
+1533,"Abilene, TX",2019,2.7
+1916,"Abilene, TX",2020,2.614538514
+2299,"Abilene, TX",2021,2.541501859
+2682,"Abilene, TX",2022,2.479083649
+3065,"Abilene, TX",2023,2.425740119
+3448,"Abilene, TX",2024,2.380151946
+101,"Akron, OH",2015,5
+484,"Akron, OH",2016,4.6
+867,"Akron, OH",2017,4.1
+1250,"Akron, OH",2018,3.6
+1633,"Akron, OH",2019,3.4
+2016,"Akron, OH",2020,3.224959195
+2399,"Akron, OH",2021,3.071762779
+2782,"Akron, OH",2022,2.937684659
+3165,"Akron, OH",2023,2.820338949
+3548,"Akron, OH",2024,2.717637512
+73,"Albany, GA",2015,7
+456,"Albany, GA",2016,6.5
+839,"Albany, GA",2017,5.7
+1222,"Albany, GA",2018,5.3
+1605,"Albany, GA",2019,5.2
+1988,"Albany, GA",2020,5.124899277
+2371,"Albany, GA",2021,5.06849809
+2754,"Albany, GA",2022,5.026140391
+3137,"Albany, GA",2023,4.994329452
+3520,"Albany, GA",2024,4.970439207
+30,"Albany-Lebanon, OR",2015,6.7
+413,"Albany-Lebanon, OR",2016,6.2
+796,"Albany-Lebanon, OR",2017,5.5
+1179,"Albany-Lebanon, OR",2018,4.9
+1562,"Albany-Lebanon, OR",2019,4.8
+1945,"Albany-Lebanon, OR",2020,4.721902167
+2328,"Albany-Lebanon, OR",2021,4.660909452
+2711,"Albany-Lebanon, OR",2022,4.613275464
+3094,"Albany-Lebanon, OR",2023,4.576074351
+3477,"Albany-Lebanon, OR",2024,4.547021088
+117,"Albany-Schenectady-Troy, NY",2015,4.5
+500,"Albany-Schenectady-Troy, NY",2016,4.2
+883,"Albany-Schenectady-Troy, NY",2017,3.7
+1266,"Albany-Schenectady-Troy, NY",2018,3.3
+1649,"Albany-Schenectady-Troy, NY",2019,3.1
+2032,"Albany-Schenectady-Troy, NY",2020,2.929789133
+2415,"Albany-Schenectady-Troy, NY",2021,2.784930438
+2798,"Albany-Schenectady-Troy, NY",2022,2.661647817
+3181,"Albany-Schenectady-Troy, NY",2023,2.556727609
+3564,"Albany-Schenectady-Troy, NY",2024,2.467434811
+192,"Albuquerque, NM",2015,6.1
+575,"Albuquerque, NM",2016,5.7
+958,"Albuquerque, NM",2017,5.1
+1341,"Albuquerque, NM",2018,4.6
+1724,"Albuquerque, NM",2019,4.3
+2107,"Albuquerque, NM",2020,4.028576539
+2490,"Albuquerque, NM",2021,3.783007554
+2873,"Albuquerque, NM",2022,3.560830276
+3256,"Albuquerque, NM",2023,3.359816522
+3639,"Albuquerque, NM",2024,3.17795036
+340,"Alexandria, LA",2015,6.6
+723,"Alexandria, LA",2016,6.1
+1106,"Alexandria, LA",2017,5.5
+1489,"Alexandria, LA",2018,4.9
+1872,"Alexandria, LA",2019,4.7
+2255,"Alexandria, LA",2020,4.528590432
+2638,"Alexandria, LA",2021,4.381684232
+3021,"Alexandria, LA",2022,4.255778591
+3404,"Alexandria, LA",2023,4.147871434
+3787,"Alexandria, LA",2024,4.055389838
+143,"Allentown-Bethlehem-Easton, PA-NJ",2015,5.4
+526,"Allentown-Bethlehem-Easton, PA-NJ",2016,4.9
+909,"Allentown-Bethlehem-Easton, PA-NJ",2017,4.4
+1292,"Allentown-Bethlehem-Easton, PA-NJ",2018,4
+1675,"Allentown-Bethlehem-Easton, PA-NJ",2019,3.7
+2058,"Allentown-Bethlehem-Easton, PA-NJ",2020,3.405649562
+2441,"Allentown-Bethlehem-Easton, PA-NJ",2021,3.116842296
+2824,"Allentown-Bethlehem-Easton, PA-NJ",2022,2.833473813
+3207,"Allentown-Bethlehem-Easton, PA-NJ",2023,2.555441691
+3590,"Allentown-Bethlehem-Easton, PA-NJ",2024,2.282645436
+244,"Altoona, PA",2015,5.1
+627,"Altoona, PA",2016,4.7
+1010,"Altoona, PA",2017,4.1
+1393,"Altoona, PA",2018,3.7
+1776,"Altoona, PA",2019,3.4
+2159,"Altoona, PA",2020,3.129937185
+2542,"Altoona, PA",2021,2.886824105
+2925,"Altoona, PA",2022,2.66797143
+3308,"Altoona, PA",2023,2.470958198
+3691,"Altoona, PA",2024,2.293605039
+31,"Amarillo, TX",2015,3.1
+414,"Amarillo, TX",2016,2.8
+797,"Amarillo, TX",2017,2.6
+1180,"Amarillo, TX",2018,2.4
+1563,"Amarillo, TX",2019,2.4
+1946,"Amarillo, TX",2020,2.4
+2329,"Amarillo, TX",2021,2.4
+2712,"Amarillo, TX",2022,2.4
+3095,"Amarillo, TX",2023,2.4
+3478,"Amarillo, TX",2024,2.400000001
+286,"Ames, IA",2015,2.5
+669,"Ames, IA",2016,2.3
+1052,"Ames, IA",2017,2
+1435,"Ames, IA",2018,1.7
+1818,"Ames, IA",2019,1.9
+2201,"Ames, IA",2020,1.974025474
+2584,"Ames, IA",2021,2.001424328
+2967,"Ames, IA",2022,2.011565394
+3350,"Ames, IA",2023,2.01531888
+3733,"Ames, IA",2024,2.016708147
+32,"Anchorage, AK",2015,5.6
+415,"Anchorage, AK",2016,5.1
+798,"Anchorage, AK",2017,4.5
+1181,"Anchorage, AK",2018,4.1
+1564,"Anchorage, AK",2019,3.8
+1947,"Anchorage, AK",2020,3.516634618
+2330,"Anchorage, AK",2021,3.248981486
+2713,"Anchorage, AK",2022,2.99616938
+3096,"Anchorage, AK",2023,2.757375385
+3479,"Anchorage, AK",2024,2.531822213
+307,"Ann Arbor, MI",2015,3.8
+690,"Ann Arbor, MI",2016,3.5
+1073,"Ann Arbor, MI",2017,3.1
+1456,"Ann Arbor, MI",2018,2.8
+1839,"Ann Arbor, MI",2019,2.7
+2222,"Ann Arbor, MI",2020,2.614538514
+2605,"Ann Arbor, MI",2021,2.541501859
+2988,"Ann Arbor, MI",2022,2.479083649
+3371,"Ann Arbor, MI",2023,2.425740119
+3754,"Ann Arbor, MI",2024,2.380151946
+74,"Anniston-Oxford, AL",2015,7
+457,"Anniston-Oxford, AL",2016,6.6
+840,"Anniston-Oxford, AL",2017,5.7
+1223,"Anniston-Oxford, AL",2018,5.3
+1606,"Anniston-Oxford, AL",2019,5.2
+1989,"Anniston-Oxford, AL",2020,5.136948531
+2372,"Anniston-Oxford, AL",2021,5.097193654
+2755,"Anniston-Oxford, AL",2022,5.072127621
+3138,"Anniston-Oxford, AL",2023,5.056323118
+3521,"Anniston-Oxford, AL",2024,5.046358147
+245,"Appleton, WI",2015,3.9
+628,"Appleton, WI",2016,3.6
+1011,"Appleton, WI",2017,3.2
+1394,"Appleton, WI",2018,2.8
+1777,"Appleton, WI",2019,2.7
+2160,"Appleton, WI",2020,2.619777343
+2543,"Appleton, WI",2021,2.555420597
+2926,"Appleton, WI",2022,2.503791906
+3309,"Appleton, WI",2023,2.462373999
+3692,"Appleton, WI",2024,2.429147454
+285,"Asheville, NC",2015,4.6
+668,"Asheville, NC",2016,4.3
+1051,"Asheville, NC",2017,3.8
+1434,"Asheville, NC",2018,3.3
+1817,"Asheville, NC",2019,3.1
+2200,"Asheville, NC",2020,2.936310522
+2583,"Asheville, NC",2021,2.802339297
+2966,"Asheville, NC",2022,2.692690897
+3349,"Asheville, NC",2023,2.602949451
+3732,"Asheville, NC",2024,2.529500799
+308,"Athens-Clarke County, GA",2015,5.7
+691,"Athens-Clarke County, GA",2016,5.2
+1074,"Athens-Clarke County, GA",2017,4.6
+1457,"Athens-Clarke County, GA",2018,4.2
+1840,"Athens-Clarke County, GA",2019,3.9
+2223,"Athens-Clarke County, GA",2020,3.616663427
+2606,"Athens-Clarke County, GA",2021,3.349064716
+2989,"Athens-Clarke County, GA",2022,3.09632971
+3372,"Athens-Clarke County, GA",2023,2.857632809
+3755,"Athens-Clarke County, GA",2024,2.63219427
+168,"Atlanta-Sandy Springs-Alpharetta, GA",2015,5.7
+551,"Atlanta-Sandy Springs-Alpharetta, GA",2016,5.2
+934,"Atlanta-Sandy Springs-Alpharetta, GA",2017,4.7
+1317,"Atlanta-Sandy Springs-Alpharetta, GA",2018,4.2
+1700,"Atlanta-Sandy Springs-Alpharetta, GA",2019,3.9
+2083,"Atlanta-Sandy Springs-Alpharetta, GA",2020,3.611339614
+2466,"Atlanta-Sandy Springs-Alpharetta, GA",2021,3.33359022
+2849,"Atlanta-Sandy Springs-Alpharetta, GA",2022,3.066339396
+3232,"Atlanta-Sandy Springs-Alpharetta, GA",2023,2.809190309
+3615,"Atlanta-Sandy Springs-Alpharetta, GA",2024,2.561761128
+341,"Atlantic City-Hammonton, NJ",2015,9.6
+724,"Atlantic City-Hammonton, NJ",2016,8.7
+1107,"Atlantic City-Hammonton, NJ",2017,7.5
+1490,"Atlantic City-Hammonton, NJ",2018,6.5
+1873,"Atlantic City-Hammonton, NJ",2019,6.8
+2256,"Atlantic City-Hammonton, NJ",2020,6.986640254
+2639,"Atlantic City-Hammonton, NJ",2021,7.102755535
+3022,"Atlantic City-Hammonton, NJ",2022,7.174994821
+3405,"Atlantic City-Hammonton, NJ",2023,7.219937349
+3788,"Atlantic City-Hammonton, NJ",2024,7.247897633
+45,"Auburn-Opelika, AL",2015,5.2
+428,"Auburn-Opelika, AL",2016,4.7
+811,"Auburn-Opelika, AL",2017,4.2
+1194,"Auburn-Opelika, AL",2018,3.8
+1577,"Auburn-Opelika, AL",2019,3.5
+1960,"Auburn-Opelika, AL",2020,3.205904484
+2343,"Auburn-Opelika, AL",2021,2.917597244
+2726,"Auburn-Opelika, AL",2022,2.634964356
+3109,"Auburn-Opelika, AL",2023,2.357894141
+3492,"Auburn-Opelika, AL",2024,2.086277115
+193,"Augusta-Richmond County, GA-SC",2015,6.4
+576,"Augusta-Richmond County, GA-SC",2016,5.9
+959,"Augusta-Richmond County, GA-SC",2017,5.3
+1342,"Augusta-Richmond County, GA-SC",2018,4.9
+1725,"Augusta-Richmond County, GA-SC",2019,4.6
+2108,"Augusta-Richmond County, GA-SC",2020,4.316680439
+2491,"Augusta-Richmond County, GA-SC",2021,4.049113861
+2874,"Augusta-Richmond County, GA-SC",2022,3.796424378
+3257,"Augusta-Richmond County, GA-SC",2023,3.5577848
+3640,"Augusta-Richmond County, GA-SC",2024,3.332413932
+144,"Austin-Round Rock-Georgetown, TX",2015,3.4
+527,"Austin-Round Rock-Georgetown, TX",2016,3.1
+910,"Austin-Round Rock-Georgetown, TX",2017,2.7
+1293,"Austin-Round Rock-Georgetown, TX",2018,2.6
+1676,"Austin-Round Rock-Georgetown, TX",2019,2.6
+2059,"Austin-Round Rock-Georgetown, TX",2020,2.6
+2442,"Austin-Round Rock-Georgetown, TX",2021,2.6
+2825,"Austin-Round Rock-Georgetown, TX",2022,2.599999999
+3208,"Austin-Round Rock-Georgetown, TX",2023,2.599999999
+3591,"Austin-Round Rock-Georgetown, TX",2024,2.599999999
+287,"Bakersfield, CA",2015,10.2
+670,"Bakersfield, CA",2016,9.2
+1053,"Bakersfield, CA",2017,8.1
+1436,"Bakersfield, CA",2018,7.1
+1819,"Bakersfield, CA",2019,6.9
+2202,"Bakersfield, CA",2020,6.732417374
+2585,"Bakersfield, CA",2021,6.591997691
+2968,"Bakersfield, CA",2022,6.474338195
+3351,"Bakersfield, CA",2023,6.375749759
+3734,"Bakersfield, CA",2024,6.293141213
+288,"Baltimore-Columbia-Towson, MD",2015,5.3
+671,"Baltimore-Columbia-Towson, MD",2016,4.8
+1054,"Baltimore-Columbia-Towson, MD",2017,4.3
+1437,"Baltimore-Columbia-Towson, MD",2018,3.8
+1820,"Baltimore-Columbia-Towson, MD",2019,3.6
+2203,"Baltimore-Columbia-Towson, MD",2020,3.418359325
+2586,"Baltimore-Columbia-Towson, MD",2021,3.253392652
+2969,"Baltimore-Columbia-Towson, MD",2022,3.103569363
+3352,"Baltimore-Columbia-Towson, MD",2023,2.967499347
+3735,"Baltimore-Columbia-Towson, MD",2024,2.843920099
+246,"Bangor, ME",2015,4.2
+629,"Bangor, ME",2016,3.8
+1012,"Bangor, ME",2017,3.4
+1395,"Bangor, ME",2018,3.1
+1778,"Bangor, ME",2019,2.9
+2161,"Bangor, ME",2020,2.706550758
+2544,"Bangor, ME",2021,2.519437713
+2927,"Bangor, ME",2022,2.33845333
+3310,"Bangor, ME",2023,2.163396873
+3693,"Bangor, ME",2024,1.99407418
+33,"Barnstable Town, MA",2015,5.9
+416,"Barnstable Town, MA",2016,5.4
+799,"Barnstable Town, MA",2017,4.8
+1182,"Barnstable Town, MA",2018,4.3
+1565,"Barnstable Town, MA",2019,4
+1948,"Barnstable Town, MA",2020,3.716211075
+2331,"Barnstable Town, MA",2021,3.447757229
+2714,"Barnstable Town, MA",2022,3.193809802
+3097,"Barnstable Town, MA",2023,2.953584911
+3480,"Barnstable Town, MA",2024,2.726341033
+247,"Baton Rouge, LA",2015,5.5
+630,"Baton Rouge, LA",2016,5
+1013,"Baton Rouge, LA",2017,4.5
+1396,"Baton Rouge, LA",2018,4.1
+1779,"Baton Rouge, LA",2019,3.7
+2162,"Baton Rouge, LA",2020,3.303251601
+2545,"Baton Rouge, LA",2021,2.909728372
+2928,"Baton Rouge, LA",2022,2.519404096
+3311,"Baton Rouge, LA",2023,2.132252768
+3694,"Baton Rouge, LA",2024,1.748248595
+248,"Battle Creek, MI",2015,5.2
+631,"Battle Creek, MI",2016,4.7
+1014,"Battle Creek, MI",2017,4.2
+1397,"Battle Creek, MI",2018,3.8
+1780,"Battle Creek, MI",2019,3.5
+2163,"Battle Creek, MI",2020,3.205904484
+2546,"Battle Creek, MI",2021,2.917597244
+2929,"Battle Creek, MI",2022,2.634964356
+3312,"Battle Creek, MI",2023,2.357894141
+3695,"Battle Creek, MI",2024,2.086277115
+46,"Bay City, MI",2015,5.8
+429,"Bay City, MI",2016,5.3
+812,"Bay City, MI",2017,4.8
+1195,"Bay City, MI",2018,4.3
+1578,"Bay City, MI",2019,4
+1961,"Bay City, MI",2020,3.711334486
+2344,"Bay City, MI",2021,3.433575223
+2727,"Bay City, MI",2022,3.166310155
+3110,"Bay City, MI",2023,2.909142794
+3493,"Bay City, MI",2024,2.661691633
+249,"Beaumont-Port Arthur, TX",2015,6.7
+632,"Beaumont-Port Arthur, TX",2016,6.2
+1015,"Beaumont-Port Arthur, TX",2017,5.5
+1398,"Beaumont-Port Arthur, TX",2018,4.9
+1781,"Beaumont-Port Arthur, TX",2019,4.8
+2164,"Beaumont-Port Arthur, TX",2020,4.721902167
+2547,"Beaumont-Port Arthur, TX",2021,4.660909452
+2930,"Beaumont-Port Arthur, TX",2022,4.613275464
+3313,"Beaumont-Port Arthur, TX",2023,4.576074351
+3696,"Beaumont-Port Arthur, TX",2024,4.547021088
+250,"Beckley, WV",2015,7.8
+633,"Beckley, WV",2016,7.3
+1016,"Beckley, WV",2017,6.7
+1399,"Beckley, WV",2018,5.9
+1782,"Beckley, WV",2019,5.7
+2165,"Beckley, WV",2020,5.549956949
+2548,"Beckley, WV",2021,5.437392363
+2931,"Beckley, WV",2022,5.352944693
+3314,"Beckley, WV",2023,5.289590763
+3697,"Beckley, WV",2024,5.242061678
+194,"Bellingham, WA",2015,6.1
+577,"Bellingham, WA",2016,5.7
+960,"Bellingham, WA",2017,5.1
+1343,"Bellingham, WA",2018,4.6
+1726,"Bellingham, WA",2019,4.3
+2109,"Bellingham, WA",2020,4.028576539
+2492,"Bellingham, WA",2021,3.783007554
+2875,"Bellingham, WA",2022,3.560830276
+3258,"Bellingham, WA",2023,3.359816522
+3641,"Bellingham, WA",2024,3.17795036
+289,"Bend, OR",2015,5.9
+672,"Bend, OR",2016,5.4
+1055,"Bend, OR",2017,4.8
+1438,"Bend, OR",2018,4.3
+1821,"Bend, OR",2019,4.1
+2204,"Bend, OR",2020,3.92083022
+2587,"Bend, OR",2021,3.760321169
+2970,"Bend, OR",2022,3.616529312
+3353,"Bend, OR",2023,3.487713535
+3736,"Bend, OR",2024,3.372314062
+195,"Billings, MT",2015,3.3
+578,"Billings, MT",2016,3
+961,"Billings, MT",2017,2.7
+1344,"Billings, MT",2018,2.5
+1727,"Billings, MT",2019,2.5
+2110,"Billings, MT",2020,2.5
+2493,"Billings, MT",2021,2.5
+2876,"Billings, MT",2022,2.5
+3259,"Billings, MT",2023,2.5
+3642,"Billings, MT",2024,2.5
+342,"Binghamton, NY",2015,5.9
+725,"Binghamton, NY",2016,5.4
+1108,"Binghamton, NY",2017,4.8
+1491,"Binghamton, NY",2018,4.3
+1874,"Binghamton, NY",2019,4.1
+2257,"Binghamton, NY",2020,3.92083022
+2640,"Binghamton, NY",2021,3.760321169
+3023,"Binghamton, NY",2022,3.616529312
+3406,"Binghamton, NY",2023,3.487713535
+3789,"Binghamton, NY",2024,3.372314062
+361,"Birmingham-Hoover, AL",2015,5.5
+744,"Birmingham-Hoover, AL",2016,5.1
+1127,"Birmingham-Hoover, AL",2017,4.5
+1510,"Birmingham-Hoover, AL",2018,4.1
+1893,"Birmingham-Hoover, AL",2019,3.7
+2276,"Birmingham-Hoover, AL",2020,3.330474182
+2659,"Birmingham-Hoover, AL",2021,2.989100856
+3042,"Birmingham-Hoover, AL",2022,2.673735213
+3425,"Birmingham-Hoover, AL",2023,2.382395844
+3808,"Birmingham-Hoover, AL",2024,2.113252299
+309,"Bismarck, ND",2015,2.6
+692,"Bismarck, ND",2016,2.5
+1075,"Bismarck, ND",2017,2.3
+1458,"Bismarck, ND",2018,2.1
+1841,"Bismarck, ND",2019,2.1
+2224,"Bismarck, ND",2020,2.1
+2607,"Bismarck, ND",2021,2.1
+2990,"Bismarck, ND",2022,2.1
+3373,"Bismarck, ND",2023,2.1
+3756,"Bismarck, ND",2024,2.1
+169,"Blacksburg-Christiansburg, VA ",2015,4.6
+552,"Blacksburg-Christiansburg, VA ",2016,4.3
+935,"Blacksburg-Christiansburg, VA ",2017,3.8
+1318,"Blacksburg-Christiansburg, VA ",2018,3.3
+1701,"Blacksburg-Christiansburg, VA ",2019,3.1
+2084,"Blacksburg-Christiansburg, VA ",2020,2.936310522
+2467,"Blacksburg-Christiansburg, VA ",2021,2.802339297
+2850,"Blacksburg-Christiansburg, VA ",2022,2.692690897
+3233,"Blacksburg-Christiansburg, VA ",2023,2.602949451
+3616,"Blacksburg-Christiansburg, VA ",2024,2.529500799
+0,"Bloomington, IL",2015,4.8
+383,"Bloomington, IL",2016,4.5
+766,"Bloomington, IL",2017,4
+1149,"Bloomington, IL",2018,3.5
+1532,"Bloomington, IL",2019,3.3
+1915,"Bloomington, IL",2020,3.136312627
+2298,"Bloomington, IL",2021,3.002344845
+2681,"Bloomington, IL",2022,2.892700674
+3064,"Bloomington, IL",2023,2.802963842
+3447,"Bloomington, IL",2024,2.729519911
+145,"Bloomington, IN",2015,5.1
+528,"Bloomington, IN",2016,4.7
+911,"Bloomington, IN",2017,4.1
+1294,"Bloomington, IN",2018,3.7
+1677,"Bloomington, IN",2019,3.4
+2060,"Bloomington, IN",2020,3.129937185
+2443,"Bloomington, IN",2021,2.886824105
+2826,"Bloomington, IN",2022,2.66797143
+3209,"Bloomington, IN",2023,2.470958198
+3592,"Bloomington, IN",2024,2.293605039
+310,"Bloomsburg-Berwick, PA",2015,5.4
+693,"Bloomsburg-Berwick, PA",2016,4.9
+1076,"Bloomsburg-Berwick, PA",2017,4.4
+1459,"Bloomsburg-Berwick, PA",2018,4
+1842,"Bloomsburg-Berwick, PA",2019,3.7
+2225,"Bloomsburg-Berwick, PA",2020,3.405649562
+2608,"Bloomsburg-Berwick, PA",2021,3.116842296
+2991,"Bloomsburg-Berwick, PA",2022,2.833473813
+3374,"Bloomsburg-Berwick, PA",2023,2.555441691
+3757,"Bloomsburg-Berwick, PA",2024,2.282645436
+311,"Boise City, ID",2015,4
+694,"Boise City, ID",2016,3.7
+1077,"Boise City, ID",2017,3.3
+1460,"Boise City, ID",2018,3
+1843,"Boise City, ID",2019,2.8
+2226,"Boise City, ID",2020,2.613674408
+2609,"Boise City, ID",2021,2.440088276
+2992,"Boise City, ID",2022,2.278370582
+3375,"Boise City, ID",2023,2.127709857
+3758,"Boise City, ID",2024,1.987350113
+34,"Boston-Cambridge-Newton, MA-NH",2015,4.3
+417,"Boston-Cambridge-Newton, MA-NH",2016,4
+800,"Boston-Cambridge-Newton, MA-NH",2017,3.5
+1183,"Boston-Cambridge-Newton, MA-NH",2018,3.2
+1566,"Boston-Cambridge-Newton, MA-NH",2019,3
+1949,"Boston-Cambridge-Newton, MA-NH",2020,2.832168897
+2332,"Boston-Cambridge-Newton, MA-NH",2021,2.6913325
+2715,"Boston-Cambridge-Newton, MA-NH",2022,2.573148861
+3098,"Boston-Cambridge-Newton, MA-NH",2023,2.473974408
+3481,"Boston-Cambridge-Newton, MA-NH",2024,2.390751619
+266,"Boulder, CO ",2015,3.2
+649,"Boulder, CO ",2016,2.8
+1032,"Boulder, CO ",2017,2.6
+1415,"Boulder, CO ",2018,2.4
+1798,"Boulder, CO ",2019,2.4
+2181,"Boulder, CO ",2020,2.4
+2564,"Boulder, CO ",2021,2.4
+2947,"Boulder, CO ",2022,2.4
+3330,"Boulder, CO ",2023,2.4
+3713,"Boulder, CO ",2024,2.4
+267,"Bowling Green, KY",2015,4.8
+650,"Bowling Green, KY",2016,4.5
+1033,"Bowling Green, KY",2017,4
+1416,"Bowling Green, KY",2018,3.5
+1799,"Bowling Green, KY",2019,3.3
+2182,"Bowling Green, KY",2020,3.136312627
+2565,"Bowling Green, KY",2021,3.002344845
+2948,"Bowling Green, KY",2022,2.892700674
+3331,"Bowling Green, KY",2023,2.802963842
+3714,"Bowling Green, KY",2024,2.729519911
+2,"Bremerton-Silverdale-Port Orchard, WA",2015,5.7
+385,"Bremerton-Silverdale-Port Orchard, WA",2016,5.2
+768,"Bremerton-Silverdale-Port Orchard, WA",2017,4.7
+1151,"Bremerton-Silverdale-Port Orchard, WA",2018,4.2
+1534,"Bremerton-Silverdale-Port Orchard, WA",2019,3.9
+1917,"Bremerton-Silverdale-Port Orchard, WA",2020,3.611339614
+2300,"Bremerton-Silverdale-Port Orchard, WA",2021,3.33359022
+2683,"Bremerton-Silverdale-Port Orchard, WA",2022,3.066339396
+3066,"Bremerton-Silverdale-Port Orchard, WA",2023,2.809190309
+3449,"Bremerton-Silverdale-Port Orchard, WA",2024,2.561761128
+35,"Bridgeport-Stamford-Norwalk, CT",2015,5.6
+418,"Bridgeport-Stamford-Norwalk, CT",2016,5.1
+801,"Bridgeport-Stamford-Norwalk, CT",2017,4.6
+1184,"Bridgeport-Stamford-Norwalk, CT",2018,4.2
+1567,"Bridgeport-Stamford-Norwalk, CT",2019,3.8
+1950,"Bridgeport-Stamford-Norwalk, CT",2020,3.403249829
+2333,"Bridgeport-Stamford-Norwalk, CT",2021,3.009723081
+2716,"Bridgeport-Stamford-Norwalk, CT",2022,2.619393567
+3099,"Bridgeport-Stamford-Norwalk, CT",2023,2.23223531
+3482,"Bridgeport-Stamford-Norwalk, CT",2024,1.848222545
+47,"Brownsville-Harlingen, TX",2015,7.1
+430,"Brownsville-Harlingen, TX",2016,6.6
+813,"Brownsville-Harlingen, TX",2017,5.7
+1196,"Brownsville-Harlingen, TX",2018,5.4
+1579,"Brownsville-Harlingen, TX",2019,5.3
+1962,"Brownsville-Harlingen, TX",2020,5.234581598
+2345,"Brownsville-Harlingen, TX",2021,5.191785924
+2728,"Brownsville-Harlingen, TX",2022,5.163789678
+3111,"Brownsville-Harlingen, TX",2023,5.145474982
+3494,"Brownsville-Harlingen, TX",2024,5.1334938
+170,"Brunswick, GA",2015,6.3
+553,"Brunswick, GA",2016,5.9
+936,"Brunswick, GA",2017,5.2
+1319,"Brunswick, GA",2018,4.7
+1702,"Brunswick, GA",2019,4.5
+2085,"Brunswick, GA",2020,4.339772073
+2468,"Brunswick, GA",2021,4.211407129
+2851,"Brunswick, GA",2022,4.108568885
+3234,"Brunswick, GA",2023,4.026181092
+3617,"Brunswick, GA",2024,3.960176965
+146,"Buffalo-Cheektowaga, NY",2015,5.5
+529,"Buffalo-Cheektowaga, NY",2016,5.1
+912,"Buffalo-Cheektowaga, NY",2017,4.5
+1295,"Buffalo-Cheektowaga, NY",2018,4.1
+1678,"Buffalo-Cheektowaga, NY",2019,3.7
+2061,"Buffalo-Cheektowaga, NY",2020,3.330474182
+2444,"Buffalo-Cheektowaga, NY",2021,2.989100856
+2827,"Buffalo-Cheektowaga, NY",2022,2.673735213
+3210,"Buffalo-Cheektowaga, NY",2023,2.382395844
+3593,"Buffalo-Cheektowaga, NY",2024,2.113252299
+75,"Burlington, NC",2015,5.3
+458,"Burlington, NC",2016,4.8
+841,"Burlington, NC",2017,4.3
+1224,"Burlington, NC",2018,3.8
+1607,"Burlington, NC",2019,3.6
+1990,"Burlington, NC",2020,3.418359325
+2373,"Burlington, NC",2021,3.253392652
+2756,"Burlington, NC",2022,3.103569363
+3139,"Burlington, NC",2023,2.967499347
+3522,"Burlington, NC",2024,2.843920099
+268,"Burlington-South Burlington, VT",2015,2.9
+651,"Burlington-South Burlington, VT",2016,2.7
+1034,"Burlington-South Burlington, VT",2017,2.5
+1417,"Burlington-South Burlington, VT",2018,2.4
+1800,"Burlington-South Burlington, VT",2019,2.4
+2183,"Burlington-South Burlington, VT",2020,2.4
+2566,"Burlington-South Burlington, VT",2021,2.4
+2949,"Burlington-South Burlington, VT",2022,2.4
+3332,"Burlington-South Burlington, VT",2023,2.4
+3715,"Burlington-South Burlington, VT",2024,2.4
+343,"California-Lexington Park, MD",2015,4.8
+726,"California-Lexington Park, MD",2016,4.5
+1109,"California-Lexington Park, MD",2017,4
+1492,"California-Lexington Park, MD",2018,3.5
+1875,"California-Lexington Park, MD",2019,3.3
+2258,"California-Lexington Park, MD",2020,3.136312627
+2641,"California-Lexington Park, MD",2021,3.002344845
+3024,"California-Lexington Park, MD",2022,2.892700674
+3407,"California-Lexington Park, MD",2023,2.802963842
+3790,"California-Lexington Park, MD",2024,2.729519911
+171,"Canton-Massillon, OH",2015,5.3
+554,"Canton-Massillon, OH",2016,4.8
+937,"Canton-Massillon, OH",2017,4.3
+1320,"Canton-Massillon, OH",2018,3.8
+1703,"Canton-Massillon, OH",2019,3.6
+2086,"Canton-Massillon, OH",2020,3.418359325
+2469,"Canton-Massillon, OH",2021,3.253392652
+2852,"Canton-Massillon, OH",2022,3.103569363
+3235,"Canton-Massillon, OH",2023,2.967499347
+3618,"Canton-Massillon, OH",2024,2.843920099
+48,"Cape Coral-Fort Myers, FL",2015,5.2
+431,"Cape Coral-Fort Myers, FL",2016,4.7
+814,"Cape Coral-Fort Myers, FL",2017,4.2
+1197,"Cape Coral-Fort Myers, FL",2018,3.8
+1580,"Cape Coral-Fort Myers, FL",2019,3.5
+1963,"Cape Coral-Fort Myers, FL",2020,3.205904484
+2346,"Cape Coral-Fort Myers, FL",2021,2.917597244
+2729,"Cape Coral-Fort Myers, FL",2022,2.634964356
+3112,"Cape Coral-Fort Myers, FL",2023,2.357894141
+3495,"Cape Coral-Fort Myers, FL",2024,2.086277115
+3,"Cape Girardeau, MO-IL",2015,4.7
+386,"Cape Girardeau, MO-IL",2016,4.4
+769,"Cape Girardeau, MO-IL",2017,3.9
+1152,"Cape Girardeau, MO-IL",2018,3.5
+1535,"Cape Girardeau, MO-IL",2019,3.2
+1918,"Cape Girardeau, MO-IL",2020,2.927281137
+2301,"Cape Girardeau, MO-IL",2021,2.679362543
+2684,"Cape Girardeau, MO-IL",2022,2.453988952
+3067,"Cape Girardeau, MO-IL",2023,2.249110188
+3450,"Cape Girardeau, MO-IL",2024,2.062862509
+147,"Carbondale-Marion, IL",2015,5.9
+530,"Carbondale-Marion, IL",2016,5.4
+913,"Carbondale-Marion, IL",2017,4.8
+1296,"Carbondale-Marion, IL",2018,4.3
+1679,"Carbondale-Marion, IL",2019,4.1
+2062,"Carbondale-Marion, IL",2020,3.92083022
+2445,"Carbondale-Marion, IL",2021,3.760321169
+2828,"Carbondale-Marion, IL",2022,3.616529312
+3211,"Carbondale-Marion, IL",2023,3.487713535
+3594,"Carbondale-Marion, IL",2024,3.372314062
+362,"Carson City, NV",2015,7.2
+745,"Carson City, NV",2016,6.6
+1128,"Carson City, NV",2017,5.8
+1511,"Carson City, NV",2018,5.5
+1894,"Carson City, NV",2019,5.4
+2277,"Carson City, NV",2020,5.322378154
+2660,"Carson City, NV",2021,5.262126645
+3043,"Carson City, NV",2022,5.215358311
+3426,"Carson City, NV",2023,5.179055867
+3809,"Carson City, NV",2024,5.15087724
+363,"Casper, WY",2015,4.9
+746,"Casper, WY",2016,4.6
+1129,"Casper, WY",2017,4
+1512,"Casper, WY",2018,3.6
+1895,"Casper, WY",2019,3.3
+2278,"Casper, WY",2020,3.050872981
+2661,"Casper, WY",2021,2.843992076
+3044,"Casper, WY",2022,2.672193333
+3427,"Casper, WY",2023,2.529527637
+3810,"Casper, WY",2024,2.411054705
+49,"Cedar Rapids, IA",2015,3.8
+432,"Cedar Rapids, IA",2016,3.5
+815,"Cedar Rapids, IA",2017,3.1
+1198,"Cedar Rapids, IA",2018,2.8
+1581,"Cedar Rapids, IA",2019,2.7
+1964,"Cedar Rapids, IA",2020,2.614538514
+2347,"Cedar Rapids, IA",2021,2.541501859
+2730,"Cedar Rapids, IA",2022,2.479083649
+3113,"Cedar Rapids, IA",2023,2.425740119
+3496,"Cedar Rapids, IA",2024,2.380151946
+196,"Chambersburg-Waynesboro, PA",2015,5
+579,"Chambersburg-Waynesboro, PA",2016,4.6
+962,"Chambersburg-Waynesboro, PA",2017,4.1
+1345,"Chambersburg-Waynesboro, PA",2018,3.6
+1728,"Chambersburg-Waynesboro, PA",2019,3.4
+2111,"Chambersburg-Waynesboro, PA",2020,3.224959195
+2494,"Chambersburg-Waynesboro, PA",2021,3.071762779
+2877,"Chambersburg-Waynesboro, PA",2022,2.937684659
+3260,"Chambersburg-Waynesboro, PA",2023,2.820338949
+3643,"Chambersburg-Waynesboro, PA",2024,2.717637512
+50,"Champaign-Urbana, IL",2015,5
+433,"Champaign-Urbana, IL",2016,4.6
+816,"Champaign-Urbana, IL",2017,4.1
+1199,"Champaign-Urbana, IL",2018,3.6
+1582,"Champaign-Urbana, IL",2019,3.4
+1965,"Champaign-Urbana, IL",2020,3.224959195
+2348,"Champaign-Urbana, IL",2021,3.071762779
+2731,"Champaign-Urbana, IL",2022,2.937684659
+3114,"Champaign-Urbana, IL",2023,2.820338949
+3497,"Champaign-Urbana, IL",2024,2.717637512
+148,"Charleston, WV",2015,6.5
+531,"Charleston, WV",2016,6
+914,"Charleston, WV",2017,5.4
+1297,"Charleston, WV",2018,4.9
+1680,"Charleston, WV",2019,4.6
+2063,"Charleston, WV",2020,4.316204124
+2446,"Charleston, WV",2021,4.047737125
+2829,"Charleston, WV",2022,3.793771036
+3212,"Charleston, WV",2023,3.553522606
+3595,"Charleston, WV",2024,3.326250893
+197,"Charleston-North Charleston, SC",2015,5.2
+580,"Charleston-North Charleston, SC",2016,4.7
+963,"Charleston-North Charleston, SC",2017,4.2
+1346,"Charleston-North Charleston, SC",2018,3.8
+1729,"Charleston-North Charleston, SC",2019,3.5
+2112,"Charleston-North Charleston, SC",2020,3.205904484
+2495,"Charleston-North Charleston, SC",2021,2.917597244
+2878,"Charleston-North Charleston, SC",2022,2.634964356
+3261,"Charleston-North Charleston, SC",2023,2.357894141
+3644,"Charleston-North Charleston, SC",2024,2.086277115
+76,"Charlotte-Concord-Gastonia, NC-SC",2015,5.4
+459,"Charlotte-Concord-Gastonia, NC-SC",2016,4.9
+842,"Charlotte-Concord-Gastonia, NC-SC",2017,4.4
+1225,"Charlotte-Concord-Gastonia, NC-SC",2018,4
+1608,"Charlotte-Concord-Gastonia, NC-SC",2019,3.7
+1991,"Charlotte-Concord-Gastonia, NC-SC",2020,3.405649562
+2374,"Charlotte-Concord-Gastonia, NC-SC",2021,3.116842296
+2757,"Charlotte-Concord-Gastonia, NC-SC",2022,2.833473813
+3140,"Charlotte-Concord-Gastonia, NC-SC",2023,2.555441691
+3523,"Charlotte-Concord-Gastonia, NC-SC",2024,2.282645436
+198,"Charlottesville, VA ",2015,3.9
+581,"Charlottesville, VA ",2016,3.6
+964,"Charlottesville, VA ",2017,3.2
+1347,"Charlottesville, VA ",2018,2.8
+1730,"Charlottesville, VA ",2019,2.7
+2113,"Charlottesville, VA ",2020,2.619777343
+2496,"Charlottesville, VA ",2021,2.555420597
+2879,"Charlottesville, VA ",2022,2.503791906
+3262,"Charlottesville, VA ",2023,2.462373999
+3645,"Charlottesville, VA ",2024,2.429147454
+224,"Chattanooga, TN-GA",2015,5.5
+607,"Chattanooga, TN-GA",2016,5.1
+990,"Chattanooga, TN-GA",2017,4.5
+1373,"Chattanooga, TN-GA",2018,4.1
+1756,"Chattanooga, TN-GA",2019,3.7
+2139,"Chattanooga, TN-GA",2020,3.330474182
+2522,"Chattanooga, TN-GA",2021,2.989100856
+2905,"Chattanooga, TN-GA",2022,2.673735213
+3288,"Chattanooga, TN-GA",2023,2.382395844
+3671,"Chattanooga, TN-GA",2024,2.113252299
+118,"Cheyenne, WY",2015,4
+501,"Cheyenne, WY",2016,3.7
+884,"Cheyenne, WY",2017,3.3
+1267,"Cheyenne, WY",2018,3
+1650,"Cheyenne, WY",2019,2.8
+2033,"Cheyenne, WY",2020,2.613674408
+2416,"Cheyenne, WY",2021,2.440088276
+2799,"Cheyenne, WY",2022,2.278370582
+3182,"Cheyenne, WY",2023,2.127709857
+3565,"Cheyenne, WY",2024,1.987350113
+364,"Chicago-Naperville-Elgin, IL-IN-WI",2015,5.9
+747,"Chicago-Naperville-Elgin, IL-IN-WI",2016,5.4
+1130,"Chicago-Naperville-Elgin, IL-IN-WI",2017,4.8
+1513,"Chicago-Naperville-Elgin, IL-IN-WI",2018,4.3
+1896,"Chicago-Naperville-Elgin, IL-IN-WI",2019,4.1
+2279,"Chicago-Naperville-Elgin, IL-IN-WI",2020,3.92083022
+2662,"Chicago-Naperville-Elgin, IL-IN-WI",2021,3.760321169
+3045,"Chicago-Naperville-Elgin, IL-IN-WI",2022,3.616529312
+3428,"Chicago-Naperville-Elgin, IL-IN-WI",2023,3.487713535
+3811,"Chicago-Naperville-Elgin, IL-IN-WI",2024,3.372314062
+100,"Chico, CA",2015,7.2
+483,"Chico, CA",2016,6.6
+866,"Chico, CA",2017,5.8
+1249,"Chico, CA",2018,5.5
+1632,"Chico, CA",2019,5.4
+2015,"Chico, CA",2020,5.322378154
+2398,"Chico, CA",2021,5.262126645
+2781,"Chico, CA",2022,5.215358311
+3164,"Chico, CA",2023,5.179055867
+3547,"Chico, CA",2024,5.15087724
+225,"Cincinnati, OH-KY-IN",2015,4.5
+608,"Cincinnati, OH-KY-IN",2016,4.2
+991,"Cincinnati, OH-KY-IN",2017,3.7
+1374,"Cincinnati, OH-KY-IN",2018,3.3
+1757,"Cincinnati, OH-KY-IN",2019,3.1
+2140,"Cincinnati, OH-KY-IN",2020,2.929789133
+2523,"Cincinnati, OH-KY-IN",2021,2.784930438
+2906,"Cincinnati, OH-KY-IN",2022,2.661647817
+3289,"Cincinnati, OH-KY-IN",2023,2.556727609
+3672,"Cincinnati, OH-KY-IN",2024,2.467434811
+77,"Clarksville, TN-KY",2015,5.9
+460,"Clarksville, TN-KY",2016,5.4
+843,"Clarksville, TN-KY",2017,4.8
+1226,"Clarksville, TN-KY",2018,4.3
+1609,"Clarksville, TN-KY",2019,4.1
+1992,"Clarksville, TN-KY",2020,3.92083022
+2375,"Clarksville, TN-KY",2021,3.760321169
+2758,"Clarksville, TN-KY",2022,3.616529312
+3141,"Clarksville, TN-KY",2023,3.487713535
+3524,"Clarksville, TN-KY",2024,3.372314062
+344,"Cleveland, TN",2015,5.4
+727,"Cleveland, TN",2016,4.9
+1110,"Cleveland, TN",2017,4.4
+1493,"Cleveland, TN",2018,4
+1876,"Cleveland, TN",2019,3.7
+2259,"Cleveland, TN",2020,3.405649562
+2642,"Cleveland, TN",2021,3.116842296
+3025,"Cleveland, TN",2022,2.833473813
+3408,"Cleveland, TN",2023,2.555441691
+3791,"Cleveland, TN",2024,2.282645436
+199,"Cleveland-Elyria, OH",2015,4.9
+582,"Cleveland-Elyria, OH",2016,4.6
+965,"Cleveland-Elyria, OH",2017,4
+1348,"Cleveland-Elyria, OH",2018,3.6
+1731,"Cleveland-Elyria, OH",2019,3.3
+2114,"Cleveland-Elyria, OH",2020,3.050872981
+2497,"Cleveland-Elyria, OH",2021,2.843992076
+2880,"Cleveland-Elyria, OH",2022,2.672193333
+3263,"Cleveland-Elyria, OH",2023,2.529527637
+3646,"Cleveland-Elyria, OH",2024,2.411054705
+290,"Coeur d'Alene, ID",2015,5
+673,"Coeur d'Alene, ID",2016,4.6
+1056,"Coeur d'Alene, ID",2017,4.1
+1439,"Coeur d'Alene, ID",2018,3.6
+1822,"Coeur d'Alene, ID",2019,3.4
+2205,"Coeur d'Alene, ID",2020,3.224959195
+2588,"Coeur d'Alene, ID",2021,3.071762779
+2971,"Coeur d'Alene, ID",2022,2.937684659
+3354,"Coeur d'Alene, ID",2023,2.820338949
+3737,"Coeur d'Alene, ID",2024,2.717637512
+51,"College Station-Bryan, TX",2015,3.5
+434,"College Station-Bryan, TX",2016,3.3
+817,"College Station-Bryan, TX",2017,2.9
+1200,"College Station-Bryan, TX",2018,2.7
+1583,"College Station-Bryan, TX",2019,2.6
+1966,"College Station-Bryan, TX",2020,2.527788872
+2349,"College Station-Bryan, TX",2021,2.475644402
+2732,"College Station-Bryan, TX",2022,2.437990292
+3115,"College Station-Bryan, TX",2023,2.410799834
+3498,"College Station-Bryan, TX",2024,2.391165298
+312,"Colorado Springs, CO",2015,4.6
+695,"Colorado Springs, CO",2016,4.3
+1078,"Colorado Springs, CO",2017,3.8
+1461,"Colorado Springs, CO",2018,3.3
+1844,"Colorado Springs, CO",2019,3.1
+2227,"Colorado Springs, CO",2020,2.936310522
+2610,"Colorado Springs, CO",2021,2.802339297
+2993,"Colorado Springs, CO",2022,2.692690897
+3376,"Colorado Springs, CO",2023,2.602949451
+3759,"Colorado Springs, CO",2024,2.529500799
+226,"Columbia, MO",2015,3.5
+609,"Columbia, MO",2016,3.3
+992,"Columbia, MO",2017,2.9
+1375,"Columbia, MO",2018,2.7
+1758,"Columbia, MO",2019,2.6
+2141,"Columbia, MO",2020,2.527788872
+2524,"Columbia, MO",2021,2.475644402
+2907,"Columbia, MO",2022,2.437990292
+3290,"Columbia, MO",2023,2.410799834
+3673,"Columbia, MO",2024,2.391165298
+269,"Columbia, SC",2015,5.5
+652,"Columbia, SC",2016,5.1
+1035,"Columbia, SC",2017,4.5
+1418,"Columbia, SC",2018,4.1
+1801,"Columbia, SC",2019,3.8
+2184,"Columbia, SC",2020,3.529943997
+2567,"Columbia, SC",2021,3.286843182
+2950,"Columbia, SC",2022,3.068007066
+3333,"Columbia, SC",2023,2.871013712
+3716,"Columbia, SC",2024,2.693682918
+78,"Columbus, GA-AL",2015,7
+461,"Columbus, GA-AL",2016,6.6
+844,"Columbus, GA-AL",2017,5.7
+1227,"Columbus, GA-AL",2018,5.4
+1610,"Columbus, GA-AL",2019,5.3
+1993,"Columbus, GA-AL",2020,5.241591616
+2376,"Columbus, GA-AL",2021,5.207476223
+2759,"Columbus, GA-AL",2022,5.187549973
+3142,"Columbus, GA-AL",2023,5.175911372
+3525,"Columbus, GA-AL",2024,5.169113454
+172,"Columbus, IN",2015,3.6
+555,"Columbus, IN",2016,3.4
+938,"Columbus, IN",2017,3
+1321,"Columbus, IN",2018,2.7
+1704,"Columbus, IN",2019,2.6
+2087,"Columbus, IN",2020,2.524634184
+2470,"Columbus, IN",2021,2.467834122
+2853,"Columbus, IN",2022,2.425026291
+3236,"Columbus, IN",2023,2.39276382
+3619,"Columbus, IN",2024,2.368448946
+119,"Columbus, OH",2015,4.2
+502,"Columbus, OH",2016,3.9
+885,"Columbus, OH",2017,3.4
+1268,"Columbus, OH",2018,3.1
+1651,"Columbus, OH",2019,2.9
+2034,"Columbus, OH",2020,2.732148598
+2417,"Columbus, OH",2021,2.591278132
+2800,"Columbus, OH",2022,2.473051605
+3183,"Columbus, OH",2023,2.373829164
+3566,"Columbus, OH",2024,2.290556034
+270,"Corpus Christi, TX",2015,5.2
+653,"Corpus Christi, TX",2016,4.7
+1036,"Corpus Christi, TX",2017,4.2
+1419,"Corpus Christi, TX",2018,3.8
+1802,"Corpus Christi, TX",2019,3.5
+2185,"Corpus Christi, TX",2020,3.205904484
+2568,"Corpus Christi, TX",2021,2.917597244
+2951,"Corpus Christi, TX",2022,2.634964356
+3334,"Corpus Christi, TX",2023,2.357894141
+3717,"Corpus Christi, TX",2024,2.086277115
+271,"Corvallis, OR",2015,4.2
+654,"Corvallis, OR",2016,3.9
+1037,"Corvallis, OR",2017,3.5
+1420,"Corvallis, OR",2018,3.1
+1803,"Corvallis, OR",2019,2.9
+2186,"Corvallis, OR",2020,2.720101954
+2569,"Corvallis, OR",2021,2.558285418
+2952,"Corvallis, OR",2022,2.412733025
+3335,"Corvallis, OR",2023,2.28181007
+3718,"Corvallis, OR",2024,2.16404615
+313,"Crestview-Fort Walton Beach-Destin, FL",2015,4.6
+696,"Crestview-Fort Walton Beach-Destin, FL",2016,4.3
+1079,"Crestview-Fort Walton Beach-Destin, FL",2017,3.8
+1462,"Crestview-Fort Walton Beach-Destin, FL",2018,3.3
+1845,"Crestview-Fort Walton Beach-Destin, FL",2019,3.1
+2228,"Crestview-Fort Walton Beach-Destin, FL",2020,2.936310522
+2611,"Crestview-Fort Walton Beach-Destin, FL",2021,2.802339297
+2994,"Crestview-Fort Walton Beach-Destin, FL",2022,2.692690897
+3377,"Crestview-Fort Walton Beach-Destin, FL",2023,2.602949451
+3760,"Crestview-Fort Walton Beach-Destin, FL",2024,2.529500799
+173,"Cumberland, MD-WV",2015,7.1
+556,"Cumberland, MD-WV",2016,6.6
+939,"Cumberland, MD-WV",2017,5.7
+1322,"Cumberland, MD-WV",2018,5.4
+1705,"Cumberland, MD-WV",2019,5.3
+2088,"Cumberland, MD-WV",2020,5.234581598
+2471,"Cumberland, MD-WV",2021,5.191785924
+2854,"Cumberland, MD-WV",2022,5.163789678
+3237,"Cumberland, MD-WV",2023,5.145474982
+3620,"Cumberland, MD-WV",2024,5.1334938
+200,"Dallas-Fort Worth-Arlington, TX",2015,4.1
+583,"Dallas-Fort Worth-Arlington, TX",2016,3.8
+966,"Dallas-Fort Worth-Arlington, TX",2017,3.3
+1349,"Dallas-Fort Worth-Arlington, TX",2018,3
+1732,"Dallas-Fort Worth-Arlington, TX",2019,2.9
+2115,"Dallas-Fort Worth-Arlington, TX",2020,2.82215373
+2498,"Dallas-Fort Worth-Arlington, TX",2021,2.761553313
+2881,"Dallas-Fort Worth-Arlington, TX",2022,2.714378149
+3264,"Dallas-Fort Worth-Arlington, TX",2023,2.677654043
+3647,"Dallas-Fort Worth-Arlington, TX",2024,2.649065697
+52,"Dalton, GA",2015,6.7
+435,"Dalton, GA",2016,6.2
+818,"Dalton, GA",2017,5.5
+1201,"Dalton, GA",2018,5
+1584,"Dalton, GA",2019,4.8
+1967,"Dalton, GA",2020,4.628299982
+2350,"Dalton, GA",2021,4.4808955
+2733,"Dalton, GA",2022,4.35434874
+3116,"Dalton, GA",2023,4.245708334
+3499,"Dalton, GA",2024,4.152440536
+251,"Danville, IL",2015,7.1
+634,"Danville, IL",2016,6.6
+1017,"Danville, IL",2017,5.8
+1400,"Danville, IL",2018,5.4
+1783,"Danville, IL",2019,5.3
+2166,"Danville, IL",2020,5.224900858
+2549,"Danville, IL",2021,5.168502046
+2932,"Danville, IL",2022,5.126147022
+3315,"Danville, IL",2023,5.094338762
+3698,"Danville, IL",2024,5.070451031
+149,"Daphne-Fairhope-Foley, AL",2015,5.5
+532,"Daphne-Fairhope-Foley, AL",2016,5.1
+915,"Daphne-Fairhope-Foley, AL",2017,4.5
+1298,"Daphne-Fairhope-Foley, AL",2018,4.1
+1681,"Daphne-Fairhope-Foley, AL",2019,3.8
+2064,"Daphne-Fairhope-Foley, AL",2020,3.529943997
+2447,"Daphne-Fairhope-Foley, AL",2021,3.286843182
+2830,"Daphne-Fairhope-Foley, AL",2022,3.068007066
+3213,"Daphne-Fairhope-Foley, AL",2023,2.871013712
+3596,"Daphne-Fairhope-Foley, AL",2024,2.693682918
+272,"Davenport-Moline-Rock Island, IA-IL",2015,5.6
+655,"Davenport-Moline-Rock Island, IA-IL",2016,5.1
+1038,"Davenport-Moline-Rock Island, IA-IL",2017,4.6
+1421,"Davenport-Moline-Rock Island, IA-IL",2018,4.2
+1804,"Davenport-Moline-Rock Island, IA-IL",2019,3.8
+2187,"Davenport-Moline-Rock Island, IA-IL",2020,3.403249829
+2570,"Davenport-Moline-Rock Island, IA-IL",2021,3.009723081
+2953,"Davenport-Moline-Rock Island, IA-IL",2022,2.619393567
+3336,"Davenport-Moline-Rock Island, IA-IL",2023,2.23223531
+3719,"Davenport-Moline-Rock Island, IA-IL",2024,1.848222545
+273,"Dayton-Kettering, OH",2015,4.8
+656,"Dayton-Kettering, OH",2016,4.5
+1039,"Dayton-Kettering, OH",2017,4
+1422,"Dayton-Kettering, OH",2018,3.5
+1805,"Dayton-Kettering, OH",2019,3.3
+2188,"Dayton-Kettering, OH",2020,3.136312627
+2571,"Dayton-Kettering, OH",2021,3.002344845
+2954,"Dayton-Kettering, OH",2022,2.892700674
+3337,"Dayton-Kettering, OH",2023,2.802963842
+3720,"Dayton-Kettering, OH",2024,2.729519911
+291,"Decatur, AL",2015,6.2
+674,"Decatur, AL",2016,5.8
+1057,"Decatur, AL",2017,5.1
+1440,"Decatur, AL",2018,4.6
+1823,"Decatur, AL",2019,4.4
+2206,"Decatur, AL",2020,4.239774261
+2589,"Decatur, AL",2021,4.111412824
+2972,"Decatur, AL",2022,4.008578793
+3355,"Decatur, AL",2023,3.9261955
+3738,"Decatur, AL",2024,3.86019588
+252,"Decatur, IL",2015,6.9
+635,"Decatur, IL",2016,6.4
+1018,"Decatur, IL",2017,5.6
+1401,"Decatur, IL",2018,5.2
+1784,"Decatur, IL",2019,5
+2167,"Decatur, IL",2020,4.842374935
+2550,"Decatur, IL",2021,4.71814663
+2933,"Decatur, IL",2022,4.620239156
+3316,"Decatur, IL",2023,4.543075797
+3699,"Decatur, IL",2024,4.482261399
+4,"Deltona-Daytona Beach-Ormond Beach, FL",2015,5.9
+387,"Deltona-Daytona Beach-Ormond Beach, FL",2016,5.4
+770,"Deltona-Daytona Beach-Ormond Beach, FL",2017,4.8
+1153,"Deltona-Daytona Beach-Ormond Beach, FL",2018,4.3
+1536,"Deltona-Daytona Beach-Ormond Beach, FL",2019,4.1
+1919,"Deltona-Daytona Beach-Ormond Beach, FL",2020,3.92083022
+2302,"Deltona-Daytona Beach-Ormond Beach, FL",2021,3.760321169
+2685,"Deltona-Daytona Beach-Ormond Beach, FL",2022,3.616529312
+3068,"Deltona-Daytona Beach-Ormond Beach, FL",2023,3.487713535
+3451,"Deltona-Daytona Beach-Ormond Beach, FL",2024,3.372314062
+120,"Denver-Aurora-Lakewood, CO ",2015,3.7
+503,"Denver-Aurora-Lakewood, CO ",2016,3.4
+886,"Denver-Aurora-Lakewood, CO ",2017,3
+1269,"Denver-Aurora-Lakewood, CO ",2018,2.7
+1652,"Denver-Aurora-Lakewood, CO ",2019,2.7
+2035,"Denver-Aurora-Lakewood, CO ",2020,2.7
+2418,"Denver-Aurora-Lakewood, CO ",2021,2.7
+2801,"Denver-Aurora-Lakewood, CO ",2022,2.7
+3184,"Denver-Aurora-Lakewood, CO ",2023,2.7
+3567,"Denver-Aurora-Lakewood, CO ",2024,2.7
+292,"Des Moines-West Des Moines, IA",2015,3.6
+675,"Des Moines-West Des Moines, IA",2016,3.4
+1058,"Des Moines-West Des Moines, IA",2017,3
+1441,"Des Moines-West Des Moines, IA",2018,2.7
+1824,"Des Moines-West Des Moines, IA",2019,2.6
+2207,"Des Moines-West Des Moines, IA",2020,2.524634184
+2590,"Des Moines-West Des Moines, IA",2021,2.467834122
+2973,"Des Moines-West Des Moines, IA",2022,2.425026291
+3356,"Des Moines-West Des Moines, IA",2023,2.39276382
+3739,"Des Moines-West Des Moines, IA",2024,2.368448946
+201,"Detroit-Warren-Dearborn, MI",2015,5.8
+584,"Detroit-Warren-Dearborn, MI",2016,5.3
+967,"Detroit-Warren-Dearborn, MI",2017,4.8
+1350,"Detroit-Warren-Dearborn, MI",2018,4.3
+1733,"Detroit-Warren-Dearborn, MI",2019,4
+2116,"Detroit-Warren-Dearborn, MI",2020,3.711334486
+2499,"Detroit-Warren-Dearborn, MI",2021,3.433575223
+2882,"Detroit-Warren-Dearborn, MI",2022,3.166310155
+3265,"Detroit-Warren-Dearborn, MI",2023,2.909142794
+3648,"Detroit-Warren-Dearborn, MI",2024,2.661691633
+202,"Dothan, AL",2015,6.2
+585,"Dothan, AL",2016,5.8
+968,"Dothan, AL",2017,5.1
+1351,"Dothan, AL",2018,4.6
+1734,"Dothan, AL",2019,4.4
+2117,"Dothan, AL",2020,4.239774261
+2500,"Dothan, AL",2021,4.111412824
+2883,"Dothan, AL",2022,4.008578793
+3266,"Dothan, AL",2023,3.9261955
+3649,"Dothan, AL",2024,3.86019588
+79,"Dover, DE",2015,5.4
+462,"Dover, DE",2016,5
+845,"Dover, DE",2017,4.4
+1228,"Dover, DE",2018,4
+1611,"Dover, DE",2019,3.7
+1994,"Dover, DE",2020,3.429950104
+2377,"Dover, DE",2021,3.186860283
+2760,"Dover, DE",2022,2.968039013
+3143,"Dover, DE",2023,2.771063476
+3526,"Dover, DE",2024,2.593752732
+227,"Dubuque, IA",2015,3.7
+610,"Dubuque, IA",2016,3.4
+993,"Dubuque, IA",2017,3
+1376,"Dubuque, IA",2018,2.7
+1759,"Dubuque, IA",2019,2.7
+2142,"Dubuque, IA",2020,2.7
+2525,"Dubuque, IA",2021,2.7
+2908,"Dubuque, IA",2022,2.7
+3291,"Dubuque, IA",2023,2.7
+3674,"Dubuque, IA",2024,2.7
+228,"Duluth, MN-WI",2015,4.9
+611,"Duluth, MN-WI",2016,4.6
+994,"Duluth, MN-WI",2017,4.1
+1377,"Duluth, MN-WI",2018,3.6
+1760,"Duluth, MN-WI",2019,3.3
+2143,"Duluth, MN-WI",2020,3.032733024
+2526,"Duluth, MN-WI",2021,2.794627568
+2909,"Duluth, MN-WI",2022,2.582501817
+3292,"Duluth, MN-WI",2023,2.393521123
+3675,"Duluth, MN-WI",2024,2.225160127
+5,"Durham-Chapel Hill, NC",2015,5
+388,"Durham-Chapel Hill, NC",2016,4.6
+771,"Durham-Chapel Hill, NC",2017,4.1
+1154,"Durham-Chapel Hill, NC",2018,3.7
+1537,"Durham-Chapel Hill, NC",2019,3.4
+1920,"Durham-Chapel Hill, NC",2020,3.111399548
+2303,"Durham-Chapel Hill, NC",2021,2.833765479
+2686,"Durham-Chapel Hill, NC",2022,2.566681087
+3069,"Durham-Chapel Hill, NC",2023,2.3097455
+3452,"Durham-Chapel Hill, NC",2024,2.06257308
+150,"East Stroudsburg, PA",2015,6.4
+533,"East Stroudsburg, PA",2016,5.9
+916,"East Stroudsburg, PA",2017,5.3
+1299,"East Stroudsburg, PA",2018,4.9
+1682,"East Stroudsburg, PA",2019,4.6
+2065,"East Stroudsburg, PA",2020,4.316680439
+2448,"East Stroudsburg, PA",2021,4.049113861
+2831,"East Stroudsburg, PA",2022,3.796424378
+3214,"East Stroudsburg, PA",2023,3.5577848
+3597,"East Stroudsburg, PA",2024,3.332413932
+365,"Eau Claire, WI",2015,4.1
+748,"Eau Claire, WI",2016,3.8
+1131,"Eau Claire, WI",2017,3.4
+1514,"Eau Claire, WI",2018,3
+1897,"Eau Claire, WI",2019,2.9
+2280,"Eau Claire, WI",2020,2.819781576
+2663,"Eau Claire, WI",2021,2.75543162
+3046,"Eau Claire, WI",2022,2.7038111
+3429,"Eau Claire, WI",2023,2.662401932
+3812,"Eau Claire, WI",2024,2.62918415
+6,"El Centro, CA",2015,24.5
+389,"El Centro, CA",2016,24.1
+772,"El Centro, CA",2017,19.5
+1155,"El Centro, CA",2018,18.9
+1538,"El Centro, CA",2019,18.3
+1921,"El Centro, CA",2020,18.18953132
+2304,"El Centro, CA",2021,18.16919244
+2687,"El Centro, CA",2022,18.16544776
+3070,"El Centro, CA",2023,18.16475831
+3453,"El Centro, CA",2024,18.16463137
+80,"El Paso, TX",2015,5.2
+463,"El Paso, TX",2016,4.8
+846,"El Paso, TX",2017,4.2
+1229,"El Paso, TX",2018,3.8
+1612,"El Paso, TX",2019,3.6
+1995,"El Paso, TX",2020,3.428644954
+2378,"El Paso, TX",2021,3.281832194
+2761,"El Paso, TX",2022,3.156046658
+3144,"El Paso, TX",2023,3.048276726
+3527,"El Paso, TX",2024,2.955942118
+274,"Elizabethtown-Fort Knox, KY",2015,5.1
+657,"Elizabethtown-Fort Knox, KY",2016,4.7
+1040,"Elizabethtown-Fort Knox, KY",2017,4.1
+1423,"Elizabethtown-Fort Knox, KY",2018,3.7
+1806,"Elizabethtown-Fort Knox, KY",2019,3.4
+2189,"Elizabethtown-Fort Knox, KY",2020,3.129937185
+2572,"Elizabethtown-Fort Knox, KY",2021,2.886824105
+2955,"Elizabethtown-Fort Knox, KY",2022,2.66797143
+3338,"Elizabethtown-Fort Knox, KY",2023,2.470958198
+3721,"Elizabethtown-Fort Knox, KY",2024,2.293605039
+314,"Elkhart-Goshen, IN",2015,3.9
+697,"Elkhart-Goshen, IN",2016,3.6
+1080,"Elkhart-Goshen, IN",2017,3.2
+1463,"Elkhart-Goshen, IN",2018,2.9
+1846,"Elkhart-Goshen, IN",2019,2.7
+2229,"Elkhart-Goshen, IN",2020,2.51366365
+2612,"Elkhart-Goshen, IN",2021,2.340057475
+2995,"Elkhart-Goshen, IN",2022,2.17831177
+3378,"Elkhart-Goshen, IN",2023,2.02761625
+3761,"Elkhart-Goshen, IN",2024,1.887215985
+275,"Elmira, NY",2015,5.9
+658,"Elmira, NY",2016,5.4
+1041,"Elmira, NY",2017,4.9
+1424,"Elmira, NY",2018,4.3
+1807,"Elmira, NY",2019,4.1
+2190,"Elmira, NY",2020,3.930400777
+2573,"Elmira, NY",2021,3.786581293
+2956,"Elmira, NY",2022,3.66462293
+3339,"Elmira, NY",2023,3.561202712
+3722,"Elmira, NY",2024,3.473502768
+174,"Enid, OK",2015,3.9
+557,"Enid, OK",2016,3.6
+940,"Enid, OK",2017,3.2
+1323,"Enid, OK",2018,2.9
+1706,"Enid, OK",2019,2.7
+2089,"Enid, OK",2020,2.51366365
+2472,"Enid, OK",2021,2.340057475
+2855,"Enid, OK",2022,2.17831177
+3238,"Enid, OK",2023,2.02761625
+3621,"Enid, OK",2024,1.887215985
+102,"Erie, PA",2015,5.5
+485,"Erie, PA",2016,5.1
+868,"Erie, PA",2017,4.5
+1251,"Erie, PA",2018,4.1
+1634,"Erie, PA",2019,3.8
+2017,"Erie, PA",2020,3.529943997
+2400,"Erie, PA",2021,3.286843182
+2783,"Erie, PA",2022,3.068007066
+3166,"Erie, PA",2023,2.871013712
+3549,"Erie, PA",2024,2.693682918
+229,"Eugene-Springfield, OR",2015,5.8
+612,"Eugene-Springfield, OR",2016,5.3
+995,"Eugene-Springfield, OR",2017,4.8
+1378,"Eugene-Springfield, OR",2018,4.3
+1761,"Eugene-Springfield, OR",2019,4
+2144,"Eugene-Springfield, OR",2020,3.711334486
+2527,"Eugene-Springfield, OR",2021,3.433575223
+2910,"Eugene-Springfield, OR",2022,3.166310155
+3293,"Eugene-Springfield, OR",2023,2.909142794
+3676,"Eugene-Springfield, OR",2024,2.661691633
+203,"Evansville, IN-KY",2015,4.3
+586,"Evansville, IN-KY",2016,4
+969,"Evansville, IN-KY",2017,3.5
+1352,"Evansville, IN-KY",2018,3.2
+1735,"Evansville, IN-KY",2019,3
+2118,"Evansville, IN-KY",2020,2.832168897
+2501,"Evansville, IN-KY",2021,2.6913325
+2884,"Evansville, IN-KY",2022,2.573148861
+3267,"Evansville, IN-KY",2023,2.473974408
+3650,"Evansville, IN-KY",2024,2.390751619
+53,"Fairbanks, AK ",2015,5.5
+436,"Fairbanks, AK ",2016,5.1
+819,"Fairbanks, AK ",2017,4.5
+1202,"Fairbanks, AK ",2018,4.1
+1585,"Fairbanks, AK ",2019,3.8
+1968,"Fairbanks, AK ",2020,3.529943997
+2351,"Fairbanks, AK ",2021,3.286843182
+2734,"Fairbanks, AK ",2022,3.068007066
+3117,"Fairbanks, AK ",2023,2.871013712
+3500,"Fairbanks, AK ",2024,2.693682918
+276,"Fargo, ND-MN",2015,2.5
+659,"Fargo, ND-MN",2016,2.5
+1042,"Fargo, ND-MN",2017,2.3
+1425,"Fargo, ND-MN",2018,2
+1808,"Fargo, ND-MN",2019,1.9
+2191,"Fargo, ND-MN",2020,1.843502561
+2574,"Fargo, ND-MN",2021,1.811582956
+2957,"Fargo, ND-MN",2022,1.793549196
+3340,"Fargo, ND-MN",2023,1.783360584
+3723,"Fargo, ND-MN",2024,1.777604279
+151,"Farmington, NM",2015,6.8
+534,"Farmington, NM",2016,6.3
+917,"Farmington, NM",2017,5.6
+1300,"Farmington, NM",2018,5.1
+1683,"Farmington, NM",2019,4.9
+2066,"Farmington, NM",2020,4.728298704
+2449,"Farmington, NM",2021,4.58089203
+2832,"Farmington, NM",2022,4.454342445
+3215,"Farmington, NM",2023,4.345698806
+3598,"Farmington, NM",2024,4.252427538
+7,"Fayetteville, NC",2015,7.4
+390,"Fayetteville, NC",2016,7
+773,"Fayetteville, NC",2017,6.2
+1156,"Fayetteville, NC",2018,5.6
+1539,"Fayetteville, NC",2019,5.5
+1922,"Fayetteville, NC",2020,5.429770602
+2305,"Fayetteville, NC",2021,5.380448918
+2688,"Fayetteville, NC",2022,5.345810596
+3071,"Fayetteville, NC",2023,5.32148431
+3454,"Fayetteville, NC",2024,5.304400107
+345,"Fayetteville-Springdale-Rogers, AR",2015,3.7
+728,"Fayetteville-Springdale-Rogers, AR",2016,3.5
+1111,"Fayetteville-Springdale-Rogers, AR",2017,3
+1494,"Fayetteville-Springdale-Rogers, AR",2018,2.8
+1877,"Fayetteville-Springdale-Rogers, AR",2019,2.7
+2260,"Fayetteville-Springdale-Rogers, AR",2020,2.639117258
+2643,"Fayetteville-Springdale-Rogers, AR",2021,2.602050176
+3026,"Fayetteville-Springdale-Rogers, AR",2022,2.579482719
+3409,"Fayetteville-Springdale-Rogers, AR",2023,2.565743033
+3792,"Fayetteville-Springdale-Rogers, AR",2024,2.557377936
+152,"Flagstaff, AZ",2015,6.5
+535,"Flagstaff, AZ",2016,6
+918,"Flagstaff, AZ",2017,5.4
+1301,"Flagstaff, AZ",2018,4.9
+1684,"Flagstaff, AZ",2019,4.6
+2067,"Flagstaff, AZ",2020,4.316204124
+2450,"Flagstaff, AZ",2021,4.047737125
+2833,"Flagstaff, AZ",2022,3.793771036
+3216,"Flagstaff, AZ",2023,3.553522606
+3599,"Flagstaff, AZ",2024,3.326250893
+315,"Flint, MI",2015,6.2
+698,"Flint, MI",2016,5.8
+1081,"Flint, MI",2017,5.2
+1464,"Flint, MI",2018,4.6
+1847,"Flint, MI",2019,4.4
+2230,"Flint, MI",2020,4.237450089
+2613,"Flint, MI",2021,4.105337722
+2996,"Flint, MI",2022,3.997963455
+3379,"Flint, MI",2023,3.910695067
+3762,"Flint, MI",2024,3.839767724
+54,"Florence, SC",2015,6.8
+437,"Florence, SC",2016,6.3
+820,"Florence, SC",2017,5.6
+1203,"Florence, SC",2018,5.1
+1586,"Florence, SC",2019,5
+1969,"Florence, SC",2020,4.919581918
+2352,"Florence, SC",2021,4.854911238
+2735,"Florence, SC",2022,4.802904317
+3118,"Florence, SC",2023,4.761081349
+3501,"Florence, SC",2024,4.72744812
+55,"Florence-Muscle Shoals, AL",2015,7.3
+438,"Florence-Muscle Shoals, AL",2016,6.8
+821,"Florence-Muscle Shoals, AL",2017,5.9
+1204,"Florence-Muscle Shoals, AL",2018,5.6
+1587,"Florence-Muscle Shoals, AL",2019,5.4
+1970,"Florence-Muscle Shoals, AL",2020,5.264598006
+2353,"Florence-Muscle Shoals, AL",2021,5.172929506
+2736,"Florence-Muscle Shoals, AL",2022,5.110869017
+3119,"Florence-Muscle Shoals, AL",2023,5.068853448
+3502,"Florence-Muscle Shoals, AL",2024,5.040408488
+366,"Fond du Lac, WI",2015,4.1
+749,"Fond du Lac, WI",2016,3.8
+1132,"Fond du Lac, WI",2017,3.4
+1515,"Fond du Lac, WI",2018,3
+1898,"Fond du Lac, WI",2019,2.9
+2281,"Fond du Lac, WI",2020,2.819781576
+2664,"Fond du Lac, WI",2021,2.75543162
+3047,"Fond du Lac, WI",2022,2.7038111
+3430,"Fond du Lac, WI",2023,2.662401932
+3813,"Fond du Lac, WI",2024,2.62918415
+175,"Fort Collins, CO",2015,3.3
+558,"Fort Collins, CO",2016,3
+941,"Fort Collins, CO",2017,2.7
+1324,"Fort Collins, CO",2018,2.5
+1707,"Fort Collins, CO",2019,2.5
+2090,"Fort Collins, CO",2020,2.5
+2473,"Fort Collins, CO",2021,2.5
+2856,"Fort Collins, CO",2022,2.5
+3239,"Fort Collins, CO",2023,2.5
+3622,"Fort Collins, CO",2024,2.5
+367,"Fort Smith, AR-OK",2015,5.4
+750,"Fort Smith, AR-OK",2016,5
+1133,"Fort Smith, AR-OK",2017,4.4
+1516,"Fort Smith, AR-OK",2018,4
+1899,"Fort Smith, AR-OK",2019,3.7
+2282,"Fort Smith, AR-OK",2020,3.429950104
+2665,"Fort Smith, AR-OK",2021,3.186860283
+3048,"Fort Smith, AR-OK",2022,2.968039013
+3431,"Fort Smith, AR-OK",2023,2.771063476
+3814,"Fort Smith, AR-OK",2024,2.593752732
+204,"Fort Wayne, IN",2015,4.5
+587,"Fort Wayne, IN",2016,4.2
+970,"Fort Wayne, IN",2017,3.7
+1353,"Fort Wayne, IN",2018,3.3
+1736,"Fort Wayne, IN",2019,3.1
+2119,"Fort Wayne, IN",2020,2.929789133
+2502,"Fort Wayne, IN",2021,2.784930438
+2885,"Fort Wayne, IN",2022,2.661647817
+3268,"Fort Wayne, IN",2023,2.556727609
+3651,"Fort Wayne, IN",2024,2.467434811
+153,"Fresno, CA",2015,10.2
+536,"Fresno, CA",2016,9.3
+919,"Fresno, CA",2017,8.2
+1302,"Fresno, CA",2018,7.2
+1685,"Fresno, CA",2019,7
+2068,"Fresno, CA",2020,6.836724119
+2451,"Fresno, CA",2021,6.703429052
+2834,"Fresno, CA",2022,6.594609705
+3217,"Fresno, CA",2023,6.505771831
+3600,"Fresno, CA",2024,6.433246421
+8,"Gadsden, AL",2015,6.2
+391,"Gadsden, AL",2016,5.8
+774,"Gadsden, AL",2017,5.2
+1157,"Gadsden, AL",2018,4.6
+1540,"Gadsden, AL",2019,4.4
+1923,"Gadsden, AL",2020,4.237450089
+2306,"Gadsden, AL",2021,4.105337722
+2689,"Gadsden, AL",2022,3.997963455
+3072,"Gadsden, AL",2023,3.910695067
+3455,"Gadsden, AL",2024,3.839767724
+103,"Gainesville, FL",2015,4.7
+486,"Gainesville, FL",2016,4.4
+869,"Gainesville, FL",2017,3.9
+1252,"Gainesville, FL",2018,3.5
+1635,"Gainesville, FL",2019,3.2
+2018,"Gainesville, FL",2020,2.927281137
+2401,"Gainesville, FL",2021,2.679362543
+2784,"Gainesville, FL",2022,2.453988952
+3167,"Gainesville, FL",2023,2.249110188
+3550,"Gainesville, FL",2024,2.062862509
+230,"Gainesville, GA",2015,4.9
+613,"Gainesville, GA",2016,4.6
+996,"Gainesville, GA",2017,4.1
+1379,"Gainesville, GA",2018,3.6
+1762,"Gainesville, GA",2019,3.3
+2145,"Gainesville, GA",2020,3.032733024
+2528,"Gainesville, GA",2021,2.794627568
+2911,"Gainesville, GA",2022,2.582501817
+3294,"Gainesville, GA",2023,2.393521123
+3677,"Gainesville, GA",2024,2.225160127
+293,"Gettysburg, PA",2015,4.2
+676,"Gettysburg, PA",2016,3.9
+1059,"Gettysburg, PA",2017,3.5
+1442,"Gettysburg, PA",2018,3.1
+1825,"Gettysburg, PA",2019,2.9
+2208,"Gettysburg, PA",2020,2.720101954
+2591,"Gettysburg, PA",2021,2.558285418
+2974,"Gettysburg, PA",2022,2.412733025
+3357,"Gettysburg, PA",2023,2.28181007
+3740,"Gettysburg, PA",2024,2.16404615
+346,"Glens Falls, NY",2015,5.3
+729,"Glens Falls, NY",2016,4.8
+1112,"Glens Falls, NY",2017,4.3
+1495,"Glens Falls, NY",2018,3.8
+1878,"Glens Falls, NY",2019,3.6
+2261,"Glens Falls, NY",2020,3.418359325
+2644,"Glens Falls, NY",2021,3.253392652
+3027,"Glens Falls, NY",2022,3.103569363
+3410,"Glens Falls, NY",2023,2.967499347
+3793,"Glens Falls, NY",2024,2.843920099
+231,"Goldsboro, NC",2015,6
+614,"Goldsboro, NC",2016,5.6
+997,"Goldsboro, NC",2017,4.9
+1380,"Goldsboro, NC",2018,4.4
+1763,"Goldsboro, NC",2019,4.2
+2146,"Goldsboro, NC",2020,4.039770102
+2529,"Goldsboro, NC",2021,3.911402001
+2912,"Goldsboro, NC",2022,3.808559962
+3295,"Goldsboro, NC",2023,3.726168115
+3678,"Goldsboro, NC",2024,3.660159929
+9,"Grand Forks, ND-MN",2015,3
+392,"Grand Forks, ND-MN",2016,2.8
+775,"Grand Forks, ND-MN",2017,2.5
+1158,"Grand Forks, ND-MN",2018,2.4
+1541,"Grand Forks, ND-MN",2019,2.4
+1924,"Grand Forks, ND-MN",2020,2.4
+2307,"Grand Forks, ND-MN",2021,2.4
+2690,"Grand Forks, ND-MN",2022,2.399999999
+3073,"Grand Forks, ND-MN",2023,2.399999999
+3456,"Grand Forks, ND-MN",2024,2.399999999
+368,"Grand Island, NE",2015,3.8
+751,"Grand Island, NE",2016,3.5
+1134,"Grand Island, NE",2017,3.1
+1517,"Grand Island, NE",2018,2.8
+1900,"Grand Island, NE",2019,2.7
+2283,"Grand Island, NE",2020,2.614538514
+2666,"Grand Island, NE",2021,2.541501859
+3049,"Grand Island, NE",2022,2.479083649
+3432,"Grand Island, NE",2023,2.425740119
+3815,"Grand Island, NE",2024,2.380151946
+36,"Grand Junction, CO",2015,5.6
+419,"Grand Junction, CO",2016,5.2
+802,"Grand Junction, CO",2017,4.6
+1185,"Grand Junction, CO",2018,4.2
+1568,"Grand Junction, CO",2019,3.8
+1951,"Grand Junction, CO",2020,3.430471399
+2334,"Grand Junction, CO",2021,3.089092931
+2717,"Grand Junction, CO",2022,2.773720163
+3100,"Grand Junction, CO",2023,2.482372018
+3483,"Grand Junction, CO",2024,2.213218338
+316,"Grand Rapids-Kentwood, MI",2015,3.9
+699,"Grand Rapids-Kentwood, MI",2016,3.6
+1082,"Grand Rapids-Kentwood, MI",2017,3.2
+1465,"Grand Rapids-Kentwood, MI",2018,2.9
+1848,"Grand Rapids-Kentwood, MI",2019,2.8
+2231,"Grand Rapids-Kentwood, MI",2020,2.714534074
+2614,"Grand Rapids-Kentwood, MI",2021,2.641489828
+2997,"Grand Rapids-Kentwood, MI",2022,2.579061887
+3380,"Grand Rapids-Kentwood, MI",2023,2.525707269
+3763,"Grand Rapids-Kentwood, MI",2024,2.48010725
+294,"Grants Pass, OR",2015,7.7
+677,"Grants Pass, OR",2016,7.2
+1060,"Grants Pass, OR",2017,6.5
+1443,"Grants Pass, OR",2018,5.7
+1826,"Grants Pass, OR",2019,5.6
+2209,"Grants Pass, OR",2020,5.529576853
+2592,"Grants Pass, OR",2021,5.479982658
+2975,"Grants Pass, OR",2022,5.445056864
+3358,"Grants Pass, OR",2023,5.420461022
+3741,"Grants Pass, OR",2024,5.403139856
+317,"Great Falls, MT",2015,4
+700,"Great Falls, MT",2016,3.7
+1083,"Great Falls, MT",2017,3.3
+1466,"Great Falls, MT",2018,3
+1849,"Great Falls, MT",2019,2.8
+2232,"Great Falls, MT",2020,2.613674408
+2615,"Great Falls, MT",2021,2.440088276
+2998,"Great Falls, MT",2022,2.278370582
+3381,"Great Falls, MT",2023,2.127709857
+3764,"Great Falls, MT",2024,1.987350113
+37,"Greeley, CO ",2015,3.9
+420,"Greeley, CO ",2016,3.6
+803,"Greeley, CO ",2017,3.2
+1186,"Greeley, CO ",2018,2.9
+1569,"Greeley, CO ",2019,2.8
+1952,"Greeley, CO ",2020,2.714534074
+2335,"Greeley, CO ",2021,2.641489828
+2718,"Greeley, CO ",2022,2.579061887
+3101,"Greeley, CO ",2023,2.525707269
+3484,"Greeley, CO ",2024,2.48010725
+318,"Green Bay, WI",2015,4.2
+701,"Green Bay, WI",2016,3.9
+1084,"Green Bay, WI",2017,3.5
+1467,"Green Bay, WI",2018,3.1
+1850,"Green Bay, WI",2019,2.9
+2233,"Green Bay, WI",2020,2.720101954
+2616,"Green Bay, WI",2021,2.558285418
+2999,"Green Bay, WI",2022,2.412733025
+3382,"Green Bay, WI",2023,2.28181007
+3765,"Green Bay, WI",2024,2.16404615
+205,"Greensboro-High Point, NC",2015,5.9
+588,"Greensboro-High Point, NC",2016,5.5
+971,"Greensboro-High Point, NC",2017,4.9
+1354,"Greensboro-High Point, NC",2018,4.3
+1737,"Greensboro-High Point, NC",2019,4.1
+2120,"Greensboro-High Point, NC",2020,3.937452015
+2503,"Greensboro-High Point, NC",2021,3.805342778
+2886,"Greensboro-High Point, NC",2022,3.697972327
+3269,"Greensboro-High Point, NC",2023,3.610708075
+3652,"Greensboro-High Point, NC",2024,3.539784933
+56,"Greenville, NC",2015,6
+439,"Greenville, NC",2016,5.6
+822,"Greenville, NC",2017,4.9
+1205,"Greenville, NC",2018,4.4
+1588,"Greenville, NC",2019,4.2
+1971,"Greenville, NC",2020,4.039770102
+2354,"Greenville, NC",2021,3.911402001
+2737,"Greenville, NC",2022,3.808559962
+3120,"Greenville, NC",2023,3.726168115
+3503,"Greenville, NC",2024,3.660159929
+295,"Greenville-Anderson, SC",2015,5.3
+678,"Greenville-Anderson, SC",2016,4.8
+1061,"Greenville-Anderson, SC",2017,4.3
+1444,"Greenville-Anderson, SC",2018,3.9
+1827,"Greenville-Anderson, SC",2019,3.6
+2210,"Greenville-Anderson, SC",2020,3.305796981
+2593,"Greenville-Anderson, SC",2021,3.017278928
+2976,"Greenville-Anderson, SC",2022,2.734335989
+3359,"Greenville-Anderson, SC",2023,2.456860434
+3742,"Greenville-Anderson, SC",2024,2.184746617
+176,"Gulfport-Biloxi, MS",2015,6.4
+559,"Gulfport-Biloxi, MS",2016,6
+942,"Gulfport-Biloxi, MS",2017,5.3
+1325,"Gulfport-Biloxi, MS",2018,4.9
+1708,"Gulfport-Biloxi, MS",2019,4.6
+2091,"Gulfport-Biloxi, MS",2020,4.352192784
+2474,"Gulfport-Biloxi, MS",2021,4.147498062
+2857,"Gulfport-Biloxi, MS",2022,3.978415299
+3240,"Gulfport-Biloxi, MS",2023,3.838748869
+3623,"Gulfport-Biloxi, MS",2024,3.723381039
+296,"Hagerstown-Martinsburg, MD-WV",2015,5.3
+679,"Hagerstown-Martinsburg, MD-WV",2016,4.9
+1062,"Hagerstown-Martinsburg, MD-WV",2017,4.3
+1445,"Hagerstown-Martinsburg, MD-WV",2018,3.9
+1828,"Hagerstown-Martinsburg, MD-WV",2019,3.6
+2211,"Hagerstown-Martinsburg, MD-WV",2020,3.329938661
+2594,"Hagerstown-Martinsburg, MD-WV",2021,3.08682824
+2977,"Hagerstown-Martinsburg, MD-WV",2022,2.867979154
+3360,"Hagerstown-Martinsburg, MD-WV",2023,2.670970231
+3743,"Hagerstown-Martinsburg, MD-WV",2024,2.493621919
+177,"Hammond, LA",2015,7.2
+560,"Hammond, LA",2016,6.7
+943,"Hammond, LA",2017,5.8
+1326,"Hammond, LA",2018,5.5
+1709,"Hammond, LA",2019,5.4
+2092,"Hammond, LA",2020,5.334580658
+2475,"Hammond, LA",2021,5.291783756
+2858,"Hammond, LA",2022,5.263786304
+3241,"Hammond, LA",2023,5.245470556
+3624,"Hammond, LA",2024,5.233488514
+10,"Hanford-Corcoran, CA",2015,10.5
+393,"Hanford-Corcoran, CA",2016,9.8
+776,"Hanford-Corcoran, CA",2017,8.9
+1159,"Hanford-Corcoran, CA",2018,7.9
+1542,"Hanford-Corcoran, CA",2019,7.2
+1925,"Hanford-Corcoran, CA",2020,6.530905658
+2308,"Hanford-Corcoran, CA",2021,5.89135246
+2691,"Hanford-Corcoran, CA",2022,5.280036137
+3074,"Hanford-Corcoran, CA",2023,4.695710004
+3457,"Hanford-Corcoran, CA",2024,4.137182419
+121,"Harrisburg-Carlisle, PA",2015,4.3
+504,"Harrisburg-Carlisle, PA",2016,4
+887,"Harrisburg-Carlisle, PA",2017,3.5
+1270,"Harrisburg-Carlisle, PA",2018,3.2
+1653,"Harrisburg-Carlisle, PA",2019,3
+2036,"Harrisburg-Carlisle, PA",2020,2.832168897
+2419,"Harrisburg-Carlisle, PA",2021,2.6913325
+2802,"Harrisburg-Carlisle, PA",2022,2.573148861
+3185,"Harrisburg-Carlisle, PA",2023,2.473974408
+3568,"Harrisburg-Carlisle, PA",2024,2.390751619
+369,"Harrisonburg, VA ",2015,4.6
+752,"Harrisonburg, VA ",2016,4.3
+1135,"Harrisonburg, VA ",2017,3.8
+1518,"Harrisonburg, VA ",2018,3.4
+1901,"Harrisonburg, VA ",2019,3.2
+2284,"Harrisonburg, VA ",2020,3.029790429
+2667,"Harrisonburg, VA ",2021,2.884933939
+3050,"Harrisonburg, VA ",2022,2.761654134
+3433,"Harrisonburg, VA ",2023,2.656737121
+3816,"Harrisonburg, VA ",2024,2.567447722
+319,"Hartford-East Hartford-Middletown, CT",2015,5.7
+702,"Hartford-East Hartford-Middletown, CT",2016,5.2
+1085,"Hartford-East Hartford-Middletown, CT",2017,4.7
+1468,"Hartford-East Hartford-Middletown, CT",2018,4.2
+1851,"Hartford-East Hartford-Middletown, CT",2019,3.9
+2234,"Hartford-East Hartford-Middletown, CT",2020,3.611339614
+2617,"Hartford-East Hartford-Middletown, CT",2021,3.33359022
+3000,"Hartford-East Hartford-Middletown, CT",2022,3.066339396
+3383,"Hartford-East Hartford-Middletown, CT",2023,2.809190309
+3766,"Hartford-East Hartford-Middletown, CT",2024,2.561761128
+57,"Hattiesburg, MS",2015,5.7
+440,"Hattiesburg, MS",2016,5.3
+823,"Hattiesburg, MS",2017,4.7
+1206,"Hattiesburg, MS",2018,4.2
+1589,"Hattiesburg, MS",2019,3.9
+1972,"Hattiesburg, MS",2020,3.628581555
+2355,"Hattiesburg, MS",2021,3.383021646
+2738,"Hattiesburg, MS",2022,3.160856685
+3121,"Hattiesburg, MS",2023,2.95985779
+3504,"Hattiesburg, MS",2024,2.778008431
+178,"Hickory-Lenoir-Morganton, NC",2015,5.6
+561,"Hickory-Lenoir-Morganton, NC",2016,5.2
+944,"Hickory-Lenoir-Morganton, NC",2017,4.6
+1327,"Hickory-Lenoir-Morganton, NC",2018,4.2
+1710,"Hickory-Lenoir-Morganton, NC",2019,3.8
+2093,"Hickory-Lenoir-Morganton, NC",2020,3.430471399
+2476,"Hickory-Lenoir-Morganton, NC",2021,3.089092931
+2859,"Hickory-Lenoir-Morganton, NC",2022,2.773720163
+3242,"Hickory-Lenoir-Morganton, NC",2023,2.482372018
+3625,"Hickory-Lenoir-Morganton, NC",2024,2.213218338
+104,"Hilton Head Island-Bluffton, SC",2015,5.4
+487,"Hilton Head Island-Bluffton, SC",2016,5
+870,"Hilton Head Island-Bluffton, SC",2017,4.4
+1253,"Hilton Head Island-Bluffton, SC",2018,4
+1636,"Hilton Head Island-Bluffton, SC",2019,3.7
+2019,"Hilton Head Island-Bluffton, SC",2020,3.429950104
+2402,"Hilton Head Island-Bluffton, SC",2021,3.186860283
+2785,"Hilton Head Island-Bluffton, SC",2022,2.968039013
+3168,"Hilton Head Island-Bluffton, SC",2023,2.771063476
+3551,"Hilton Head Island-Bluffton, SC",2024,2.593752732
+11,"Hinesville, GA",2015,6.2
+394,"Hinesville, GA",2016,5.8
+777,"Hinesville, GA",2017,5.2
+1160,"Hinesville, GA",2018,4.6
+1543,"Hinesville, GA",2019,4.4
+1926,"Hinesville, GA",2020,4.237450089
+2309,"Hinesville, GA",2021,4.105337722
+2692,"Hinesville, GA",2022,3.997963455
+3075,"Hinesville, GA",2023,3.910695067
+3458,"Hinesville, GA",2024,3.839767724
+105,"Homosassa Springs, FL",2015,7.5
+488,"Homosassa Springs, FL",2016,7.1
+871,"Homosassa Springs, FL",2017,6.4
+1254,"Homosassa Springs, FL",2018,5.6
+1637,"Homosassa Springs, FL",2019,5.5
+2020,"Homosassa Springs, FL",2020,5.43368581
+2403,"Homosassa Springs, FL",2021,5.389710091
+2786,"Homosassa Springs, FL",2022,5.360547949
+3169,"Homosassa Springs, FL",2023,5.341209311
+3552,"Homosassa Springs, FL",2024,5.32838505
+206,"Hot Springs, AR",2015,5.5
+589,"Hot Springs, AR",2016,5.1
+972,"Hot Springs, AR",2017,4.5
+1355,"Hot Springs, AR",2018,4.1
+1738,"Hot Springs, AR",2019,3.8
+2121,"Hot Springs, AR",2020,3.529943997
+2504,"Hot Springs, AR",2021,3.286843182
+2887,"Hot Springs, AR",2022,3.068007066
+3270,"Hot Springs, AR",2023,2.871013712
+3653,"Hot Springs, AR",2024,2.693682918
+297,"Houma-Thibodaux, LA",2015,5.7
+680,"Houma-Thibodaux, LA",2016,5.3
+1063,"Houma-Thibodaux, LA",2017,4.7
+1446,"Houma-Thibodaux, LA",2018,4.2
+1829,"Houma-Thibodaux, LA",2019,4
+2212,"Houma-Thibodaux, LA",2020,3.830466096
+2595,"Houma-Thibodaux, LA",2021,3.686757374
+2978,"Houma-Thibodaux, LA",2022,3.564939871
+3361,"Houma-Thibodaux, LA",2023,3.461678886
+3744,"Houma-Thibodaux, LA",2024,3.374147698
+81,"Houston-The Woodlands-Sugar Land, TX",2015,4.6
+464,"Houston-The Woodlands-Sugar Land, TX",2016,4.3
+847,"Houston-The Woodlands-Sugar Land, TX",2017,3.8
+1230,"Houston-The Woodlands-Sugar Land, TX",2018,3.4
+1613,"Houston-The Woodlands-Sugar Land, TX",2019,3.2
+1996,"Houston-The Woodlands-Sugar Land, TX",2020,3.029790429
+2379,"Houston-The Woodlands-Sugar Land, TX",2021,2.884933939
+2762,"Houston-The Woodlands-Sugar Land, TX",2022,2.761654134
+3145,"Houston-The Woodlands-Sugar Land, TX",2023,2.656737121
+3528,"Houston-The Woodlands-Sugar Land, TX",2024,2.567447722
+58,"Huntington-Ashland, WV-KY-OH",2015,6.3
+441,"Huntington-Ashland, WV-KY-OH",2016,5.9
+824,"Huntington-Ashland, WV-KY-OH",2017,5.2
+1207,"Huntington-Ashland, WV-KY-OH",2018,4.7
+1590,"Huntington-Ashland, WV-KY-OH",2019,4.5
+1973,"Huntington-Ashland, WV-KY-OH",2020,4.339772073
+2356,"Huntington-Ashland, WV-KY-OH",2021,4.211407129
+2739,"Huntington-Ashland, WV-KY-OH",2022,4.108568885
+3122,"Huntington-Ashland, WV-KY-OH",2023,4.026181092
+3505,"Huntington-Ashland, WV-KY-OH",2024,3.960176965
+320,"Huntsville, AL",2015,5.5
+703,"Huntsville, AL",2016,5.1
+1086,"Huntsville, AL",2017,4.5
+1469,"Huntsville, AL",2018,4.1
+1852,"Huntsville, AL",2019,3.8
+2235,"Huntsville, AL",2020,3.529943997
+2618,"Huntsville, AL",2021,3.286843182
+3001,"Huntsville, AL",2022,3.068007066
+3384,"Huntsville, AL",2023,2.871013712
+3767,"Huntsville, AL",2024,2.693682918
+38,"Idaho Falls, ID",2015,3.4
+421,"Idaho Falls, ID",2016,3.1
+804,"Idaho Falls, ID",2017,2.7
+1187,"Idaho Falls, ID",2018,2.6
+1570,"Idaho Falls, ID",2019,2.6
+1953,"Idaho Falls, ID",2020,2.6
+2336,"Idaho Falls, ID",2021,2.6
+2719,"Idaho Falls, ID",2022,2.599999999
+3102,"Idaho Falls, ID",2023,2.599999999
+3485,"Idaho Falls, ID",2024,2.599999999
+179,"Indianapolis-Carmel-Anderson, IN",2015,4.6
+562,"Indianapolis-Carmel-Anderson, IN",2016,4.3
+945,"Indianapolis-Carmel-Anderson, IN",2017,3.9
+1328,"Indianapolis-Carmel-Anderson, IN",2018,3.4
+1711,"Indianapolis-Carmel-Anderson, IN",2019,3.2
+2094,"Indianapolis-Carmel-Anderson, IN",2020,3.03491495
+2477,"Indianapolis-Carmel-Anderson, IN",2021,2.89864958
+2860,"Indianapolis-Carmel-Anderson, IN",2022,2.786172703
+3243,"Indianapolis-Carmel-Anderson, IN",2023,2.693331448
+3626,"Indianapolis-Carmel-Anderson, IN",2024,2.616697932
+370,"Iowa City, IA",2015,2.7
+753,"Iowa City, IA",2016,2.6
+1136,"Iowa City, IA",2017,2.4
+1519,"Iowa City, IA",2018,2.2
+1902,"Iowa City, IA",2019,2.2
+2285,"Iowa City, IA",2020,2.2
+2668,"Iowa City, IA",2021,2.2
+3051,"Iowa City, IA",2022,2.2
+3434,"Iowa City, IA",2023,2.2
+3817,"Iowa City, IA",2024,2.2
+122,"Ithaca, NY",2015,4.4
+505,"Ithaca, NY",2016,4.1
+888,"Ithaca, NY",2017,3.6
+1271,"Ithaca, NY",2018,3.2
+1654,"Ithaca, NY",2019,3
+2037,"Ithaca, NY",2020,2.829788103
+2420,"Ithaca, NY",2021,2.684927653
+2803,"Ithaca, NY",2022,2.561642792
+3186,"Ithaca, NY",2023,2.456720043
+3569,"Ithaca, NY",2024,2.367424541
+12,"Jackson, MI",2015,5.4
+395,"Jackson, MI",2016,5
+778,"Jackson, MI",2017,4.4
+1161,"Jackson, MI",2018,4
+1544,"Jackson, MI",2019,3.7
+1927,"Jackson, MI",2020,3.429950104
+2310,"Jackson, MI",2021,3.186860283
+2693,"Jackson, MI",2022,2.968039013
+3076,"Jackson, MI",2023,2.771063476
+3459,"Jackson, MI",2024,2.593752732
+207,"Jackson, MS",2015,5.3
+590,"Jackson, MS",2016,4.9
+973,"Jackson, MS",2017,4.3
+1356,"Jackson, MS",2018,3.9
+1739,"Jackson, MS",2019,3.7
+2122,"Jackson, MS",2020,3.528649263
+2505,"Jackson, MS",2021,3.381843888
+2888,"Jackson, MS",2022,3.256067842
+3271,"Jackson, MS",2023,3.148308751
+3654,"Jackson, MS",2024,3.055985753
+106,"Jackson, TN",2015,5.9
+489,"Jackson, TN",2016,5.5
+872,"Jackson, TN",2017,4.9
+1255,"Jackson, TN",2018,4.3
+1638,"Jackson, TN",2019,4.1
+2021,"Jackson, TN",2020,3.937452015
+2404,"Jackson, TN",2021,3.805342778
+2787,"Jackson, TN",2022,3.697972327
+3170,"Jackson, TN",2023,3.610708075
+3553,"Jackson, TN",2024,3.539784933
+321,"Jacksonville, FL",2015,5.4
+704,"Jacksonville, FL",2016,5
+1087,"Jacksonville, FL",2017,4.4
+1470,"Jacksonville, FL",2018,4
+1853,"Jacksonville, FL",2019,3.7
+2236,"Jacksonville, FL",2020,3.429950104
+2619,"Jacksonville, FL",2021,3.186860283
+3002,"Jacksonville, FL",2022,2.968039013
+3385,"Jacksonville, FL",2023,2.771063476
+3768,"Jacksonville, FL",2024,2.593752732
+371,"Jacksonville, NC",2015,5.9
+754,"Jacksonville, NC",2016,5.5
+1137,"Jacksonville, NC",2017,4.9
+1520,"Jacksonville, NC",2018,4.3
+1903,"Jacksonville, NC",2019,4.1
+2286,"Jacksonville, NC",2020,3.937452015
+2669,"Jacksonville, NC",2021,3.805342778
+3052,"Jacksonville, NC",2022,3.697972327
+3435,"Jacksonville, NC",2023,3.610708075
+3818,"Jacksonville, NC",2024,3.539784933
+208,"Janesville-Beloit, WI",2015,5.2
+591,"Janesville-Beloit, WI",2016,4.8
+974,"Janesville-Beloit, WI",2017,4.2
+1357,"Janesville-Beloit, WI",2018,3.8
+1740,"Janesville-Beloit, WI",2019,3.6
+2123,"Janesville-Beloit, WI",2020,3.428644954
+2506,"Janesville-Beloit, WI",2021,3.281832194
+2889,"Janesville-Beloit, WI",2022,3.156046658
+3272,"Janesville-Beloit, WI",2023,3.048276726
+3655,"Janesville-Beloit, WI",2024,2.955942118
+232,"Jefferson City, MO",2015,4.3
+615,"Jefferson City, MO",2016,4
+998,"Jefferson City, MO",2017,3.5
+1381,"Jefferson City, MO",2018,3.2
+1764,"Jefferson City, MO",2019,3
+2147,"Jefferson City, MO",2020,2.832168897
+2530,"Jefferson City, MO",2021,2.6913325
+2913,"Jefferson City, MO",2022,2.573148861
+3296,"Jefferson City, MO",2023,2.473974408
+3679,"Jefferson City, MO",2024,2.390751619
+372,"Johnson City, TN",2015,6
+755,"Johnson City, TN",2016,5.6
+1138,"Johnson City, TN",2017,5
+1521,"Johnson City, TN",2018,4.4
+1904,"Johnson City, TN",2019,4.2
+2287,"Johnson City, TN",2020,4.037450729
+2670,"Johnson City, TN",2021,3.905339402
+3053,"Johnson City, TN",2022,3.797966403
+3436,"Johnson City, TN",2023,3.71069939
+3819,"Johnson City, TN",2024,3.639773443
+322,"Johnstown, PA",2015,6.5
+705,"Johnstown, PA",2016,6
+1088,"Johnstown, PA",2017,5.5
+1471,"Johnstown, PA",2018,4.9
+1854,"Johnstown, PA",2019,4.6
+2237,"Johnstown, PA",2020,4.325945254
+2620,"Johnstown, PA",2021,4.075591909
+3003,"Johnstown, PA",2022,3.846890168
+3386,"Johnstown, PA",2023,3.637967511
+3769,"Johnstown, PA",2024,3.447113358
+323,"Jonesboro, AR",2015,4.6
+706,"Jonesboro, AR",2016,4.3
+1089,"Jonesboro, AR",2017,3.9
+1472,"Jonesboro, AR",2018,3.4
+1855,"Jonesboro, AR",2019,3.2
+2238,"Jonesboro, AR",2020,3.03491495
+2621,"Jonesboro, AR",2021,2.89864958
+3004,"Jonesboro, AR",2022,2.786172703
+3387,"Jonesboro, AR",2023,2.693331448
+3770,"Jonesboro, AR",2024,2.616697932
+82,"Joplin, MO",2015,4.4
+465,"Joplin, MO",2016,4.1
+848,"Joplin, MO",2017,3.6
+1231,"Joplin, MO",2018,3.2
+1614,"Joplin, MO",2019,3
+1997,"Joplin, MO",2020,2.829788103
+2380,"Joplin, MO",2021,2.684927653
+2763,"Joplin, MO",2022,2.561642792
+3146,"Joplin, MO",2023,2.456720043
+3529,"Joplin, MO",2024,2.367424541
+59,"Kahului-Wailuku-Lahaina, HI",2015,3.6
+442,"Kahului-Wailuku-Lahaina, HI",2016,3.4
+825,"Kahului-Wailuku-Lahaina, HI",2017,3
+1208,"Kahului-Wailuku-Lahaina, HI",2018,2.7
+1591,"Kahului-Wailuku-Lahaina, HI",2019,2.6
+1974,"Kahului-Wailuku-Lahaina, HI",2020,2.524634184
+2357,"Kahului-Wailuku-Lahaina, HI",2021,2.467834122
+2740,"Kahului-Wailuku-Lahaina, HI",2022,2.425026291
+3123,"Kahului-Wailuku-Lahaina, HI",2023,2.39276382
+3506,"Kahului-Wailuku-Lahaina, HI",2024,2.368448946
+39,"Kalamazoo-Portage, MI",2015,4.8
+422,"Kalamazoo-Portage, MI",2016,4.5
+805,"Kalamazoo-Portage, MI",2017,4
+1188,"Kalamazoo-Portage, MI",2018,3.5
+1571,"Kalamazoo-Portage, MI",2019,3.3
+1954,"Kalamazoo-Portage, MI",2020,3.136312627
+2337,"Kalamazoo-Portage, MI",2021,3.002344845
+2720,"Kalamazoo-Portage, MI",2022,2.892700674
+3103,"Kalamazoo-Portage, MI",2023,2.802963842
+3486,"Kalamazoo-Portage, MI",2024,2.729519911
+253,"Kankakee, IL",2015,6.8
+636,"Kankakee, IL",2016,6.3
+1019,"Kankakee, IL",2017,5.6
+1402,"Kankakee, IL",2018,5.1
+1785,"Kankakee, IL",2019,5
+2168,"Kankakee, IL",2020,4.919581918
+2551,"Kankakee, IL",2021,4.854911238
+2934,"Kankakee, IL",2022,4.802904317
+3317,"Kankakee, IL",2023,4.761081349
+3700,"Kankakee, IL",2024,4.72744812
+13,"Kansas City, MO-KS",2015,4.8
+396,"Kansas City, MO-KS",2016,4.5
+779,"Kansas City, MO-KS",2017,4
+1162,"Kansas City, MO-KS",2018,3.5
+1545,"Kansas City, MO-KS",2019,3.3
+1928,"Kansas City, MO-KS",2020,3.136312627
+2311,"Kansas City, MO-KS",2021,3.002344845
+2694,"Kansas City, MO-KS",2022,2.892700674
+3077,"Kansas City, MO-KS",2023,2.802963842
+3460,"Kansas City, MO-KS",2024,2.729519911
+324,"Kennewick-Richland, WA",2015,7.1
+707,"Kennewick-Richland, WA",2016,6.6
+1090,"Kennewick-Richland, WA",2017,5.8
+1473,"Kennewick-Richland, WA",2018,5.5
+1856,"Kennewick-Richland, WA",2019,5.4
+2239,"Kennewick-Richland, WA",2020,5.328506666
+2622,"Kennewick-Richland, WA",2021,5.277393697
+3005,"Kennewick-Richland, WA",2022,5.240851332
+3388,"Kennewick-Richland, WA",2023,5.214725977
+3771,"Kennewick-Richland, WA",2024,5.196048089
+60,"Killeen-Temple, TX",2015,4.7
+443,"Killeen-Temple, TX",2016,4.4
+826,"Killeen-Temple, TX",2017,3.9
+1209,"Killeen-Temple, TX",2018,3.5
+1592,"Killeen-Temple, TX",2019,3.2
+1975,"Killeen-Temple, TX",2020,2.927281137
+2358,"Killeen-Temple, TX",2021,2.679362543
+2741,"Killeen-Temple, TX",2022,2.453988952
+3124,"Killeen-Temple, TX",2023,2.249110188
+3507,"Killeen-Temple, TX",2024,2.062862509
+298,"Kingsport-Bristol, TN-VA ",2015,5.6
+681,"Kingsport-Bristol, TN-VA ",2016,5.2
+1064,"Kingsport-Bristol, TN-VA ",2017,4.6
+1447,"Kingsport-Bristol, TN-VA ",2018,4.2
+1830,"Kingsport-Bristol, TN-VA ",2019,3.9
+2213,"Kingsport-Bristol, TN-VA ",2020,3.629928644
+2596,"Kingsport-Bristol, TN-VA ",2021,3.386800187
+2979,"Kingsport-Bristol, TN-VA ",2022,3.167926747
+3362,"Kingsport-Bristol, TN-VA ",2023,2.970888592
+3745,"Kingsport-Bristol, TN-VA ",2024,2.793507386
+325,"Kingston, NY",2015,4.8
+708,"Kingston, NY",2016,4.5
+1091,"Kingston, NY",2017,4
+1474,"Kingston, NY",2018,3.5
+1857,"Kingston, NY",2019,3.3
+2240,"Kingston, NY",2020,3.136312627
+2623,"Kingston, NY",2021,3.002344845
+3006,"Kingston, NY",2022,2.892700674
+3389,"Kingston, NY",2023,2.802963842
+3772,"Kingston, NY",2024,2.729519911
+233,"Knoxville, TN",2015,5.3
+616,"Knoxville, TN",2016,4.9
+999,"Knoxville, TN",2017,4.3
+1382,"Knoxville, TN",2018,3.9
+1765,"Knoxville, TN",2019,3.7
+2148,"Knoxville, TN",2020,3.528649263
+2531,"Knoxville, TN",2021,3.381843888
+2914,"Knoxville, TN",2022,3.256067842
+3297,"Knoxville, TN",2023,3.148308751
+3680,"Knoxville, TN",2024,3.055985753
+61,"Kokomo, IN",2015,5
+444,"Kokomo, IN",2016,4.6
+827,"Kokomo, IN",2017,4.1
+1210,"Kokomo, IN",2018,3.7
+1593,"Kokomo, IN",2019,3.4
+1976,"Kokomo, IN",2020,3.111399548
+2359,"Kokomo, IN",2021,2.833765479
+2742,"Kokomo, IN",2022,2.566681087
+3125,"Kokomo, IN",2023,2.3097455
+3508,"Kokomo, IN",2024,2.06257308
+107,"La Crosse-Onalaska, WI-MN",2015,3.8
+490,"La Crosse-Onalaska, WI-MN",2016,3.5
+873,"La Crosse-Onalaska, WI-MN",2017,3.1
+1256,"La Crosse-Onalaska, WI-MN",2018,2.8
+1639,"La Crosse-Onalaska, WI-MN",2019,2.7
+2022,"La Crosse-Onalaska, WI-MN",2020,2.614538514
+2405,"La Crosse-Onalaska, WI-MN",2021,2.541501859
+2788,"La Crosse-Onalaska, WI-MN",2022,2.479083649
+3171,"La Crosse-Onalaska, WI-MN",2023,2.425740119
+3554,"La Crosse-Onalaska, WI-MN",2024,2.380151946
+209,"Lafayette, LA",2015,6.4
+592,"Lafayette, LA",2016,6
+975,"Lafayette, LA",2017,5.4
+1358,"Lafayette, LA",2018,4.9
+1741,"Lafayette, LA",2019,4.6
+2124,"Lafayette, LA",2020,4.328576253
+2507,"Lafayette, LA",2021,4.083006752
+2890,"Lafayette, LA",2022,3.860828772
+3273,"Lafayette, LA",2023,3.659814173
+3656,"Lafayette, LA",2024,3.477947055
+83,"Lafayette-West Lafayette, IN",2015,4.3
+466,"Lafayette-West Lafayette, IN",2016,4
+849,"Lafayette-West Lafayette, IN",2017,3.6
+1232,"Lafayette-West Lafayette, IN",2018,3.2
+1615,"Lafayette-West Lafayette, IN",2019,3
+1998,"Lafayette-West Lafayette, IN",2020,2.820100712
+2381,"Lafayette-West Lafayette, IN",2021,2.658281944
+2764,"Lafayette-West Lafayette, IN",2022,2.512726537
+3147,"Lafayette-West Lafayette, IN",2023,2.381799968
+3530,"Lafayette-West Lafayette, IN",2024,2.264031985
+14,"Lake Charles, LA",2015,5.4
+397,"Lake Charles, LA",2016,5
+780,"Lake Charles, LA",2017,4.4
+1163,"Lake Charles, LA",2018,4
+1546,"Lake Charles, LA",2019,3.7
+1929,"Lake Charles, LA",2020,3.429950104
+2312,"Lake Charles, LA",2021,3.186860283
+2695,"Lake Charles, LA",2022,2.968039013
+3078,"Lake Charles, LA",2023,2.771063476
+3461,"Lake Charles, LA",2024,2.593752732
+347,"Lake Havasu City-Kingman, AZ",2015,7.9
+730,"Lake Havasu City-Kingman, AZ",2016,7.3
+1113,"Lake Havasu City-Kingman, AZ",2017,6.9
+1496,"Lake Havasu City-Kingman, AZ",2018,6
+1879,"Lake Havasu City-Kingman, AZ",2019,5.7
+2262,"Lake Havasu City-Kingman, AZ",2020,5.497118685
+2645,"Lake Havasu City-Kingman, AZ",2021,5.359915925
+3028,"Lake Havasu City-Kingman, AZ",2022,5.26712967
+3411,"Lake Havasu City-Kingman, AZ",2023,5.204381012
+3794,"Lake Havasu City-Kingman, AZ",2024,5.161945911
+326,"Lakeland-Winter Haven, FL",2015,6.3
+709,"Lakeland-Winter Haven, FL",2016,5.9
+1092,"Lakeland-Winter Haven, FL",2017,5.3
+1475,"Lakeland-Winter Haven, FL",2018,4.7
+1858,"Lakeland-Winter Haven, FL",2019,4.5
+2241,"Lakeland-Winter Haven, FL",2020,4.337451367
+2624,"Lakeland-Winter Haven, FL",2021,4.205341075
+3007,"Lakeland-Winter Haven, FL",2022,4.097969339
+3390,"Lakeland-Winter Haven, FL",2023,4.010703693
+3773,"Lakeland-Winter Haven, FL",2024,3.939779136
+327,"Lancaster, PA",2015,4.1
+710,"Lancaster, PA",2016,3.8
+1093,"Lancaster, PA",2017,3.4
+1476,"Lancaster, PA",2018,3
+1859,"Lancaster, PA",2019,2.9
+2242,"Lancaster, PA",2020,2.819781576
+2625,"Lancaster, PA",2021,2.75543162
+3008,"Lancaster, PA",2022,2.7038111
+3391,"Lancaster, PA",2023,2.662401932
+3774,"Lancaster, PA",2024,2.62918415
+108,"Lansing-East Lansing, MI",2015,4.5
+491,"Lansing-East Lansing, MI",2016,4.2
+874,"Lansing-East Lansing, MI",2017,3.7
+1257,"Lansing-East Lansing, MI",2018,3.3
+1640,"Lansing-East Lansing, MI",2019,3.1
+2023,"Lansing-East Lansing, MI",2020,2.929789133
+2406,"Lansing-East Lansing, MI",2021,2.784930438
+2789,"Lansing-East Lansing, MI",2022,2.661647817
+3172,"Lansing-East Lansing, MI",2023,2.556727609
+3555,"Lansing-East Lansing, MI",2024,2.467434811
+180,"Laredo, TX",2015,4.7
+563,"Laredo, TX",2016,4.4
+946,"Laredo, TX",2017,3.9
+1329,"Laredo, TX",2018,3.5
+1712,"Laredo, TX",2019,3.2
+2095,"Laredo, TX",2020,2.927281137
+2478,"Laredo, TX",2021,2.679362543
+2861,"Laredo, TX",2022,2.453988952
+3244,"Laredo, TX",2023,2.249110188
+3627,"Laredo, TX",2024,2.062862509
+210,"Las Cruces, NM",2015,7.3
+593,"Las Cruces, NM",2016,6.8
+976,"Las Cruces, NM",2017,6
+1359,"Las Cruces, NM",2018,5.6
+1742,"Las Cruces, NM",2019,5.5
+2125,"Las Cruces, NM",2020,5.42489451
+2508,"Las Cruces, NM",2021,5.368486164
+2891,"Las Cruces, NM",2022,5.3261204
+3274,"Las Cruces, NM",2023,5.294301385
+3657,"Las Cruces, NM",2024,5.270403558
+348,"Las Vegas-Henderson-Paradise, NV",2015,6.8
+731,"Las Vegas-Henderson-Paradise, NV",2016,6.3
+1114,"Las Vegas-Henderson-Paradise, NV",2017,5.6
+1497,"Las Vegas-Henderson-Paradise, NV",2018,5.1
+1880,"Las Vegas-Henderson-Paradise, NV",2019,5
+2263,"Las Vegas-Henderson-Paradise, NV",2020,4.919581918
+2646,"Las Vegas-Henderson-Paradise, NV",2021,4.854911238
+3029,"Las Vegas-Henderson-Paradise, NV",2022,4.802904317
+3412,"Las Vegas-Henderson-Paradise, NV",2023,4.761081349
+3795,"Las Vegas-Henderson-Paradise, NV",2024,4.72744812
+328,"Lawrence, KS",2015,3.7
+711,"Lawrence, KS",2016,3.5
+1094,"Lawrence, KS",2017,3
+1477,"Lawrence, KS",2018,2.8
+1860,"Lawrence, KS",2019,2.7
+2243,"Lawrence, KS",2020,2.639117258
+2626,"Lawrence, KS",2021,2.602050176
+3009,"Lawrence, KS",2022,2.579482719
+3392,"Lawrence, KS",2023,2.565743033
+3775,"Lawrence, KS",2024,2.557377936
+154,"Lawton, OK",2015,4.3
+537,"Lawton, OK",2016,4
+920,"Lawton, OK",2017,3.6
+1303,"Lawton, OK",2018,3.2
+1686,"Lawton, OK",2019,3
+2069,"Lawton, OK",2020,2.820100712
+2452,"Lawton, OK",2021,2.658281944
+2835,"Lawton, OK",2022,2.512726537
+3218,"Lawton, OK",2023,2.381799968
+3601,"Lawton, OK",2024,2.264031985
+329,"Lebanon, PA",2015,4.5
+712,"Lebanon, PA",2016,4.2
+1095,"Lebanon, PA",2017,3.7
+1478,"Lebanon, PA",2018,3.3
+1861,"Lebanon, PA",2019,3.1
+2244,"Lebanon, PA",2020,2.929789133
+2627,"Lebanon, PA",2021,2.784930438
+3010,"Lebanon, PA",2022,2.661647817
+3393,"Lebanon, PA",2023,2.556727609
+3776,"Lebanon, PA",2024,2.467434811
+15,"Lewiston, ID-WA",2015,4
+398,"Lewiston, ID-WA",2016,3.7
+781,"Lewiston, ID-WA",2017,3.3
+1164,"Lewiston, ID-WA",2018,3
+1547,"Lewiston, ID-WA",2019,2.8
+1930,"Lewiston, ID-WA",2020,2.613674408
+2313,"Lewiston, ID-WA",2021,2.440088276
+2696,"Lewiston, ID-WA",2022,2.278370582
+3079,"Lewiston, ID-WA",2023,2.127709857
+3462,"Lewiston, ID-WA",2024,1.987350113
+123,"Lewiston-Auburn, ME",2015,4.2
+506,"Lewiston-Auburn, ME",2016,3.9
+889,"Lewiston-Auburn, ME",2017,3.5
+1272,"Lewiston-Auburn, ME",2018,3.1
+1655,"Lewiston-Auburn, ME",2019,2.9
+2038,"Lewiston-Auburn, ME",2020,2.720101954
+2421,"Lewiston-Auburn, ME",2021,2.558285418
+2804,"Lewiston-Auburn, ME",2022,2.412733025
+3187,"Lewiston-Auburn, ME",2023,2.28181007
+3570,"Lewiston-Auburn, ME",2024,2.16404615
+109,"Lexington-Fayette, KY",2015,4
+492,"Lexington-Fayette, KY",2016,3.7
+875,"Lexington-Fayette, KY",2017,3.3
+1258,"Lexington-Fayette, KY",2018,3
+1641,"Lexington-Fayette, KY",2019,2.8
+2024,"Lexington-Fayette, KY",2020,2.613674408
+2407,"Lexington-Fayette, KY",2021,2.440088276
+2790,"Lexington-Fayette, KY",2022,2.278370582
+3173,"Lexington-Fayette, KY",2023,2.127709857
+3556,"Lexington-Fayette, KY",2024,1.987350113
+211,"Lima, OH",2015,4.9
+594,"Lima, OH",2016,4.6
+977,"Lima, OH",2017,4.1
+1360,"Lima, OH",2018,3.6
+1743,"Lima, OH",2019,3.3
+2126,"Lima, OH",2020,3.032733024
+2509,"Lima, OH",2021,2.794627568
+2892,"Lima, OH",2022,2.582501817
+3275,"Lima, OH",2023,2.393521123
+3658,"Lima, OH",2024,2.225160127
+212,"Lincoln, NE",2015,2.7
+595,"Lincoln, NE",2016,2.6
+978,"Lincoln, NE",2017,2.4
+1361,"Lincoln, NE",2018,2.3
+1744,"Lincoln, NE",2019,2.3
+2127,"Lincoln, NE",2020,2.3
+2510,"Lincoln, NE",2021,2.3
+2893,"Lincoln, NE",2022,2.3
+3276,"Lincoln, NE",2023,2.3
+3659,"Lincoln, NE",2024,2.3
+124,"Little Rock-North Little Rock-Conway, AR",2015,4.5
+507,"Little Rock-North Little Rock-Conway, AR",2016,4.2
+890,"Little Rock-North Little Rock-Conway, AR",2017,3.7
+1273,"Little Rock-North Little Rock-Conway, AR",2018,3.3
+1656,"Little Rock-North Little Rock-Conway, AR",2019,3.1
+2039,"Little Rock-North Little Rock-Conway, AR",2020,2.929789133
+2422,"Little Rock-North Little Rock-Conway, AR",2021,2.784930438
+2805,"Little Rock-North Little Rock-Conway, AR",2022,2.661647817
+3188,"Little Rock-North Little Rock-Conway, AR",2023,2.556727609
+3571,"Little Rock-North Little Rock-Conway, AR",2024,2.467434811
+373,"Logan, UT-ID",2015,3.1
+756,"Logan, UT-ID",2016,2.8
+1139,"Logan, UT-ID",2017,2.6
+1522,"Logan, UT-ID",2018,2.4
+1905,"Logan, UT-ID",2019,2.4
+2288,"Logan, UT-ID",2020,2.4
+2671,"Logan, UT-ID",2021,2.4
+3054,"Logan, UT-ID",2022,2.4
+3437,"Logan, UT-ID",2023,2.4
+3820,"Logan, UT-ID",2024,2.400000001
+125,"Longview, TX",2015,5
+508,"Longview, TX",2016,4.6
+891,"Longview, TX",2017,4.1
+1274,"Longview, TX",2018,3.7
+1657,"Longview, TX",2019,3.4
+2040,"Longview, TX",2020,3.111399548
+2423,"Longview, TX",2021,2.833765479
+2806,"Longview, TX",2022,2.566681087
+3189,"Longview, TX",2023,2.3097455
+3572,"Longview, TX",2024,2.06257308
+126,"Longview, WA",2015,7.9
+509,"Longview, WA",2016,7.4
+892,"Longview, WA",2017,6.9
+1275,"Longview, WA",2018,6.1
+1658,"Longview, WA",2019,5.7
+2041,"Longview, WA",2020,5.362159323
+2424,"Longview, WA",2021,5.076818515
+2807,"Longview, WA",2022,4.835819186
+3190,"Longview, WA",2023,4.632270744
+3573,"Longview, WA",2024,4.460353385
+349,"Los Angeles-Long Beach-Anaheim, CA",2015,6.1
+732,"Los Angeles-Long Beach-Anaheim, CA",2016,5.7
+1115,"Los Angeles-Long Beach-Anaheim, CA",2017,5.1
+1498,"Los Angeles-Long Beach-Anaheim, CA",2018,4.6
+1881,"Los Angeles-Long Beach-Anaheim, CA",2019,4.3
+2264,"Los Angeles-Long Beach-Anaheim, CA",2020,4.028576539
+2647,"Los Angeles-Long Beach-Anaheim, CA",2021,3.783007554
+3030,"Los Angeles-Long Beach-Anaheim, CA",2022,3.560830276
+3413,"Los Angeles-Long Beach-Anaheim, CA",2023,3.359816522
+3796,"Los Angeles-Long Beach-Anaheim, CA",2024,3.17795036
+127,"Louisville-Jefferson County, KY-IN",2015,4.6
+510,"Louisville-Jefferson County, KY-IN",2016,4.3
+893,"Louisville-Jefferson County, KY-IN",2017,3.9
+1276,"Louisville-Jefferson County, KY-IN",2018,3.4
+1659,"Louisville-Jefferson County, KY-IN",2019,3.2
+2042,"Louisville-Jefferson County, KY-IN",2020,3.03491495
+2425,"Louisville-Jefferson County, KY-IN",2021,2.89864958
+2808,"Louisville-Jefferson County, KY-IN",2022,2.786172703
+3191,"Louisville-Jefferson County, KY-IN",2023,2.693331448
+3574,"Louisville-Jefferson County, KY-IN",2024,2.616697932
+16,"Lubbock, TX",2015,3.4
+399,"Lubbock, TX",2016,3.1
+782,"Lubbock, TX",2017,2.8
+1165,"Lubbock, TX",2018,2.6
+1548,"Lubbock, TX",2019,2.6
+1931,"Lubbock, TX",2020,2.6
+2314,"Lubbock, TX",2021,2.6
+2697,"Lubbock, TX",2022,2.599999999
+3080,"Lubbock, TX",2023,2.599999999
+3463,"Lubbock, TX",2024,2.599999999
+110,"Lynchburg, VA ",2015,4.9
+493,"Lynchburg, VA ",2016,4.6
+876,"Lynchburg, VA ",2017,4.1
+1259,"Lynchburg, VA ",2018,3.6
+1642,"Lynchburg, VA ",2019,3.3
+2025,"Lynchburg, VA ",2020,3.032733024
+2408,"Lynchburg, VA ",2021,2.794627568
+2791,"Lynchburg, VA ",2022,2.582501817
+3174,"Lynchburg, VA ",2023,2.393521123
+3557,"Lynchburg, VA ",2024,2.225160127
+254,"Macon-Bibb County, GA",2015,6.5
+637,"Macon-Bibb County, GA",2016,6.1
+1020,"Macon-Bibb County, GA",2017,5.5
+1403,"Macon-Bibb County, GA",2018,4.9
+1786,"Macon-Bibb County, GA",2019,4.7
+2169,"Macon-Bibb County, GA",2020,4.537450616
+2552,"Macon-Bibb County, GA",2021,4.405339104
+2935,"Macon-Bibb County, GA",2022,4.297965879
+3318,"Macon-Bibb County, GA",2023,4.210698622
+3701,"Macon-Bibb County, GA",2024,4.139772427
+62,"Madera, CA",2015,10.5
+445,"Madera, CA",2016,10
+828,"Madera, CA",2017,9.2
+1211,"Madera, CA",2018,8.1
+1594,"Madera, CA",2019,7.7
+1977,"Madera, CA",2020,7.396918329
+2360,"Madera, CA",2021,7.167272081
+2743,"Madera, CA",2022,6.993268159
+3126,"Madera, CA",2023,6.861424661
+3509,"Madera, CA",2024,6.761526292
+17,"Madison, WI",2015,3.4
+400,"Madison, WI",2016,3.2
+783,"Madison, WI",2017,2.8
+1166,"Madison, WI",2018,2.6
+1549,"Madison, WI",2019,2.6
+1932,"Madison, WI",2020,2.6
+2315,"Madison, WI",2021,2.6
+2698,"Madison, WI",2022,2.6
+3081,"Madison, WI",2023,2.6
+3464,"Madison, WI",2024,2.6
+155,"Manchester-Nashua, NH",2015,3.3
+538,"Manchester-Nashua, NH",2016,3.1
+921,"Manchester-Nashua, NH",2017,2.7
+1304,"Manchester-Nashua, NH",2018,2.6
+1687,"Manchester-Nashua, NH",2019,2.5
+2070,"Manchester-Nashua, NH",2020,2.440521213
+2453,"Manchester-Nashua, NH",2021,2.405143952
+2836,"Manchester-Nashua, NH",2022,2.384101986
+3219,"Manchester-Nashua, NH",2023,2.371586479
+3602,"Manchester-Nashua, NH",2024,2.364142408
+63,"Manhattan, KS",2015,3.5
+446,"Manhattan, KS",2016,3.3
+829,"Manhattan, KS",2017,2.9
+1212,"Manhattan, KS",2018,2.7
+1595,"Manhattan, KS",2019,2.6
+1978,"Manhattan, KS",2020,2.527788872
+2361,"Manhattan, KS",2021,2.475644402
+2744,"Manhattan, KS",2022,2.437990292
+3127,"Manhattan, KS",2023,2.410799834
+3510,"Manhattan, KS",2024,2.391165298
+350,"Mankato, MN",2015,2.8
+733,"Mankato, MN",2016,2.6
+1116,"Mankato, MN",2017,2.4
+1499,"Mankato, MN",2018,2.4
+1882,"Mankato, MN",2019,2.3
+2265,"Mankato, MN",2020,2.236636628
+2648,"Mankato, MN",2021,2.196487458
+3031,"Mankato, MN",2022,2.171047591
+3414,"Mankato, MN",2023,2.154928033
+3797,"Mankato, MN",2024,2.144714137
+40,"Mansfield, OH",2015,5.6
+423,"Mansfield, OH",2016,5.2
+806,"Mansfield, OH",2017,4.6
+1189,"Mansfield, OH",2018,4.2
+1572,"Mansfield, OH",2019,3.9
+1955,"Mansfield, OH",2020,3.629928644
+2338,"Mansfield, OH",2021,3.386800187
+2721,"Mansfield, OH",2022,3.167926747
+3104,"Mansfield, OH",2023,2.970888592
+3487,"Mansfield, OH",2024,2.793507386
+330,"McAllen-Edinburg-Mission, TX",2015,7.9
+713,"McAllen-Edinburg-Mission, TX",2016,7.5
+1096,"McAllen-Edinburg-Mission, TX",2017,7
+1479,"McAllen-Edinburg-Mission, TX",2018,6.1
+1862,"McAllen-Edinburg-Mission, TX",2019,5.7
+2245,"McAllen-Edinburg-Mission, TX",2020,5.396254956
+2628,"McAllen-Edinburg-Mission, TX",2021,5.165602326
+3011,"McAllen-Edinburg-Mission, TX",2022,4.990453343
+3394,"McAllen-Edinburg-Mission, TX",2023,4.857451753
+3777,"McAllen-Edinburg-Mission, TX",2024,4.756455319
+84,"Medford, OR",2015,6.8
+467,"Medford, OR",2016,6.4
+850,"Medford, OR",2017,5.6
+1233,"Medford, OR",2018,5.2
+1616,"Medford, OR",2019,5
+1999,"Medford, OR",2020,4.855586357
+2382,"Medford, OR",2021,4.751309854
+2765,"Medford, OR",2022,4.676015106
+3148,"Medford, OR",2023,4.621647162
+3531,"Medford, OR",2024,4.582389797
+351,"Memphis, TN-MS-AR",2015,6.3
+734,"Memphis, TN-MS-AR",2016,5.9
+1117,"Memphis, TN-MS-AR",2017,5.3
+1500,"Memphis, TN-MS-AR",2018,4.8
+1883,"Memphis, TN-MS-AR",2019,4.5
+2266,"Memphis, TN-MS-AR",2020,4.22855534
+2649,"Memphis, TN-MS-AR",2021,3.982947995
+3032,"Memphis, TN-MS-AR",2022,3.760718655
+3415,"Memphis, TN-MS-AR",2023,3.559642096
+3798,"Memphis, TN-MS-AR",2024,3.377704902
+234,"Merced, CA",2015,11.4
+617,"Merced, CA",2016,10.6
+1000,"Merced, CA",2017,9.4
+1383,"Merced, CA",2018,8.4
+1766,"Merced, CA",2019,8.1
+2149,"Merced, CA",2020,7.855657241
+2532,"Merced, CA",2021,7.656645961
+2915,"Merced, CA",2022,7.494556076
+3298,"Merced, CA",2023,7.362537778
+3681,"Merced, CA",2024,7.25501206
+299,"Miami-Fort Lauderdale-Pompano Beach, FL",2015,5.5
+682,"Miami-Fort Lauderdale-Pompano Beach, FL",2016,5.1
+1065,"Miami-Fort Lauderdale-Pompano Beach, FL",2017,4.5
+1448,"Miami-Fort Lauderdale-Pompano Beach, FL",2018,4.1
+1831,"Miami-Fort Lauderdale-Pompano Beach, FL",2019,3.8
+2214,"Miami-Fort Lauderdale-Pompano Beach, FL",2020,3.529943997
+2597,"Miami-Fort Lauderdale-Pompano Beach, FL",2021,3.286843182
+2980,"Miami-Fort Lauderdale-Pompano Beach, FL",2022,3.068007066
+3363,"Miami-Fort Lauderdale-Pompano Beach, FL",2023,2.871013712
+3746,"Miami-Fort Lauderdale-Pompano Beach, FL",2024,2.693682918
+85,"Michigan City-La Porte, IN",2015,6.3
+468,"Michigan City-La Porte, IN",2016,5.9
+851,"Michigan City-La Porte, IN",2017,5.3
+1234,"Michigan City-La Porte, IN",2018,4.8
+1617,"Michigan City-La Porte, IN",2019,4.5
+2000,"Michigan City-La Porte, IN",2020,4.22855534
+2383,"Michigan City-La Porte, IN",2021,3.982947995
+2766,"Michigan City-La Porte, IN",2022,3.760718655
+3149,"Michigan City-La Porte, IN",2023,3.559642096
+3532,"Michigan City-La Porte, IN",2024,3.377704902
+235,"Midland, MI",2015,4.9
+618,"Midland, MI",2016,4.6
+1001,"Midland, MI",2017,4.1
+1384,"Midland, MI",2018,3.6
+1767,"Midland, MI",2019,3.3
+2150,"Midland, MI",2020,3.032733024
+2533,"Midland, MI",2021,2.794627568
+2916,"Midland, MI",2022,2.582501817
+3299,"Midland, MI",2023,2.393521123
+3682,"Midland, MI",2024,2.225160127
+18,"Midland, TX",2015,3.5
+401,"Midland, TX",2016,3.3
+784,"Midland, TX",2017,2.9
+1167,"Midland, TX",2018,2.7
+1550,"Midland, TX",2019,2.6
+1933,"Midland, TX",2020,2.527788872
+2316,"Midland, TX",2021,2.475644402
+2699,"Midland, TX",2022,2.437990292
+3082,"Midland, TX",2023,2.410799834
+3465,"Midland, TX",2024,2.391165298
+331,"Milwaukee-Waukesha, WI",2015,4.9
+714,"Milwaukee-Waukesha, WI",2016,4.6
+1097,"Milwaukee-Waukesha, WI",2017,4.1
+1480,"Milwaukee-Waukesha, WI",2018,3.6
+1863,"Milwaukee-Waukesha, WI",2019,3.3
+2246,"Milwaukee-Waukesha, WI",2020,3.032733024
+2629,"Milwaukee-Waukesha, WI",2021,2.794627568
+3012,"Milwaukee-Waukesha, WI",2022,2.582501817
+3395,"Milwaukee-Waukesha, WI",2023,2.393521123
+3778,"Milwaukee-Waukesha, WI",2024,2.225160127
+128,"Minneapolis-St. Paul-Bloomington, MN-WI",2015,3.4
+511,"Minneapolis-St. Paul-Bloomington, MN-WI",2016,3.2
+894,"Minneapolis-St. Paul-Bloomington, MN-WI",2017,2.8
+1277,"Minneapolis-St. Paul-Bloomington, MN-WI",2018,2.7
+1660,"Minneapolis-St. Paul-Bloomington, MN-WI",2019,2.6
+2043,"Minneapolis-St. Paul-Bloomington, MN-WI",2020,2.540517407
+2426,"Minneapolis-St. Paul-Bloomington, MN-WI",2021,2.505135619
+2809,"Minneapolis-St. Paul-Bloomington, MN-WI",2022,2.484089614
+3192,"Minneapolis-St. Paul-Bloomington, MN-WI",2023,2.471570905
+3575,"Minneapolis-St. Paul-Bloomington, MN-WI",2024,2.464124452
+255,"Missoula, MT",2015,3.9
+638,"Missoula, MT",2016,3.6
+1021,"Missoula, MT",2017,3.2
+1404,"Missoula, MT",2018,2.9
+1787,"Missoula, MT",2019,2.8
+2170,"Missoula, MT",2020,2.714534074
+2553,"Missoula, MT",2021,2.641489828
+2936,"Missoula, MT",2022,2.579061887
+3319,"Missoula, MT",2023,2.525707269
+3702,"Missoula, MT",2024,2.48010725
+41,"Mobile, AL",2015,6.9
+424,"Mobile, AL",2016,6.5
+807,"Mobile, AL",2017,5.6
+1190,"Mobile, AL",2018,5.2
+1573,"Mobile, AL",2019,5.1
+1956,"Mobile, AL",2020,5.03694699
+2339,"Mobile, AL",2021,4.99719017
+2722,"Mobile, AL",2022,4.972122299
+3105,"Mobile, AL",2023,4.956316251
+3488,"Mobile, AL",2024,4.946350063
+300,"Modesto, CA",2015,9.5
+683,"Modesto, CA",2016,8.6
+1066,"Modesto, CA",2017,7.5
+1449,"Modesto, CA",2018,6.5
+1832,"Modesto, CA",2019,6.2
+2215,"Modesto, CA",2020,5.943908454
+2598,"Modesto, CA",2021,5.725298854
+2981,"Modesto, CA",2022,5.538685286
+3364,"Modesto, CA",2023,5.379384762
+3747,"Modesto, CA",2024,5.243399704
+277,"Monroe, LA",2015,6.7
+660,"Monroe, LA",2016,6.3
+1043,"Monroe, LA",2017,5.5
+1426,"Monroe, LA",2018,5
+1809,"Monroe, LA",2019,4.8
+2192,"Monroe, LA",2020,4.650269029
+2575,"Monroe, LA",2021,4.538172211
+2958,"Monroe, LA",2022,4.454250383
+3341,"Monroe, LA",2023,4.3914219
+3724,"Monroe, LA",2024,4.344385051
+42,"Monroe, MI",2015,4.6
+425,"Monroe, MI",2016,4.4
+808,"Monroe, MI",2017,3.9
+1191,"Monroe, MI",2018,3.4
+1574,"Monroe, MI",2019,3.2
+1957,"Monroe, MI",2020,3.051193579
+2340,"Monroe, MI",2021,2.940476824
+2723,"Monroe, MI",2022,2.858100004
+3106,"Monroe, MI",2023,2.796809005
+3489,"Monroe, MI",2024,2.751206534
+236,"Montgomery, AL",2015,5.8
+619,"Montgomery, AL",2016,5.3
+1002,"Montgomery, AL",2017,4.8
+1385,"Montgomery, AL",2018,4.3
+1768,"Montgomery, AL",2019,4
+2151,"Montgomery, AL",2020,3.711334486
+2534,"Montgomery, AL",2021,3.433575223
+2917,"Montgomery, AL",2022,3.166310155
+3300,"Montgomery, AL",2023,2.909142794
+3683,"Montgomery, AL",2024,2.661691633
+237,"Morgantown, WV",2015,5.1
+620,"Morgantown, WV",2016,4.7
+1003,"Morgantown, WV",2017,4.1
+1386,"Morgantown, WV",2018,3.7
+1769,"Morgantown, WV",2019,3.4
+2152,"Morgantown, WV",2020,3.129937185
+2535,"Morgantown, WV",2021,2.886824105
+2918,"Morgantown, WV",2022,2.66797143
+3301,"Morgantown, WV",2023,2.470958198
+3684,"Morgantown, WV",2024,2.293605039
+129,"Morristown, TN",2015,6.3
+512,"Morristown, TN",2016,5.9
+895,"Morristown, TN",2017,5.3
+1278,"Morristown, TN",2018,4.8
+1661,"Morristown, TN",2019,4.6
+2044,"Morristown, TN",2020,4.430470249
+2427,"Morristown, TN",2021,4.286768566
+2810,"Morristown, TN",2022,4.164960014
+3193,"Morristown, TN",2023,4.061709146
+3576,"Morristown, TN",2024,3.974188676
+86,"Mount Vernon-Anacortes, WA",2015,6.9
+469,"Mount Vernon-Anacortes, WA",2016,6.5
+852,"Mount Vernon-Anacortes, WA",2017,5.6
+1235,"Mount Vernon-Anacortes, WA",2018,5.2
+1618,"Mount Vernon-Anacortes, WA",2019,5.1
+2001,"Mount Vernon-Anacortes, WA",2020,5.03694699
+2384,"Mount Vernon-Anacortes, WA",2021,4.99719017
+2767,"Mount Vernon-Anacortes, WA",2022,4.972122299
+3150,"Mount Vernon-Anacortes, WA",2023,4.956316251
+3533,"Mount Vernon-Anacortes, WA",2024,4.946350063
+111,"Muncie, IN",2015,5.7
+494,"Muncie, IN",2016,5.3
+877,"Muncie, IN",2017,4.7
+1260,"Muncie, IN",2018,4.2
+1643,"Muncie, IN",2019,4
+2026,"Muncie, IN",2020,3.830466096
+2409,"Muncie, IN",2021,3.686757374
+2792,"Muncie, IN",2022,3.564939871
+3175,"Muncie, IN",2023,3.461678886
+3558,"Muncie, IN",2024,3.374147698
+43,"Muskegon, MI",2015,5.9
+426,"Muskegon, MI",2016,5.5
+809,"Muskegon, MI",2017,4.9
+1192,"Muskegon, MI",2018,4.3
+1575,"Muskegon, MI",2019,4.1
+1958,"Muskegon, MI",2020,3.937452015
+2341,"Muskegon, MI",2021,3.805342778
+2724,"Muskegon, MI",2022,3.697972327
+3107,"Muskegon, MI",2023,3.610708075
+3490,"Muskegon, MI",2024,3.539784933
+19,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2015,7.2
+402,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2016,6.7
+785,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2017,5.8
+1168,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2018,5.5
+1551,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2019,5.4
+1934,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2020,5.334580658
+2317,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2021,5.291783756
+2700,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2022,5.263786304
+3083,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2023,5.245470556
+3466,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",2024,5.233488514
+20,"Napa, CA",2015,4.6
+403,"Napa, CA",2016,4.4
+786,"Napa, CA",2017,3.9
+1169,"Napa, CA",2018,3.4
+1552,"Napa, CA",2019,3.2
+1935,"Napa, CA",2020,3.051193579
+2318,"Napa, CA",2021,2.940476824
+2701,"Napa, CA",2022,2.858100004
+3084,"Napa, CA",2023,2.796809005
+3467,"Napa, CA",2024,2.751206534
+332,"Naples-Marco Island, FL",2015,5.3
+715,"Naples-Marco Island, FL",2016,4.9
+1098,"Naples-Marco Island, FL",2017,4.3
+1481,"Naples-Marco Island, FL",2018,3.9
+1864,"Naples-Marco Island, FL",2019,3.7
+2247,"Naples-Marco Island, FL",2020,3.528649263
+2630,"Naples-Marco Island, FL",2021,3.381843888
+3013,"Naples-Marco Island, FL",2022,3.256067842
+3396,"Naples-Marco Island, FL",2023,3.148308751
+3779,"Naples-Marco Island, FL",2024,3.055985753
+333,"Nashville-Davidson-Murfreesboro-Franklin, TN",2015,4.5
+716,"Nashville-Davidson-Murfreesboro-Franklin, TN",2016,4.2
+1099,"Nashville-Davidson-Murfreesboro-Franklin, TN",2017,3.8
+1482,"Nashville-Davidson-Murfreesboro-Franklin, TN",2018,3.3
+1865,"Nashville-Davidson-Murfreesboro-Franklin, TN",2019,3.1
+2248,"Nashville-Davidson-Murfreesboro-Franklin, TN",2020,2.934928964
+2631,"Nashville-Davidson-Murfreesboro-Franklin, TN",2021,2.79868673
+3014,"Nashville-Davidson-Murfreesboro-Franklin, TN",2022,2.686238496
+3397,"Nashville-Davidson-Murfreesboro-Franklin, TN",2023,2.593428764
+3780,"Nashville-Davidson-Murfreesboro-Franklin, TN",2024,2.516827771
+21,"New Bern, NC",2015,6
+404,"New Bern, NC",2016,5.6
+787,"New Bern, NC",2017,5
+1170,"New Bern, NC",2018,4.4
+1553,"New Bern, NC",2019,4.3
+1936,"New Bern, NC",2020,4.22587803
+2319,"New Bern, NC",2021,4.170937366
+2702,"New Bern, NC",2022,4.130214263
+3085,"New Bern, NC",2023,4.100029497
+3468,"New Bern, NC",2024,4.077655954
+64,"New Haven-Milford, CT",2015,5.7
+447,"New Haven-Milford, CT",2016,5.3
+830,"New Haven-Milford, CT",2017,4.7
+1213,"New Haven-Milford, CT",2018,4.2
+1596,"New Haven-Milford, CT",2019,4
+1979,"New Haven-Milford, CT",2020,3.830466096
+2362,"New Haven-Milford, CT",2021,3.686757374
+2745,"New Haven-Milford, CT",2022,3.564939871
+3128,"New Haven-Milford, CT",2023,3.461678886
+3511,"New Haven-Milford, CT",2024,3.374147698
+22,"New Orleans-Metairie, LA",2015,6
+405,"New Orleans-Metairie, LA",2016,5.6
+788,"New Orleans-Metairie, LA",2017,5
+1171,"New Orleans-Metairie, LA",2018,4.4
+1554,"New Orleans-Metairie, LA",2019,4.3
+1937,"New Orleans-Metairie, LA",2020,4.22587803
+2320,"New Orleans-Metairie, LA",2021,4.170937366
+2703,"New Orleans-Metairie, LA",2022,4.130214263
+3086,"New Orleans-Metairie, LA",2023,4.100029497
+3469,"New Orleans-Metairie, LA",2024,4.077655954
+213,"New York-Newark-Jersey City, NY-NJ-PA",2015,5.3
+596,"New York-Newark-Jersey City, NY-NJ-PA",2016,4.9
+979,"New York-Newark-Jersey City, NY-NJ-PA",2017,4.3
+1362,"New York-Newark-Jersey City, NY-NJ-PA",2018,3.9
+1745,"New York-Newark-Jersey City, NY-NJ-PA",2019,3.7
+2128,"New York-Newark-Jersey City, NY-NJ-PA",2020,3.528649263
+2511,"New York-Newark-Jersey City, NY-NJ-PA",2021,3.381843888
+2894,"New York-Newark-Jersey City, NY-NJ-PA",2022,3.256067842
+3277,"New York-Newark-Jersey City, NY-NJ-PA",2023,3.148308751
+3660,"New York-Newark-Jersey City, NY-NJ-PA",2024,3.055985753
+352,"Niles, MI",2015,5.3
+735,"Niles, MI",2016,4.9
+1118,"Niles, MI",2017,4.3
+1501,"Niles, MI",2018,3.9
+1884,"Niles, MI",2019,3.7
+2267,"Niles, MI",2020,3.528649263
+2650,"Niles, MI",2021,3.381843888
+3033,"Niles, MI",2022,3.256067842
+3416,"Niles, MI",2023,3.148308751
+3799,"Niles, MI",2024,3.055985753
+181,"North Port-Sarasota-Bradenton, FL",2015,5.1
+564,"North Port-Sarasota-Bradenton, FL",2016,4.7
+947,"North Port-Sarasota-Bradenton, FL",2017,4.2
+1330,"North Port-Sarasota-Bradenton, FL",2018,3.7
+1713,"North Port-Sarasota-Bradenton, FL",2019,3.5
+2096,"North Port-Sarasota-Bradenton, FL",2020,3.324966336
+2479,"North Port-Sarasota-Bradenton, FL",2021,3.171782419
+2862,"North Port-Sarasota-Bradenton, FL",2022,3.037720709
+3245,"North Port-Sarasota-Bradenton, FL",2023,2.920394147
+3628,"North Port-Sarasota-Bradenton, FL",2024,2.817713657
+214,"Norwich-New London, CT",2015,6.2
+597,"Norwich-New London, CT",2016,5.8
+980,"Norwich-New London, CT",2017,5.2
+1363,"Norwich-New London, CT",2018,4.6
+1746,"Norwich-New London, CT",2019,4.4
+2129,"Norwich-New London, CT",2020,4.237450089
+2512,"Norwich-New London, CT",2021,4.105337722
+2895,"Norwich-New London, CT",2022,3.997963455
+3278,"Norwich-New London, CT",2023,3.910695067
+3661,"Norwich-New London, CT",2024,3.839767724
+215,"Ocala, FL",2015,6.5
+598,"Ocala, FL",2016,6.1
+981,"Ocala, FL",2017,5.5
+1364,"Ocala, FL",2018,4.9
+1747,"Ocala, FL",2019,4.7
+2130,"Ocala, FL",2020,4.537450616
+2513,"Ocala, FL",2021,4.405339104
+2896,"Ocala, FL",2022,4.297965879
+3279,"Ocala, FL",2023,4.210698622
+3662,"Ocala, FL",2024,4.139772427
+238,"Ocean City, NJ",2015,11.1
+621,"Ocean City, NJ",2016,10.4
+1004,"Ocean City, NJ",2017,9.2
+1387,"Ocean City, NJ",2018,8.4
+1770,"Ocean City, NJ",2019,7.9
+2153,"Ocean City, NJ",2020,7.476550462
+2536,"Ocean City, NJ",2021,7.11793144
+2919,"Ocean City, NJ",2022,6.814217322
+3302,"Ocean City, NJ",2023,6.557002115
+3685,"Ocean City, NJ",2024,6.339166795
+156,"Odessa, TX",2015,4.6
+539,"Odessa, TX",2016,4.4
+922,"Odessa, TX",2017,3.9
+1305,"Odessa, TX",2018,3.5
+1688,"Odessa, TX",2019,3.2
+2071,"Odessa, TX",2020,2.952375775
+2454,"Odessa, TX",2021,2.747983253
+2837,"Odessa, TX",2022,2.579274787
+3220,"Odessa, TX",2023,2.440020443
+3603,"Odessa, TX",2024,2.325077946
+130,"Ogden-Clearfield, UT",2015,3.7
+513,"Ogden-Clearfield, UT",2016,3.5
+896,"Ogden-Clearfield, UT",2017,3.1
+1279,"Ogden-Clearfield, UT",2018,2.8
+1662,"Ogden-Clearfield, UT",2019,2.7
+2045,"Ogden-Clearfield, UT",2020,2.624629454
+2428,"Ogden-Clearfield, UT",2021,2.567822263
+2811,"Ogden-Clearfield, UT",2022,2.525006373
+3194,"Ogden-Clearfield, UT",2023,2.492735803
+3577,"Ogden-Clearfield, UT",2024,2.468413299
+182,"Oklahoma City, OK",2015,3.9
+565,"Oklahoma City, OK",2016,3.7
+948,"Oklahoma City, OK",2017,3.2
+1331,"Oklahoma City, OK",2018,2.9
+1714,"Oklahoma City, OK",2019,2.8
+2097,"Oklahoma City, OK",2020,2.732745924
+2480,"Oklahoma City, OK",2021,2.687514818
+2863,"Oklahoma City, OK",2022,2.657095055
+3246,"Oklahoma City, OK",2023,2.636636525
+3629,"Oklahoma City, OK",2024,2.62287733
+157,"Olympia-Lacey-Tumwater, WA",2015,6.1
+540,"Olympia-Lacey-Tumwater, WA",2016,5.7
+923,"Olympia-Lacey-Tumwater, WA",2017,5.1
+1306,"Olympia-Lacey-Tumwater, WA",2018,4.6
+1689,"Olympia-Lacey-Tumwater, WA",2019,4.3
+2072,"Olympia-Lacey-Tumwater, WA",2020,4.028576539
+2455,"Olympia-Lacey-Tumwater, WA",2021,3.783007554
+2838,"Olympia-Lacey-Tumwater, WA",2022,3.560830276
+3221,"Olympia-Lacey-Tumwater, WA",2023,3.359816522
+3604,"Olympia-Lacey-Tumwater, WA",2024,3.17795036
+87,"Omaha-Council Bluffs, NE-IA",2015,3.3
+470,"Omaha-Council Bluffs, NE-IA",2016,3.1
+853,"Omaha-Council Bluffs, NE-IA",2017,2.7
+1236,"Omaha-Council Bluffs, NE-IA",2018,2.6
+1619,"Omaha-Council Bluffs, NE-IA",2019,2.5
+2002,"Omaha-Council Bluffs, NE-IA",2020,2.440521213
+2385,"Omaha-Council Bluffs, NE-IA",2021,2.405143952
+2768,"Omaha-Council Bluffs, NE-IA",2022,2.384101986
+3151,"Omaha-Council Bluffs, NE-IA",2023,2.371586479
+3534,"Omaha-Council Bluffs, NE-IA",2024,2.364142408
+131,"Orlando-Kissimmee-Sanford, FL",2015,5.2
+514,"Orlando-Kissimmee-Sanford, FL",2016,4.8
+897,"Orlando-Kissimmee-Sanford, FL",2017,4.2
+1280,"Orlando-Kissimmee-Sanford, FL",2018,3.8
+1663,"Orlando-Kissimmee-Sanford, FL",2019,3.6
+2046,"Orlando-Kissimmee-Sanford, FL",2020,3.428644954
+2429,"Orlando-Kissimmee-Sanford, FL",2021,3.281832194
+2812,"Orlando-Kissimmee-Sanford, FL",2022,3.156046658
+3195,"Orlando-Kissimmee-Sanford, FL",2023,3.048276726
+3578,"Orlando-Kissimmee-Sanford, FL",2024,2.955942118
+132,"Oshkosh-Neenah, WI",2015,4.2
+515,"Oshkosh-Neenah, WI",2016,3.9
+898,"Oshkosh-Neenah, WI",2017,3.5
+1281,"Oshkosh-Neenah, WI",2018,3.1
+1664,"Oshkosh-Neenah, WI",2019,2.9
+2047,"Oshkosh-Neenah, WI",2020,2.720101954
+2430,"Oshkosh-Neenah, WI",2021,2.558285418
+2813,"Oshkosh-Neenah, WI",2022,2.412733025
+3196,"Oshkosh-Neenah, WI",2023,2.28181007
+3579,"Oshkosh-Neenah, WI",2024,2.16404615
+133,"Owensboro, KY",2015,4.6
+516,"Owensboro, KY",2016,4.4
+899,"Owensboro, KY",2017,3.9
+1282,"Owensboro, KY",2018,3.5
+1665,"Owensboro, KY",2019,3.2
+2048,"Owensboro, KY",2020,2.952375775
+2431,"Owensboro, KY",2021,2.747983253
+2814,"Owensboro, KY",2022,2.579274787
+3197,"Owensboro, KY",2023,2.440020443
+3580,"Owensboro, KY",2024,2.325077946
+216,"Oxnard-Thousand Oaks-Ventura, CA",2015,5.6
+599,"Oxnard-Thousand Oaks-Ventura, CA",2016,5.2
+982,"Oxnard-Thousand Oaks-Ventura, CA",2017,4.6
+1365,"Oxnard-Thousand Oaks-Ventura, CA",2018,4.2
+1748,"Oxnard-Thousand Oaks-Ventura, CA",2019,3.9
+2131,"Oxnard-Thousand Oaks-Ventura, CA",2020,3.629928644
+2514,"Oxnard-Thousand Oaks-Ventura, CA",2021,3.386800187
+2897,"Oxnard-Thousand Oaks-Ventura, CA",2022,3.167926747
+3280,"Oxnard-Thousand Oaks-Ventura, CA",2023,2.970888592
+3663,"Oxnard-Thousand Oaks-Ventura, CA",2024,2.793507386
+278,"Palm Bay-Melbourne-Titusville, FL",2015,6
+661,"Palm Bay-Melbourne-Titusville, FL",2016,5.6
+1044,"Palm Bay-Melbourne-Titusville, FL",2017,5
+1427,"Palm Bay-Melbourne-Titusville, FL",2018,4.5
+1810,"Palm Bay-Melbourne-Titusville, FL",2019,4.3
+2193,"Palm Bay-Melbourne-Titusville, FL",2020,4.130467565
+2576,"Palm Bay-Melbourne-Titusville, FL",2021,3.986761333
+2959,"Palm Bay-Melbourne-Titusville, FL",2022,3.864946996
+3342,"Palm Bay-Melbourne-Titusville, FL",2023,3.76168959
+3725,"Palm Bay-Melbourne-Titusville, FL",2024,3.674162193
+353,"Panama City, FL",2015,5.5
+736,"Panama City, FL",2016,5.1
+1119,"Panama City, FL",2017,4.5
+1502,"Panama City, FL",2018,4.1
+1885,"Panama City, FL",2019,3.8
+2268,"Panama City, FL",2020,3.529943997
+2651,"Panama City, FL",2021,3.286843182
+3034,"Panama City, FL",2022,3.068007066
+3417,"Panama City, FL",2023,2.871013712
+3800,"Panama City, FL",2024,2.693682918
+134,"Parkersburg-Vienna, WV",2015,6.5
+517,"Parkersburg-Vienna, WV",2016,6.1
+900,"Parkersburg-Vienna, WV",2017,5.5
+1283,"Parkersburg-Vienna, WV",2018,4.9
+1666,"Parkersburg-Vienna, WV",2019,4.7
+2049,"Parkersburg-Vienna, WV",2020,4.537450616
+2432,"Parkersburg-Vienna, WV",2021,4.405339104
+2815,"Parkersburg-Vienna, WV",2022,4.297965879
+3198,"Parkersburg-Vienna, WV",2023,4.210698622
+3581,"Parkersburg-Vienna, WV",2024,4.139772427
+374,"Pensacola-Ferry Pass-Brent, FL",2015,5.3
+757,"Pensacola-Ferry Pass-Brent, FL",2016,4.9
+1140,"Pensacola-Ferry Pass-Brent, FL",2017,4.3
+1523,"Pensacola-Ferry Pass-Brent, FL",2018,3.9
+1906,"Pensacola-Ferry Pass-Brent, FL",2019,3.7
+2289,"Pensacola-Ferry Pass-Brent, FL",2020,3.528649263
+2672,"Pensacola-Ferry Pass-Brent, FL",2021,3.381843888
+3055,"Pensacola-Ferry Pass-Brent, FL",2022,3.256067842
+3438,"Pensacola-Ferry Pass-Brent, FL",2023,3.148308751
+3821,"Pensacola-Ferry Pass-Brent, FL",2024,3.055985753
+88,"Peoria, IL",2015,6.4
+471,"Peoria, IL",2016,6
+854,"Peoria, IL",2017,5.4
+1237,"Peoria, IL",2018,4.9
+1620,"Peoria, IL",2019,4.6
+2003,"Peoria, IL",2020,4.328576253
+2386,"Peoria, IL",2021,4.083006752
+2769,"Peoria, IL",2022,3.860828772
+3152,"Peoria, IL",2023,3.659814173
+3535,"Peoria, IL",2024,3.477947055
+256,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2015,5.4
+639,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2016,5
+1022,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2017,4.4
+1405,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2018,4
+1788,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2019,3.7
+2171,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2020,3.429950104
+2554,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2021,3.186860283
+2937,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2022,2.968039013
+3320,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2023,2.771063476
+3703,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",2024,2.593752732
+257,"Phoenix-Mesa-Chandler, AZ",2015,5.2
+640,"Phoenix-Mesa-Chandler, AZ",2016,4.8
+1023,"Phoenix-Mesa-Chandler, AZ",2017,4.3
+1406,"Phoenix-Mesa-Chandler, AZ",2018,3.8
+1789,"Phoenix-Mesa-Chandler, AZ",2019,3.6
+2172,"Phoenix-Mesa-Chandler, AZ",2020,3.424965737
+2555,"Phoenix-Mesa-Chandler, AZ",2021,3.27178077
+2938,"Phoenix-Mesa-Chandler, AZ",2022,3.137717681
+3321,"Phoenix-Mesa-Chandler, AZ",2023,3.020389511
+3704,"Phoenix-Mesa-Chandler, AZ",2024,2.917707262
+89,"Pine Bluff, AR",2015,6.8
+472,"Pine Bluff, AR",2016,6.4
+855,"Pine Bluff, AR",2017,5.6
+1238,"Pine Bluff, AR",2018,5.2
+1621,"Pine Bluff, AR",2019,5
+2004,"Pine Bluff, AR",2020,4.855586357
+2387,"Pine Bluff, AR",2021,4.751309854
+2770,"Pine Bluff, AR",2022,4.676015106
+3153,"Pine Bluff, AR",2023,4.621647162
+3536,"Pine Bluff, AR",2024,4.582389797
+354,"Pittsburgh, PA",2015,5.3
+737,"Pittsburgh, PA",2016,4.9
+1120,"Pittsburgh, PA",2017,4.3
+1503,"Pittsburgh, PA",2018,3.9
+1886,"Pittsburgh, PA",2019,3.7
+2269,"Pittsburgh, PA",2020,3.528649263
+2652,"Pittsburgh, PA",2021,3.381843888
+3035,"Pittsburgh, PA",2022,3.256067842
+3418,"Pittsburgh, PA",2023,3.148308751
+3801,"Pittsburgh, PA",2024,3.055985753
+375,"Pittsfield, MA",2015,5.5
+758,"Pittsfield, MA",2016,5.1
+1141,"Pittsfield, MA",2017,4.5
+1524,"Pittsfield, MA",2018,4.1
+1907,"Pittsfield, MA",2019,3.8
+2290,"Pittsfield, MA",2020,3.529943997
+2673,"Pittsfield, MA",2021,3.286843182
+3056,"Pittsfield, MA",2022,3.068007066
+3439,"Pittsfield, MA",2023,2.871013712
+3822,"Pittsfield, MA",2024,2.693682918
+279,"Pocatello, ID",2015,3.9
+662,"Pocatello, ID",2016,3.7
+1045,"Pocatello, ID",2017,3.2
+1428,"Pocatello, ID",2018,2.9
+1811,"Pocatello, ID",2019,2.8
+2194,"Pocatello, ID",2020,2.732745924
+2577,"Pocatello, ID",2021,2.687514818
+2960,"Pocatello, ID",2022,2.657095055
+3343,"Pocatello, ID",2023,2.636636525
+3726,"Pocatello, ID",2024,2.62287733
+112,"Port St. Lucie, FL",2015,6
+495,"Port St. Lucie, FL",2016,5.6
+878,"Port St. Lucie, FL",2017,5
+1261,"Port St. Lucie, FL",2018,4.5
+1644,"Port St. Lucie, FL",2019,4.3
+2027,"Port St. Lucie, FL",2020,4.130467565
+2410,"Port St. Lucie, FL",2021,3.986761333
+2793,"Port St. Lucie, FL",2022,3.864946996
+3176,"Port St. Lucie, FL",2023,3.76168959
+3559,"Port St. Lucie, FL",2024,3.674162193
+158,"Portland-South Portland, ME",2015,3.5
+541,"Portland-South Portland, ME",2016,3.4
+924,"Portland-South Portland, ME",2017,3
+1307,"Portland-South Portland, ME",2018,2.7
+1690,"Portland-South Portland, ME",2019,2.6
+2073,"Portland-South Portland, ME",2020,2.53739369
+2456,"Portland-South Portland, ME",2021,2.498198191
+2839,"Portland-South Portland, ME",2022,2.473659334
+3222,"Portland-South Portland, ME",2023,2.458296462
+3605,"Portland-South Portland, ME",2024,2.448678335
+183,"Portland-Vancouver-Hillsboro, OR-WA",2015,5.2
+566,"Portland-Vancouver-Hillsboro, OR-WA",2016,4.8
+949,"Portland-Vancouver-Hillsboro, OR-WA",2017,4.3
+1332,"Portland-Vancouver-Hillsboro, OR-WA",2018,3.8
+1715,"Portland-Vancouver-Hillsboro, OR-WA",2019,3.6
+2098,"Portland-Vancouver-Hillsboro, OR-WA",2020,3.424965737
+2481,"Portland-Vancouver-Hillsboro, OR-WA",2021,3.27178077
+2864,"Portland-Vancouver-Hillsboro, OR-WA",2022,3.137717681
+3247,"Portland-Vancouver-Hillsboro, OR-WA",2023,3.020389511
+3630,"Portland-Vancouver-Hillsboro, OR-WA",2024,2.917707262
+159,"Prescott Valley-Prescott, AZ",2015,5.6
+542,"Prescott Valley-Prescott, AZ",2016,5.2
+925,"Prescott Valley-Prescott, AZ",2017,4.6
+1308,"Prescott Valley-Prescott, AZ",2018,4.2
+1691,"Prescott Valley-Prescott, AZ",2019,3.9
+2074,"Prescott Valley-Prescott, AZ",2020,3.629928644
+2457,"Prescott Valley-Prescott, AZ",2021,3.386800187
+2840,"Prescott Valley-Prescott, AZ",2022,3.167926747
+3223,"Prescott Valley-Prescott, AZ",2023,2.970888592
+3606,"Prescott Valley-Prescott, AZ",2024,2.793507386
+113,"Providence-Warwick, RI-MA",2015,5.9
+496,"Providence-Warwick, RI-MA",2016,5.5
+879,"Providence-Warwick, RI-MA",2017,4.9
+1262,"Providence-Warwick, RI-MA",2018,4.4
+1645,"Providence-Warwick, RI-MA",2019,4.1
+2028,"Providence-Warwick, RI-MA",2020,3.828574384
+2411,"Providence-Warwick, RI-MA",2021,3.583001501
+2794,"Providence-Warwick, RI-MA",2022,3.360818931
+3177,"Providence-Warwick, RI-MA",2023,3.159798795
+3560,"Providence-Warwick, RI-MA",2024,2.977925414
+65,"Provo-Orem, UT",2015,3.3
+448,"Provo-Orem, UT",2016,3.1
+831,"Provo-Orem, UT",2017,2.7
+1214,"Provo-Orem, UT",2018,2.6
+1597,"Provo-Orem, UT",2019,2.5
+1980,"Provo-Orem, UT",2020,2.440521213
+2363,"Provo-Orem, UT",2021,2.405143952
+2746,"Provo-Orem, UT",2022,2.384101986
+3129,"Provo-Orem, UT",2023,2.371586479
+3512,"Provo-Orem, UT",2024,2.364142408
+66,"Pueblo, CO",2015,5.7
+449,"Pueblo, CO",2016,5.3
+832,"Pueblo, CO",2017,4.7
+1215,"Pueblo, CO",2018,4.2
+1598,"Pueblo, CO",2019,4
+1981,"Pueblo, CO",2020,3.830466096
+2364,"Pueblo, CO",2021,3.686757374
+2747,"Pueblo, CO",2022,3.564939871
+3130,"Pueblo, CO",2023,3.461678886
+3513,"Pueblo, CO",2024,3.374147698
+239,"Punta Gorda, FL",2015,6
+622,"Punta Gorda, FL",2016,5.6
+1005,"Punta Gorda, FL",2017,5
+1388,"Punta Gorda, FL",2018,4.5
+1771,"Punta Gorda, FL",2019,4.3
+2154,"Punta Gorda, FL",2020,4.130467565
+2537,"Punta Gorda, FL",2021,3.986761333
+2920,"Punta Gorda, FL",2022,3.864946996
+3303,"Punta Gorda, FL",2023,3.76168959
+3686,"Punta Gorda, FL",2024,3.674162193
+334,"Racine, WI",2015,5.6
+717,"Racine, WI",2016,5.2
+1100,"Racine, WI",2017,4.6
+1483,"Racine, WI",2018,4.2
+1866,"Racine, WI",2019,3.9
+2249,"Racine, WI",2020,3.629928644
+2632,"Racine, WI",2021,3.386800187
+3015,"Racine, WI",2022,3.167926747
+3398,"Racine, WI",2023,2.970888592
+3781,"Racine, WI",2024,2.793507386
+240,"Raleigh-Cary, NC",2015,4.8
+623,"Raleigh-Cary, NC",2016,4.5
+1006,"Raleigh-Cary, NC",2017,4
+1389,"Raleigh-Cary, NC",2018,3.6
+1772,"Raleigh-Cary, NC",2019,3.3
+2155,"Raleigh-Cary, NC",2020,3.027286058
+2538,"Raleigh-Cary, NC",2021,2.77937641
+2921,"Raleigh-Cary, NC",2022,2.554015018
+3304,"Raleigh-Cary, NC",2023,2.34915104
+3687,"Raleigh-Cary, NC",2024,2.162920163
+90,"Rapid City, SD",2015,3.2
+473,"Rapid City, SD",2016,3
+856,"Rapid City, SD",2017,2.7
+1239,"Rapid City, SD",2018,2.5
+1622,"Rapid City, SD",2019,2.4
+2005,"Rapid City, SD",2020,2.314311586
+2388,"Rapid City, SD",2021,2.240886543
+2771,"Rapid City, SD",2022,2.177969788
+3154,"Rapid City, SD",2023,2.124057419
+3537,"Rapid City, SD",2024,2.077860766
+280,"Reading, PA",2015,4.9
+663,"Reading, PA",2016,4.6
+1046,"Reading, PA",2017,4.1
+1429,"Reading, PA",2018,3.6
+1812,"Reading, PA",2019,3.3
+2195,"Reading, PA",2020,3.032733024
+2578,"Reading, PA",2021,2.794627568
+2961,"Reading, PA",2022,2.582501817
+3344,"Reading, PA",2023,2.393521123
+3727,"Reading, PA",2024,2.225160127
+160,"Redding, CA",2015,7.8
+543,"Redding, CA",2016,7.3
+926,"Redding, CA",2017,6.8
+1309,"Redding, CA",2018,6
+1692,"Redding, CA",2019,5.7
+2075,"Redding, CA",2020,5.465114635
+2458,"Redding, CA",2021,5.281210852
+2841,"Redding, CA",2022,5.137223161
+3224,"Redding, CA",2023,5.024487824
+3607,"Redding, CA",2024,4.936221554
+335,"Reno, NV",2015,6.2
+718,"Reno, NV",2016,5.8
+1101,"Reno, NV",2017,5.2
+1484,"Reno, NV",2018,4.7
+1867,"Reno, NV",2019,4.4
+2250,"Reno, NV",2020,4.128578028
+2633,"Reno, NV",2021,3.883011739
+3016,"Reno, NV",2022,3.660838117
+3399,"Reno, NV",2023,3.459828776
+3782,"Reno, NV",2024,3.277967603
+376,"Richmond, VA ",2015,4.6
+759,"Richmond, VA ",2016,4.4
+1142,"Richmond, VA ",2017,3.9
+1525,"Richmond, VA ",2018,3.5
+1908,"Richmond, VA ",2019,3.2
+2291,"Richmond, VA ",2020,2.952375775
+2674,"Richmond, VA ",2021,2.747983253
+3057,"Richmond, VA ",2022,2.579274787
+3440,"Richmond, VA ",2023,2.440020443
+3823,"Richmond, VA ",2024,2.325077946
+217,"Riverside-San Bernardino-Ontario, CA",2015,6.6
+600,"Riverside-San Bernardino-Ontario, CA",2016,6.1
+983,"Riverside-San Bernardino-Ontario, CA",2017,5.5
+1366,"Riverside-San Bernardino-Ontario, CA",2018,4.9
+1749,"Riverside-San Bernardino-Ontario, CA",2019,4.8
+2132,"Riverside-San Bernardino-Ontario, CA",2020,4.721148696
+2515,"Riverside-San Bernardino-Ontario, CA",2021,4.658973413
+2898,"Riverside-San Bernardino-Ontario, CA",2022,4.609947392
+3281,"Riverside-San Bernardino-Ontario, CA",2023,4.571289735
+3664,"Riverside-San Bernardino-Ontario, CA",2024,4.540807668
+135,"Roanoke, VA ",2015,4.4
+518,"Roanoke, VA ",2016,4.2
+901,"Roanoke, VA ",2017,3.7
+1284,"Roanoke, VA ",2018,3.2
+1667,"Roanoke, VA ",2019,3
+2050,"Roanoke, VA ",2020,2.851193617
+2433,"Roanoke, VA ",2021,2.74047692
+2816,"Roanoke, VA ",2022,2.658100164
+3199,"Roanoke, VA ",2023,2.596809228
+3582,"Roanoke, VA ",2024,2.551206816
+355,"Rochester, MN",2015,3.2
+738,"Rochester, MN",2016,3
+1121,"Rochester, MN",2017,2.7
+1504,"Rochester, MN",2018,2.5
+1887,"Rochester, MN",2019,2.4
+2270,"Rochester, MN",2020,2.314311586
+2653,"Rochester, MN",2021,2.240886543
+3036,"Rochester, MN",2022,2.177969788
+3419,"Rochester, MN",2023,2.124057419
+3802,"Rochester, MN",2024,2.077860766
+161,"Rochester, NY",2015,5.1
+544,"Rochester, NY",2016,4.7
+927,"Rochester, NY",2017,4.2
+1310,"Rochester, NY",2018,3.7
+1693,"Rochester, NY",2019,3.5
+2076,"Rochester, NY",2020,3.324966336
+2459,"Rochester, NY",2021,3.171782419
+2842,"Rochester, NY",2022,3.037720709
+3225,"Rochester, NY",2023,2.920394147
+3608,"Rochester, NY",2024,2.817713657
+114,"Rockford, IL",2015,6.9
+497,"Rockford, IL",2016,6.5
+880,"Rockford, IL",2017,5.7
+1263,"Rockford, IL",2018,5.2
+1646,"Rockford, IL",2019,5.1
+2029,"Rockford, IL",2020,5.029746216
+2412,"Rockford, IL",2021,4.980390274
+2795,"Rockford, IL",2022,4.945715856
+3178,"Rockford, IL",2023,4.921355766
+3561,"Rockford, IL",2024,4.904241881
+91,"Rocky Mount, NC",2015,8
+474,"Rocky Mount, NC",2016,7.6
+857,"Rocky Mount, NC",2017,7
+1240,"Rocky Mount, NC",2018,6.1
+1623,"Rocky Mount, NC",2019,5.7
+2006,"Rocky Mount, NC",2020,5.38482731
+2389,"Rocky Mount, NC",2021,5.136492748
+2772,"Rocky Mount, NC",2022,4.940822068
+3155,"Rocky Mount, NC",2023,4.786646932
+3538,"Rocky Mount, NC",2024,4.665167451
+218,"Rome, GA",2015,6.7
+601,"Rome, GA",2016,6.3
+984,"Rome, GA",2017,5.5
+1367,"Rome, GA",2018,5
+1750,"Rome, GA",2019,4.8
+2133,"Rome, GA",2020,4.650269029
+2516,"Rome, GA",2021,4.538172211
+2899,"Rome, GA",2022,4.454250383
+3282,"Rome, GA",2023,4.3914219
+3665,"Rome, GA",2024,4.344385051
+162,"Sacramento-Roseville-Folsom, CA",2015,5.9
+545,"Sacramento-Roseville-Folsom, CA",2016,5.5
+928,"Sacramento-Roseville-Folsom, CA",2017,4.9
+1311,"Sacramento-Roseville-Folsom, CA",2018,4.4
+1694,"Sacramento-Roseville-Folsom, CA",2019,4.2
+2077,"Sacramento-Roseville-Folsom, CA",2020,4.030470531
+2460,"Sacramento-Roseville-Folsom, CA",2021,3.886769326
+2843,"Sacramento-Roseville-Folsom, CA",2022,3.764961381
+3226,"Sacramento-Roseville-Folsom, CA",2023,3.6617112
+3609,"Sacramento-Roseville-Folsom, CA",2024,3.574191457
+136,"Saginaw, MI",2015,5.8
+519,"Saginaw, MI",2016,5.3
+902,"Saginaw, MI",2017,4.8
+1285,"Saginaw, MI",2018,4.3
+1668,"Saginaw, MI",2019,4
+2051,"Saginaw, MI",2020,3.711334486
+2434,"Saginaw, MI",2021,3.433575223
+2817,"Saginaw, MI",2022,3.166310155
+3200,"Saginaw, MI",2023,2.909142794
+3583,"Saginaw, MI",2024,2.661691633
+301,"Salem, OR",2015,5.9
+684,"Salem, OR",2016,5.5
+1067,"Salem, OR",2017,4.9
+1450,"Salem, OR",2018,4.4
+1833,"Salem, OR",2019,4.2
+2216,"Salem, OR",2020,4.030470531
+2599,"Salem, OR",2021,3.886769326
+2982,"Salem, OR",2022,3.764961381
+3365,"Salem, OR",2023,3.6617112
+3748,"Salem, OR",2024,3.574191457
+92,"Salinas, CA",2015,8.1
+475,"Salinas, CA",2016,7.7
+858,"Salinas, CA",2017,7.1
+1241,"Salinas, CA",2018,6.1
+1624,"Salinas, CA",2019,5.9
+2007,"Salinas, CA",2020,5.776293936
+2390,"Salinas, CA",2021,5.699777985
+2773,"Salinas, CA",2022,5.65245055
+3156,"Salinas, CA",2023,5.623177096
+3539,"Salinas, CA",2024,5.605070577
+23,"Salisbury, MD-DE",2015,6.4
+406,"Salisbury, MD-DE",2016,6
+789,"Salisbury, MD-DE",2017,5.4
+1172,"Salisbury, MD-DE",2018,4.9
+1555,"Salisbury, MD-DE",2019,4.6
+1938,"Salisbury, MD-DE",2020,4.328576253
+2321,"Salisbury, MD-DE",2021,4.083006752
+2704,"Salisbury, MD-DE",2022,3.860828772
+3087,"Salisbury, MD-DE",2023,3.659814173
+3470,"Salisbury, MD-DE",2024,3.477947055
+377,"Salt Lake City, UT",2015,3.4
+760,"Salt Lake City, UT",2016,3.2
+1143,"Salt Lake City, UT",2017,2.8
+1526,"Salt Lake City, UT",2018,2.7
+1909,"Salt Lake City, UT",2019,2.6
+2292,"Salt Lake City, UT",2020,2.540517407
+2675,"Salt Lake City, UT",2021,2.505135619
+3058,"Salt Lake City, UT",2022,2.484089614
+3441,"Salt Lake City, UT",2023,2.471570905
+3824,"Salt Lake City, UT",2024,2.464124452
+93,"San Angelo, TX",2015,4.1
+476,"San Angelo, TX",2016,3.8
+859,"San Angelo, TX",2017,3.4
+1242,"San Angelo, TX",2018,3.1
+1625,"San Angelo, TX",2019,2.9
+2008,"San Angelo, TX",2020,2.713700797
+2391,"San Angelo, TX",2021,2.540163831
+2774,"San Angelo, TX",2022,2.378514839
+3157,"San Angelo, TX",2023,2.227939446
+3540,"San Angelo, TX",2024,2.087679068
+219,"San Antonio-New Braunfels, TX",2015,3.8
+602,"San Antonio-New Braunfels, TX",2016,3.6
+985,"San Antonio-New Braunfels, TX",2017,3.2
+1368,"San Antonio-New Braunfels, TX",2018,2.8
+1751,"San Antonio-New Braunfels, TX",2019,2.7
+2134,"San Antonio-New Braunfels, TX",2020,2.627997858
+2517,"San Antonio-New Braunfels, TX",2021,2.576154773
+2900,"San Antonio-New Braunfels, TX",2022,2.538826641
+3283,"San Antonio-New Braunfels, TX",2023,2.511949587
+3666,"San Antonio-New Braunfels, TX",2024,2.492597532
+220,"San Diego-Chula Vista-Carlsbad, CA",2015,5.2
+603,"San Diego-Chula Vista-Carlsbad, CA",2016,4.8
+986,"San Diego-Chula Vista-Carlsbad, CA",2017,4.3
+1369,"San Diego-Chula Vista-Carlsbad, CA",2018,3.8
+1752,"San Diego-Chula Vista-Carlsbad, CA",2019,3.6
+2135,"San Diego-Chula Vista-Carlsbad, CA",2020,3.424965737
+2518,"San Diego-Chula Vista-Carlsbad, CA",2021,3.27178077
+2901,"San Diego-Chula Vista-Carlsbad, CA",2022,3.137717681
+3284,"San Diego-Chula Vista-Carlsbad, CA",2023,3.020389511
+3667,"San Diego-Chula Vista-Carlsbad, CA",2024,2.917707262
+258,"San Francisco-Oakland-Berkeley, CA",2015,4.3
+641,"San Francisco-Oakland-Berkeley, CA",2016,4.1
+1024,"San Francisco-Oakland-Berkeley, CA",2017,3.6
+1407,"San Francisco-Oakland-Berkeley, CA",2018,3.2
+1790,"San Francisco-Oakland-Berkeley, CA",2019,3
+2173,"San Francisco-Oakland-Berkeley, CA",2020,2.847626108
+2556,"San Francisco-Oakland-Berkeley, CA",2021,2.731537093
+2939,"San Francisco-Oakland-Berkeley, CA",2022,2.643092418
+3322,"San Francisco-Oakland-Berkeley, CA",2023,2.575709121
+3705,"San Francisco-Oakland-Berkeley, CA",2024,2.524371845
+24,"San Jose-Sunnyvale-Santa Clara, CA",2015,4.2
+407,"San Jose-Sunnyvale-Santa Clara, CA",2016,4
+790,"San Jose-Sunnyvale-Santa Clara, CA",2017,3.5
+1173,"San Jose-Sunnyvale-Santa Clara, CA",2018,3.1
+1556,"San Jose-Sunnyvale-Santa Clara, CA",2019,2.9
+1939,"San Jose-Sunnyvale-Santa Clara, CA",2020,2.747622558
+2322,"San Jose-Sunnyvale-Santa Clara, CA",2021,2.631528133
+2705,"San Jose-Sunnyvale-Santa Clara, CA",2022,2.543077275
+3088,"San Jose-Sunnyvale-Santa Clara, CA",2023,2.475687698
+3471,"San Jose-Sunnyvale-Santa Clara, CA",2024,2.424344441
+137,"San Luis Obispo-Paso Robles, CA",2015,4.7
+520,"San Luis Obispo-Paso Robles, CA",2016,4.4
+903,"San Luis Obispo-Paso Robles, CA",2017,3.9
+1286,"San Luis Obispo-Paso Robles, CA",2018,3.5
+1669,"San Luis Obispo-Paso Robles, CA",2019,3.2
+2052,"San Luis Obispo-Paso Robles, CA",2020,2.927281137
+2435,"San Luis Obispo-Paso Robles, CA",2021,2.679362543
+2818,"San Luis Obispo-Paso Robles, CA",2022,2.453988952
+3201,"San Luis Obispo-Paso Robles, CA",2023,2.249110188
+3584,"San Luis Obispo-Paso Robles, CA",2024,2.062862509
+184,"Santa Cruz-Watsonville, CA",2015,7.5
+567,"Santa Cruz-Watsonville, CA",2016,7.1
+950,"Santa Cruz-Watsonville, CA",2017,6.5
+1333,"Santa Cruz-Watsonville, CA",2018,5.7
+1716,"Santa Cruz-Watsonville, CA",2019,5.5
+2099,"Santa Cruz-Watsonville, CA",2020,5.357076883
+2482,"Santa Cruz-Watsonville, CA",2021,5.254941796
+2865,"Santa Cruz-Watsonville, CA",2022,5.181954472
+3248,"Santa Cruz-Watsonville, CA",2023,5.129796592
+3631,"Santa Cruz-Watsonville, CA",2024,5.092523759
+94,"Santa Fe, NM",2015,5.3
+477,"Santa Fe, NM",2016,4.9
+860,"Santa Fe, NM",2017,4.3
+1243,"Santa Fe, NM",2018,3.9
+1626,"Santa Fe, NM",2019,3.7
+2009,"Santa Fe, NM",2020,3.528649263
+2392,"Santa Fe, NM",2021,3.381843888
+2775,"Santa Fe, NM",2022,3.256067842
+3158,"Santa Fe, NM",2023,3.148308751
+3541,"Santa Fe, NM",2024,3.055985753
+25,"Santa Maria-Santa Barbara, CA",2015,5.3
+408,"Santa Maria-Santa Barbara, CA",2016,4.9
+791,"Santa Maria-Santa Barbara, CA",2017,4.3
+1174,"Santa Maria-Santa Barbara, CA",2018,4
+1557,"Santa Maria-Santa Barbara, CA",2019,3.7
+1940,"Santa Maria-Santa Barbara, CA",2020,3.443353833
+2323,"Santa Maria-Santa Barbara, CA",2021,3.223796317
+2706,"Santa Maria-Santa Barbara, CA",2022,3.035967668
+3089,"Santa Maria-Santa Barbara, CA",2023,2.875282659
+3472,"Santa Maria-Santa Barbara, CA",2024,2.737818687
+67,"Santa Rosa-Petaluma, CA",2015,4.5
+450,"Santa Rosa-Petaluma, CA",2016,4.3
+833,"Santa Rosa-Petaluma, CA",2017,3.8
+1216,"Santa Rosa-Petaluma, CA",2018,3.3
+1599,"Santa Rosa-Petaluma, CA",2019,3.1
+1982,"Santa Rosa-Petaluma, CA",2020,2.95119363
+2365,"Santa Rosa-Petaluma, CA",2021,2.840476952
+2748,"Santa Rosa-Petaluma, CA",2022,2.758100217
+3131,"Santa Rosa-Petaluma, CA",2023,2.696809302
+3514,"Santa Rosa-Petaluma, CA",2024,2.65120691
+115,"Savannah, GA",2015,5.7
+498,"Savannah, GA",2016,5.3
+881,"Savannah, GA",2017,4.7
+1264,"Savannah, GA",2018,4.2
+1647,"Savannah, GA",2019,4
+2030,"Savannah, GA",2020,3.830466096
+2413,"Savannah, GA",2021,3.686757374
+2796,"Savannah, GA",2022,3.564939871
+3179,"Savannah, GA",2023,3.461678886
+3562,"Savannah, GA",2024,3.374147698
+163,"Scranton-Wilkes-Barre, PA",2015,6.2
+546,"Scranton-Wilkes-Barre, PA",2016,5.8
+929,"Scranton-Wilkes-Barre, PA",2017,5.2
+1312,"Scranton-Wilkes-Barre, PA",2018,4.7
+1695,"Scranton-Wilkes-Barre, PA",2019,4.4
+2078,"Scranton-Wilkes-Barre, PA",2020,4.128578028
+2461,"Scranton-Wilkes-Barre, PA",2021,3.883011739
+2844,"Scranton-Wilkes-Barre, PA",2022,3.660838117
+3227,"Scranton-Wilkes-Barre, PA",2023,3.459828776
+3610,"Scranton-Wilkes-Barre, PA",2024,3.277967603
+68,"Seattle-Tacoma-Bellevue, WA",2015,4.7
+451,"Seattle-Tacoma-Bellevue, WA",2016,4.4
+834,"Seattle-Tacoma-Bellevue, WA",2017,3.9
+1217,"Seattle-Tacoma-Bellevue, WA",2018,3.5
+1600,"Seattle-Tacoma-Bellevue, WA",2019,3.2
+1983,"Seattle-Tacoma-Bellevue, WA",2020,2.927281137
+2366,"Seattle-Tacoma-Bellevue, WA",2021,2.679362543
+2749,"Seattle-Tacoma-Bellevue, WA",2022,2.453988952
+3132,"Seattle-Tacoma-Bellevue, WA",2023,2.249110188
+3515,"Seattle-Tacoma-Bellevue, WA",2024,2.062862509
+26,"Sebastian-Vero Beach, FL",2015,6.9
+409,"Sebastian-Vero Beach, FL",2016,6.5
+792,"Sebastian-Vero Beach, FL",2017,5.7
+1175,"Sebastian-Vero Beach, FL",2018,5.2
+1558,"Sebastian-Vero Beach, FL",2019,5.1
+1941,"Sebastian-Vero Beach, FL",2020,5.029746216
+2324,"Sebastian-Vero Beach, FL",2021,4.980390274
+2707,"Sebastian-Vero Beach, FL",2022,4.945715856
+3090,"Sebastian-Vero Beach, FL",2023,4.921355766
+3473,"Sebastian-Vero Beach, FL",2024,4.904241881
+185,"Sebring-Avon Park, FL",2015,7.5
+568,"Sebring-Avon Park, FL",2016,7.1
+951,"Sebring-Avon Park, FL",2017,6.5
+1334,"Sebring-Avon Park, FL",2018,5.7
+1717,"Sebring-Avon Park, FL",2019,5.5
+2100,"Sebring-Avon Park, FL",2020,5.357076883
+2483,"Sebring-Avon Park, FL",2021,5.254941796
+2866,"Sebring-Avon Park, FL",2022,5.181954472
+3249,"Sebring-Avon Park, FL",2023,5.129796592
+3632,"Sebring-Avon Park, FL",2024,5.092523759
+138,"Sheboygan, WI",2015,3.8
+521,"Sheboygan, WI",2016,3.6
+904,"Sheboygan, WI",2017,3.2
+1287,"Sheboygan, WI",2018,2.8
+1670,"Sheboygan, WI",2019,2.7
+2053,"Sheboygan, WI",2020,2.627997858
+2436,"Sheboygan, WI",2021,2.576154773
+2819,"Sheboygan, WI",2022,2.538826641
+3202,"Sheboygan, WI",2023,2.511949587
+3585,"Sheboygan, WI",2024,2.492597532
+378,"Sherman-Denison, TX",2015,4
+761,"Sherman-Denison, TX",2016,3.7
+1144,"Sherman-Denison, TX",2017,3.3
+1527,"Sherman-Denison, TX",2018,3
+1910,"Sherman-Denison, TX",2019,2.8
+2293,"Sherman-Denison, TX",2020,2.613674408
+2676,"Sherman-Denison, TX",2021,2.440088276
+3059,"Sherman-Denison, TX",2022,2.278370582
+3442,"Sherman-Denison, TX",2023,2.127709857
+3825,"Sherman-Denison, TX",2024,1.987350113
+259,"Shreveport-Bossier City, LA",2015,6.9
+642,"Shreveport-Bossier City, LA",2016,6.5
+1025,"Shreveport-Bossier City, LA",2017,5.7
+1408,"Shreveport-Bossier City, LA",2018,5.3
+1791,"Shreveport-Bossier City, LA",2019,5.1
+2174,"Shreveport-Bossier City, LA",2020,4.955580196
+2557,"Shreveport-Bossier City, LA",2021,4.851294796
+2940,"Shreveport-Bossier City, LA",2022,4.775990412
+3323,"Shreveport-Bossier City, LA",2023,4.721613189
+3706,"Shreveport-Bossier City, LA",2024,4.68234745
+186,"Sierra Vista-Douglas, AZ",2015,7.3
+569,"Sierra Vista-Douglas, AZ",2016,7
+952,"Sierra Vista-Douglas, AZ",2017,6.1
+1335,"Sierra Vista-Douglas, AZ",2018,5.6
+1718,"Sierra Vista-Douglas, AZ",2019,5.5
+2101,"Sierra Vista-Douglas, AZ",2020,5.440716721
+2484,"Sierra Vista-Douglas, AZ",2021,5.405571649
+2867,"Sierra Vista-Douglas, AZ",2022,5.384736497
+3250,"Sierra Vista-Douglas, AZ",2023,5.372384737
+3633,"Sierra Vista-Douglas, AZ",2024,5.365062208
+302,"Sioux City, IA-NE-SD",2015,3.6
+685,"Sioux City, IA-NE-SD",2016,3.4
+1068,"Sioux City, IA-NE-SD",2017,3
+1451,"Sioux City, IA-NE-SD",2018,2.7
+1834,"Sioux City, IA-NE-SD",2019,2.6
+2217,"Sioux City, IA-NE-SD",2020,2.524634184
+2600,"Sioux City, IA-NE-SD",2021,2.467834122
+2983,"Sioux City, IA-NE-SD",2022,2.425026291
+3366,"Sioux City, IA-NE-SD",2023,2.39276382
+3749,"Sioux City, IA-NE-SD",2024,2.368448946
+95,"Sioux Falls, SD",2015,2.6
+478,"Sioux Falls, SD",2016,2.6
+861,"Sioux Falls, SD",2017,2.4
+1244,"Sioux Falls, SD",2018,2.1
+1627,"Sioux Falls, SD",2019,2.1
+2010,"Sioux Falls, SD",2020,2.1
+2393,"Sioux Falls, SD",2021,2.1
+2776,"Sioux Falls, SD",2022,2.1
+3159,"Sioux Falls, SD",2023,2.1
+3542,"Sioux Falls, SD",2024,2.1
+139,"South Bend-Mishawaka, IN-MI",2015,5.1
+522,"South Bend-Mishawaka, IN-MI",2016,4.7
+905,"South Bend-Mishawaka, IN-MI",2017,4.2
+1288,"South Bend-Mishawaka, IN-MI",2018,3.7
+1671,"South Bend-Mishawaka, IN-MI",2019,3.5
+2054,"South Bend-Mishawaka, IN-MI",2020,3.324966336
+2437,"South Bend-Mishawaka, IN-MI",2021,3.171782419
+2820,"South Bend-Mishawaka, IN-MI",2022,3.037720709
+3203,"South Bend-Mishawaka, IN-MI",2023,2.920394147
+3586,"South Bend-Mishawaka, IN-MI",2024,2.817713657
+69,"Spartanburg, SC",2015,5.9
+452,"Spartanburg, SC",2016,5.5
+835,"Spartanburg, SC",2017,4.9
+1218,"Spartanburg, SC",2018,4.4
+1601,"Spartanburg, SC",2019,4.2
+1984,"Spartanburg, SC",2020,4.030470531
+2367,"Spartanburg, SC",2021,3.886769326
+2750,"Spartanburg, SC",2022,3.764961381
+3133,"Spartanburg, SC",2023,3.6617112
+3516,"Spartanburg, SC",2024,3.574191457
+281,"Spokane-Spokane Valley, WA",2015,6.9
+664,"Spokane-Spokane Valley, WA",2016,6.5
+1047,"Spokane-Spokane Valley, WA",2017,5.7
+1430,"Spokane-Spokane Valley, WA",2018,5.3
+1813,"Spokane-Spokane Valley, WA",2019,5.1
+2196,"Spokane-Spokane Valley, WA",2020,4.955580196
+2579,"Spokane-Spokane Valley, WA",2021,4.851294796
+2962,"Spokane-Spokane Valley, WA",2022,4.775990412
+3345,"Spokane-Spokane Valley, WA",2023,4.721613189
+3728,"Spokane-Spokane Valley, WA",2024,4.68234745
+44,"Springfield, IL",2015,5.2
+427,"Springfield, IL",2016,4.8
+810,"Springfield, IL",2017,4.3
+1193,"Springfield, IL",2018,3.8
+1576,"Springfield, IL",2019,3.6
+1959,"Springfield, IL",2020,3.424965737
+2342,"Springfield, IL",2021,3.27178077
+2725,"Springfield, IL",2022,3.137717681
+3108,"Springfield, IL",2023,3.020389511
+3491,"Springfield, IL",2024,2.917707262
+96,"Springfield, MA",2015,5.7
+479,"Springfield, MA",2016,5.3
+862,"Springfield, MA",2017,4.7
+1245,"Springfield, MA",2018,4.2
+1628,"Springfield, MA",2019,4
+2011,"Springfield, MA",2020,3.830466096
+2394,"Springfield, MA",2021,3.686757374
+2777,"Springfield, MA",2022,3.564939871
+3160,"Springfield, MA",2023,3.461678886
+3543,"Springfield, MA",2024,3.374147698
+260,"Springfield, MO",2015,4.4
+643,"Springfield, MO",2016,4.2
+1026,"Springfield, MO",2017,3.7
+1409,"Springfield, MO",2018,3.2
+1792,"Springfield, MO",2019,3
+2175,"Springfield, MO",2020,2.851193617
+2558,"Springfield, MO",2021,2.74047692
+2941,"Springfield, MO",2022,2.658100164
+3324,"Springfield, MO",2023,2.596809228
+3707,"Springfield, MO",2024,2.551206816
+356,"Springfield, OH",2015,5
+739,"Springfield, OH",2016,4.6
+1122,"Springfield, OH",2017,4.1
+1505,"Springfield, OH",2018,3.7
+1888,"Springfield, OH",2019,3.4
+2271,"Springfield, OH",2020,3.111399548
+2654,"Springfield, OH",2021,2.833765479
+3037,"Springfield, OH",2022,2.566681087
+3420,"Springfield, OH",2023,2.3097455
+3803,"Springfield, OH",2024,2.06257308
+357,"St. Cloud, MN",2015,3.8
+740,"St. Cloud, MN",2016,3.6
+1123,"St. Cloud, MN",2017,3.1
+1506,"St. Cloud, MN",2018,2.8
+1889,"St. Cloud, MN",2019,2.7
+2272,"St. Cloud, MN",2020,2.632743662
+2655,"St. Cloud, MN",2021,2.587509511
+3038,"St. Cloud, MN",2022,2.557086678
+3421,"St. Cloud, MN",2023,2.536625394
+3804,"St. Cloud, MN",2024,2.522863884
+282,"St. George, UT",2015,4.1
+665,"St. George, UT",2016,3.8
+1048,"St. George, UT",2017,3.4
+1431,"St. George, UT",2018,3
+1814,"St. George, UT",2019,2.9
+2197,"St. George, UT",2020,2.819781576
+2580,"St. George, UT",2021,2.75543162
+2963,"St. George, UT",2022,2.7038111
+3346,"St. George, UT",2023,2.662401932
+3729,"St. George, UT",2024,2.62918415
+187,"St. Joseph, MO-KS",2015,4.5
+570,"St. Joseph, MO-KS",2016,4.3
+953,"St. Joseph, MO-KS",2017,3.8
+1336,"St. Joseph, MO-KS",2018,3.3
+1719,"St. Joseph, MO-KS",2019,3.1
+2102,"St. Joseph, MO-KS",2020,2.95119363
+2485,"St. Joseph, MO-KS",2021,2.840476952
+2868,"St. Joseph, MO-KS",2022,2.758100217
+3251,"St. Joseph, MO-KS",2023,2.696809302
+3634,"St. Joseph, MO-KS",2024,2.65120691
+221,"St. Louis, MO-IL",2015,5.1
+604,"St. Louis, MO-IL",2016,4.7
+987,"St. Louis, MO-IL",2017,4.2
+1370,"St. Louis, MO-IL",2018,3.7
+1753,"St. Louis, MO-IL",2019,3.5
+2136,"St. Louis, MO-IL",2020,3.324966336
+2519,"St. Louis, MO-IL",2021,3.171782419
+2902,"St. Louis, MO-IL",2022,3.037720709
+3285,"St. Louis, MO-IL",2023,2.920394147
+3668,"St. Louis, MO-IL",2024,2.817713657
+188,"State College, PA",2015,4
+571,"State College, PA",2016,3.8
+954,"State College, PA",2017,3.3
+1337,"State College, PA",2018,3
+1720,"State College, PA",2019,2.8
+2103,"State College, PA",2020,2.652656564
+2486,"State College, PA",2021,2.544106123
+2869,"State College, PA",2022,2.464135147
+3252,"State College, PA",2023,2.405219156
+3635,"State College, PA",2024,2.361814733
+70,"Staunton, VA",2015,4.3
+453,"Staunton, VA",2016,4.1
+836,"Staunton, VA",2017,3.6
+1219,"Staunton, VA",2018,3.2
+1602,"Staunton, VA",2019,3
+1985,"Staunton, VA",2020,2.847626108
+2368,"Staunton, VA",2021,2.731537093
+2751,"Staunton, VA",2022,2.643092418
+3134,"Staunton, VA",2023,2.575709121
+3517,"Staunton, VA",2024,2.524371845
+261,"Stockton, CA",2015,8.9
+644,"Stockton, CA",2016,8.1
+1027,"Stockton, CA",2017,7.2
+1410,"Stockton, CA",2018,6.5
+1793,"Stockton, CA",2019,6.2
+2176,"Stockton, CA",2020,5.925496539
+2559,"Stockton, CA",2021,5.674322706
+2942,"Stockton, CA",2022,5.444495751
+3325,"Stockton, CA",2023,5.234201435
+3708,"Stockton, CA",2024,5.041779711
+241,"Sumter, SC",2015,6.9
+624,"Sumter, SC",2016,6.5
+1007,"Sumter, SC",2017,5.7
+1390,"Sumter, SC",2018,5.3
+1773,"Sumter, SC",2019,5.2
+2156,"Sumter, SC",2020,5.131617807
+2539,"Sumter, SC",2021,5.084856564
+2922,"Sumter, SC",2022,5.0528802
+3305,"Sumter, SC",2023,5.031014062
+3688,"Sumter, SC",2024,5.016061516
+140,"Syracuse, NY",2015,5.4
+523,"Syracuse, NY",2016,5
+906,"Syracuse, NY",2017,4.5
+1289,"Syracuse, NY",2018,4.1
+1672,"Syracuse, NY",2019,3.7
+2055,"Syracuse, NY",2020,3.308226545
+2438,"Syracuse, NY",2021,2.924510446
+2821,"Syracuse, NY",2022,2.548685992
+3204,"Syracuse, NY",2023,2.180590881
+3587,"Syracuse, NY",2024,1.820066149
+71,"Tallahassee, FL",2015,5.2
+454,"Tallahassee, FL",2016,4.8
+837,"Tallahassee, FL",2017,4.3
+1220,"Tallahassee, FL",2018,3.8
+1603,"Tallahassee, FL",2019,3.6
+1986,"Tallahassee, FL",2020,3.424965737
+2369,"Tallahassee, FL",2021,3.27178077
+2752,"Tallahassee, FL",2022,3.137717681
+3135,"Tallahassee, FL",2023,3.020389511
+3518,"Tallahassee, FL",2024,2.917707262
+262,"Tampa-St. Petersburg-Clearwater, FL",2015,5.2
+645,"Tampa-St. Petersburg-Clearwater, FL",2016,4.8
+1028,"Tampa-St. Petersburg-Clearwater, FL",2017,4.3
+1411,"Tampa-St. Petersburg-Clearwater, FL",2018,3.8
+1794,"Tampa-St. Petersburg-Clearwater, FL",2019,3.6
+2177,"Tampa-St. Petersburg-Clearwater, FL",2020,3.424965737
+2560,"Tampa-St. Petersburg-Clearwater, FL",2021,3.27178077
+2943,"Tampa-St. Petersburg-Clearwater, FL",2022,3.137717681
+3326,"Tampa-St. Petersburg-Clearwater, FL",2023,3.020389511
+3709,"Tampa-St. Petersburg-Clearwater, FL",2024,2.917707262
+263,"Terre Haute, IN",2015,6.1
+646,"Terre Haute, IN",2016,5.7
+1029,"Terre Haute, IN",2017,5.1
+1412,"Terre Haute, IN",2018,4.6
+1795,"Terre Haute, IN",2019,4.3
+2178,"Terre Haute, IN",2020,4.028576539
+2561,"Terre Haute, IN",2021,3.783007554
+2944,"Terre Haute, IN",2022,3.560830276
+3327,"Terre Haute, IN",2023,3.359816522
+3710,"Terre Haute, IN",2024,3.17795036
+242,"Texarkana, TX-AR",2015,4.9
+625,"Texarkana, TX-AR",2016,4.6
+1008,"Texarkana, TX-AR",2017,4.1
+1391,"Texarkana, TX-AR",2018,3.6
+1774,"Texarkana, TX-AR",2019,3.4
+2157,"Texarkana, TX-AR",2020,3.236311588
+2540,"Texarkana, TX-AR",2021,3.102342107
+2923,"Texarkana, TX-AR",2022,2.99269585
+3306,"Texarkana, TX-AR",2023,2.902956741
+3689,"Texarkana, TX-AR",2024,2.82951048
+358,"The Villages, FL",2015,7.7
+741,"The Villages, FL",2016,7.2
+1124,"The Villages, FL",2017,6.5
+1507,"The Villages, FL",2018,5.8
+1890,"The Villages, FL",2019,5.6
+2273,"The Villages, FL",2020,5.438571509
+2656,"The Villages, FL",2021,5.308275722
+3039,"The Villages, FL",2022,5.20310846
+3422,"The Villages, FL",2023,5.118223499
+3805,"The Villages, FL",2024,5.049709243
+189,"Toledo, OH",2015,5.1
+572,"Toledo, OH",2016,4.7
+955,"Toledo, OH",2017,4.2
+1338,"Toledo, OH",2018,3.8
+1721,"Toledo, OH",2019,3.5
+2104,"Toledo, OH",2020,3.211322902
+2487,"Toledo, OH",2021,2.933541346
+2870,"Toledo, OH",2022,2.666244102
+3253,"Toledo, OH",2023,2.40903546
+3636,"Toledo, OH",2024,2.161534647
+164,"Topeka, KS",2015,4.2
+547,"Topeka, KS",2016,4
+930,"Topeka, KS",2017,3.5
+1313,"Topeka, KS",2018,3.1
+1696,"Topeka, KS",2019,3
+2079,"Topeka, KS",2020,2.931671225
+2462,"Topeka, KS",2021,2.884983011
+2845,"Topeka, KS",2022,2.853081526
+3228,"Topeka, KS",2023,2.831283633
+3611,"Topeka, KS",2024,2.816389399
+379,"Trenton-Princeton, NJ",2015,5
+762,"Trenton-Princeton, NJ",2016,4.6
+1145,"Trenton-Princeton, NJ",2017,4.1
+1528,"Trenton-Princeton, NJ",2018,3.7
+1911,"Trenton-Princeton, NJ",2019,3.4
+2294,"Trenton-Princeton, NJ",2020,3.111399548
+2677,"Trenton-Princeton, NJ",2021,2.833765479
+3060,"Trenton-Princeton, NJ",2022,2.566681087
+3443,"Trenton-Princeton, NJ",2023,2.3097455
+3826,"Trenton-Princeton, NJ",2024,2.06257308
+141,"Tucson, AZ",2015,5.5
+524,"Tucson, AZ",2016,5.1
+907,"Tucson, AZ",2017,4.5
+1290,"Tucson, AZ",2018,4.1
+1673,"Tucson, AZ",2019,3.8
+2056,"Tucson, AZ",2020,3.529943997
+2439,"Tucson, AZ",2021,3.286843182
+2822,"Tucson, AZ",2022,3.068007066
+3205,"Tucson, AZ",2023,2.871013712
+3588,"Tucson, AZ",2024,2.693682918
+72,"Tulsa, OK",2015,4.4
+455,"Tulsa, OK",2016,4.2
+838,"Tulsa, OK",2017,3.7
+1221,"Tulsa, OK",2018,3.3
+1604,"Tulsa, OK",2019,3.1
+1987,"Tulsa, OK",2020,2.947627316
+2370,"Tulsa, OK",2021,2.831540142
+2753,"Tulsa, OK",2022,2.743097571
+3136,"Tulsa, OK",2023,2.675716412
+3519,"Tulsa, OK",2024,2.624381171
+97,"Tuscaloosa, AL",2015,5.7
+480,"Tuscaloosa, AL",2016,5.3
+863,"Tuscaloosa, AL",2017,4.8
+1246,"Tuscaloosa, AL",2018,4.2
+1629,"Tuscaloosa, AL",2019,4
+2012,"Tuscaloosa, AL",2020,3.837213775
+2395,"Tuscaloosa, AL",2021,3.704717
+2778,"Tuscaloosa, AL",2022,3.596873751
+3161,"Tuscaloosa, AL",2023,3.509096774
+3544,"Tuscaloosa, AL",2024,3.43765236
+98,"Twin Falls, ID",2015,3.5
+481,"Twin Falls, ID",2016,3.4
+864,"Twin Falls, ID",2017,3
+1247,"Twin Falls, ID",2018,2.7
+1630,"Twin Falls, ID",2019,2.6
+2013,"Twin Falls, ID",2020,2.53739369
+2396,"Twin Falls, ID",2021,2.498198191
+2779,"Twin Falls, ID",2022,2.473659334
+3162,"Twin Falls, ID",2023,2.458296462
+3545,"Twin Falls, ID",2024,2.448678335
+359,"Tyler, TX",2015,4.5
+742,"Tyler, TX",2016,4.3
+1125,"Tyler, TX",2017,3.8
+1508,"Tyler, TX",2018,3.3
+1891,"Tyler, TX",2019,3.1
+2274,"Tyler, TX",2020,2.95119363
+2657,"Tyler, TX",2021,2.840476952
+3040,"Tyler, TX",2022,2.758100217
+3423,"Tyler, TX",2023,2.696809302
+3806,"Tyler, TX",2024,2.65120691
+360,"Urban Honolulu, HI",2015,3.4
+743,"Urban Honolulu, HI",2016,3.2
+1126,"Urban Honolulu, HI",2017,2.8
+1509,"Urban Honolulu, HI",2018,2.7
+1892,"Urban Honolulu, HI",2019,2.6
+2275,"Urban Honolulu, HI",2020,2.540517407
+2658,"Urban Honolulu, HI",2021,2.505135619
+3041,"Urban Honolulu, HI",2022,2.484089614
+3424,"Urban Honolulu, HI",2023,2.471570905
+3807,"Urban Honolulu, HI",2024,2.464124452
+380,"Utica-Rome, NY",2015,5.5
+763,"Utica-Rome, NY",2016,5.1
+1146,"Utica-Rome, NY",2017,4.5
+1529,"Utica-Rome, NY",2018,4.1
+1912,"Utica-Rome, NY",2019,3.8
+2295,"Utica-Rome, NY",2020,3.529943997
+2678,"Utica-Rome, NY",2021,3.286843182
+3061,"Utica-Rome, NY",2022,3.068007066
+3444,"Utica-Rome, NY",2023,2.871013712
+3827,"Utica-Rome, NY",2024,2.693682918
+27,"Valdosta, GA",2015,6
+410,"Valdosta, GA",2016,5.6
+793,"Valdosta, GA",2017,5
+1176,"Valdosta, GA",2018,4.6
+1559,"Valdosta, GA",2019,4.3
+1942,"Valdosta, GA",2020,4.029918948
+2325,"Valdosta, GA",2021,3.786773032
+2708,"Valdosta, GA",2022,3.567876016
+3091,"Valdosta, GA",2023,3.370809561
+3474,"Valdosta, GA",2024,3.19339651
+336,"Vallejo, CA",2015,6.1
+719,"Vallejo, CA",2016,5.8
+1102,"Vallejo, CA",2017,5.1
+1485,"Vallejo, CA",2018,4.6
+1868,"Vallejo, CA",2019,4.3
+2251,"Vallejo, CA",2020,4.065526699
+2634,"Vallejo, CA",2021,3.882267604
+3017,"Vallejo, CA",2022,3.739036387
+3400,"Vallejo, CA",2023,3.627090067
+3783,"Vallejo, CA",2024,3.539595323
+165,"Victoria, TX",2015,4.2
+548,"Victoria, TX",2016,4
+931,"Victoria, TX",2017,3.5
+1314,"Victoria, TX",2018,3.2
+1697,"Victoria, TX",2019,3
+2080,"Victoria, TX",2020,2.852658774
+2463,"Victoria, TX",2021,2.74411159
+2846,"Victoria, TX",2022,2.664144214
+3229,"Victoria, TX",2023,2.605231758
+3612,"Victoria, TX",2024,2.56183059
+303,"Vineland-Bridgeton, NJ",2015,8.8
+686,"Vineland-Bridgeton, NJ",2016,7.8
+1069,"Vineland-Bridgeton, NJ",2017,7.2
+1452,"Vineland-Bridgeton, NJ",2018,6.4
+1835,"Vineland-Bridgeton, NJ",2019,6
+2218,"Vineland-Bridgeton, NJ",2020,5.642525758
+2601,"Vineland-Bridgeton, NJ",2021,5.323056175
+2984,"Vineland-Bridgeton, NJ",2022,5.037550807
+3367,"Vineland-Bridgeton, NJ",2023,4.78239877
+3750,"Vineland-Bridgeton, NJ",2024,4.554373068
+337,"Virginia Beach-Norfolk-Newport News, VA-NC",2015,4.9
+720,"Virginia Beach-Norfolk-Newport News, VA-NC",2016,4.6
+1103,"Virginia Beach-Norfolk-Newport News, VA-NC",2017,4.1
+1486,"Virginia Beach-Norfolk-Newport News, VA-NC",2018,3.6
+1869,"Virginia Beach-Norfolk-Newport News, VA-NC",2019,3.4
+2252,"Virginia Beach-Norfolk-Newport News, VA-NC",2020,3.236311588
+2635,"Virginia Beach-Norfolk-Newport News, VA-NC",2021,3.102342107
+3018,"Virginia Beach-Norfolk-Newport News, VA-NC",2022,2.99269585
+3401,"Virginia Beach-Norfolk-Newport News, VA-NC",2023,2.902956741
+3784,"Virginia Beach-Norfolk-Newport News, VA-NC",2024,2.82951048
+381,"Visalia, CA",2015,11.6
+764,"Visalia, CA",2016,11.2
+1147,"Visalia, CA",2017,10.4
+1530,"Visalia, CA",2018,9.8
+1913,"Visalia, CA",2019,9.6
+2296,"Visalia, CA",2020,9.449260999
+2679,"Visalia, CA",2021,9.335649766
+3062,"Visalia, CA",2022,9.250021548
+3445,"Visalia, CA",2023,9.185483987
+3828,"Visalia, CA",2024,9.13684235
+283,"Waco, TX",2015,4.1
+666,"Waco, TX",2016,3.8
+1049,"Waco, TX",2017,3.4
+1432,"Waco, TX",2018,3.1
+1815,"Waco, TX",2019,2.9
+2198,"Waco, TX",2020,2.713700797
+2581,"Waco, TX",2021,2.540163831
+2964,"Waco, TX",2022,2.378514839
+3347,"Waco, TX",2023,2.227939446
+3730,"Waco, TX",2024,2.087679068
+116,"Walla Walla, WA",2015,6
+499,"Walla Walla, WA",2016,5.6
+882,"Walla Walla, WA",2017,5
+1265,"Walla Walla, WA",2018,4.6
+1648,"Walla Walla, WA",2019,4.3
+2031,"Walla Walla, WA",2020,4.029918948
+2414,"Walla Walla, WA",2021,3.786773032
+2797,"Walla Walla, WA",2022,3.567876016
+3180,"Walla Walla, WA",2023,3.370809561
+3563,"Walla Walla, WA",2024,3.19339651
+222,"Warner Robins, GA",2015,6.2
+605,"Warner Robins, GA",2016,5.8
+988,"Warner Robins, GA",2017,5.2
+1371,"Warner Robins, GA",2018,4.7
+1754,"Warner Robins, GA",2019,4.5
+2137,"Warner Robins, GA",2020,4.33047248
+2520,"Warner Robins, GA",2021,4.18677458
+2903,"Warner Robins, GA",2022,4.064970837
+3286,"Warner Robins, GA",2023,3.961725405
+3669,"Warner Robins, GA",2024,3.874210695
+223,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2015,4.4
+606,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2016,4.2
+989,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2017,3.7
+1372,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2018,3.3
+1755,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2019,3.1
+2138,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2020,2.947627316
+2521,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2021,2.831540142
+2904,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2022,2.743097571
+3287,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2023,2.675716412
+3670,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2024,2.624381171
+166,"Waterloo-Cedar Falls, IA",2015,4.4
+549,"Waterloo-Cedar Falls, IA",2016,4.2
+932,"Waterloo-Cedar Falls, IA",2017,3.7
+1315,"Waterloo-Cedar Falls, IA",2018,3.3
+1698,"Waterloo-Cedar Falls, IA",2019,3.1
+2081,"Waterloo-Cedar Falls, IA",2020,2.947627316
+2464,"Waterloo-Cedar Falls, IA",2021,2.831540142
+2847,"Waterloo-Cedar Falls, IA",2022,2.743097571
+3230,"Waterloo-Cedar Falls, IA",2023,2.675716412
+3613,"Waterloo-Cedar Falls, IA",2024,2.624381171
+338,"Watertown-Fort Drum, NY",2015,6.6
+721,"Watertown-Fort Drum, NY",2016,6.2
+1104,"Watertown-Fort Drum, NY",2017,5.5
+1487,"Watertown-Fort Drum, NY",2018,4.9
+1870,"Watertown-Fort Drum, NY",2019,4.8
+2253,"Watertown-Fort Drum, NY",2020,4.727179442
+2636,"Watertown-Fort Drum, NY",2021,4.674151104
+3019,"Watertown-Fort Drum, NY",2022,4.635535573
+3402,"Watertown-Fort Drum, NY",2023,4.607415527
+3785,"Watertown-Fort Drum, NY",2024,4.586938353
+264,"Wausau-Weston, WI",2015,4
+647,"Wausau-Weston, WI",2016,3.8
+1030,"Wausau-Weston, WI",2017,3.3
+1413,"Wausau-Weston, WI",2018,3
+1796,"Wausau-Weston, WI",2019,2.8
+2179,"Wausau-Weston, WI",2020,2.652656564
+2562,"Wausau-Weston, WI",2021,2.544106123
+2945,"Wausau-Weston, WI",2022,2.464135147
+3328,"Wausau-Weston, WI",2023,2.405219156
+3711,"Wausau-Weston, WI",2024,2.361814733
+265,"Weirton-Steubenville, WV-OH",2015,7.5
+648,"Weirton-Steubenville, WV-OH",2016,7.2
+1031,"Weirton-Steubenville, WV-OH",2017,6.5
+1414,"Weirton-Steubenville, WV-OH",2018,5.7
+1797,"Weirton-Steubenville, WV-OH",2019,5.6
+2180,"Weirton-Steubenville, WV-OH",2020,5.538265611
+2563,"Weirton-Steubenville, WV-OH",2021,5.500154263
+2946,"Weirton-Steubenville, WV-OH",2022,5.476626455
+3329,"Weirton-Steubenville, WV-OH",2023,5.462101707
+3712,"Weirton-Steubenville, WV-OH",2024,5.453134942
+284,"Wenatchee, WA",2015,5.9
+667,"Wenatchee, WA",2016,5.6
+1050,"Wenatchee, WA",2017,4.9
+1433,"Wenatchee, WA",2018,4.4
+1816,"Wenatchee, WA",2019,4.2
+2199,"Wenatchee, WA",2020,4.053610064
+2582,"Wenatchee, WA",2021,3.946459998
+2965,"Wenatchee, WA",2022,3.868031542
+3348,"Wenatchee, WA",2023,3.810625858
+3731,"Wenatchee, WA",2024,3.768607787
+304,"Wheeling, WV-OH",2015,6.6
+687,"Wheeling, WV-OH",2016,6.2
+1070,"Wheeling, WV-OH",2017,5.5
+1453,"Wheeling, WV-OH",2018,4.9
+1836,"Wheeling, WV-OH",2019,4.8
+2219,"Wheeling, WV-OH",2020,4.727179442
+2602,"Wheeling, WV-OH",2021,4.674151104
+2985,"Wheeling, WV-OH",2022,4.635535573
+3368,"Wheeling, WV-OH",2023,4.607415527
+3751,"Wheeling, WV-OH",2024,4.586938353
+99,"Wichita Falls, TX",2015,4.3
+482,"Wichita Falls, TX",2016,4.1
+865,"Wichita Falls, TX",2017,3.6
+1248,"Wichita Falls, TX",2018,3.2
+1631,"Wichita Falls, TX",2019,3
+2014,"Wichita Falls, TX",2020,2.847626108
+2397,"Wichita Falls, TX",2021,2.731537093
+2780,"Wichita Falls, TX",2022,2.643092418
+3163,"Wichita Falls, TX",2023,2.575709121
+3546,"Wichita Falls, TX",2024,2.524371845
+305,"Wichita, KS",2015,4.7
+688,"Wichita, KS",2016,4.5
+1071,"Wichita, KS",2017,4
+1454,"Wichita, KS",2018,3.5
+1837,"Wichita, KS",2019,3.2
+2220,"Wichita, KS",2020,2.954466346
+2603,"Wichita, KS",2021,2.753510429
+2986,"Wichita, KS",2022,2.589038961
+3369,"Wichita, KS",2023,2.454428026
+3752,"Wichita, KS",2024,2.34425631
+243,"Williamsport, PA",2015,6
+626,"Williamsport, PA",2016,5.7
+1009,"Williamsport, PA",2017,5
+1392,"Williamsport, PA",2018,4.6
+1775,"Williamsport, PA",2019,4.3
+2158,"Williamsport, PA",2020,4.074406063
+2541,"Williamsport, PA",2021,3.904763981
+2924,"Williamsport, PA",2022,3.777196565
+3307,"Williamsport, PA",2023,3.681268445
+3690,"Williamsport, PA",2024,3.609132438
+28,"Wilmington, NC",2015,5.5
+411,"Wilmington, NC",2016,5.1
+794,"Wilmington, NC",2017,4.5
+1177,"Wilmington, NC",2018,4.1
+1560,"Wilmington, NC",2019,3.8
+1943,"Wilmington, NC",2020,3.529943997
+2326,"Wilmington, NC",2021,3.286843182
+2709,"Wilmington, NC",2022,3.068007066
+3092,"Wilmington, NC",2023,2.871013712
+3475,"Wilmington, NC",2024,2.693682918
+382,"Winchester, VA-WV",2015,4.3
+765,"Winchester, VA-WV",2016,4.1
+1148,"Winchester, VA-WV",2017,3.6
+1531,"Winchester, VA-WV",2018,3.2
+1914,"Winchester, VA-WV",2019,3
+2297,"Winchester, VA-WV",2020,2.847626108
+2680,"Winchester, VA-WV",2021,2.731537093
+3063,"Winchester, VA-WV",2022,2.643092418
+3446,"Winchester, VA-WV",2023,2.575709121
+3829,"Winchester, VA-WV",2024,2.524371845
+29,"Winston-Salem, NC",2015,5.4
+412,"Winston-Salem, NC",2016,5
+795,"Winston-Salem, NC",2017,4.5
+1178,"Winston-Salem, NC",2018,4.1
+1561,"Winston-Salem, NC",2019,3.7
+1944,"Winston-Salem, NC",2020,3.308226545
+2327,"Winston-Salem, NC",2021,2.924510446
+2710,"Winston-Salem, NC",2022,2.548685992
+3093,"Winston-Salem, NC",2023,2.180590881
+3476,"Winston-Salem, NC",2024,1.820066149
+306,"Worcester, MA-CT",2015,5.1
+689,"Worcester, MA-CT",2016,4.7
+1072,"Worcester, MA-CT",2017,4.2
+1455,"Worcester, MA-CT",2018,3.8
+1838,"Worcester, MA-CT",2019,3.5
+2221,"Worcester, MA-CT",2020,3.211322902
+2604,"Worcester, MA-CT",2021,2.933541346
+2987,"Worcester, MA-CT",2022,2.666244102
+3370,"Worcester, MA-CT",2023,2.40903546
+3753,"Worcester, MA-CT",2024,2.161534647
+167,"Yakima, WA",2015,8.2
+550,"Yakima, WA",2016,7.8
+933,"Yakima, WA",2017,7.2
+1316,"Yakima, WA",2018,6.4
+1699,"Yakima, WA",2019,6
+2082,"Yakima, WA",2020,5.663723695
+2465,"Yakima, WA",2021,5.381019311
+2848,"Yakima, WA",2022,5.143352347
+3231,"Yakima, WA",2023,4.943547926
+3614,"Yakima, WA",2024,4.775574195
+190,"York-Hanover, PA",2015,4.7
+573,"York-Hanover, PA",2016,4.5
+956,"York-Hanover, PA",2017,4
+1339,"York-Hanover, PA",2018,3.5
+1722,"York-Hanover, PA",2019,3.3
+2105,"York-Hanover, PA",2020,3.151193647
+2488,"York-Hanover, PA",2021,3.040476992
+2871,"York-Hanover, PA",2022,2.958100284
+3254,"York-Hanover, PA",2023,2.896809397
+3637,"York-Hanover, PA",2024,2.851207029
+142,"Youngstown-Warren-Boardman, OH-PA",2015,6.1
+525,"Youngstown-Warren-Boardman, OH-PA",2016,5.8
+908,"Youngstown-Warren-Boardman, OH-PA",2017,5.1
+1291,"Youngstown-Warren-Boardman, OH-PA",2018,4.6
+1674,"Youngstown-Warren-Boardman, OH-PA",2019,4.4
+2057,"Youngstown-Warren-Boardman, OH-PA",2020,4.253612888
+2440,"Youngstown-Warren-Boardman, OH-PA",2021,4.146466955
+2823,"Youngstown-Warren-Boardman, OH-PA",2022,4.068043036
+3206,"Youngstown-Warren-Boardman, OH-PA",2023,4.010641781
+3589,"Youngstown-Warren-Boardman, OH-PA",2024,3.968627761
+191,"Yuba City, CA",2015,10.2
+574,"Yuba City, CA",2016,9.5
+957,"Yuba City, CA",2017,8.5
+1340,"Yuba City, CA",2018,7.6
+1723,"Yuba City, CA",2019,7.2
+2106,"Yuba City, CA",2020,6.851075584
+2489,"Yuba City, CA",2021,6.546704963
+2872,"Yuba City, CA",2022,6.281199109
+3255,"Yuba City, CA",2023,6.049595422
+3638,"Yuba City, CA",2024,5.847564968
+,"Yuma, AZ",2015,21.7
+,"Yuma, AZ",2016,18.8
+,"Yuma, AZ",2017,16.9
+,"Yuma, AZ",2018,16.7
+,"Yuma, AZ",2019,16.4
+,"Yuma, AZ",2020,16.15522664
+,"Yuma, AZ",2021,15.9555133
+,"Yuma, AZ",2022,15.79256495
+,"Yuma, AZ",2023,15.65961357
+,"Yuma, AZ",2024,15.55113704

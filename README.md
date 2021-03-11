@@ -62,7 +62,7 @@ MongoDB
 Flask, Plotly, GraphJS
 
 **Web App:**
-Heroku
+Heroku: https://msa-prediction.herokuapp.com/
 
 **Presentation:**
 https://docs.google.com/presentation/d/1hDRkBLbo_e6D-0roOfvdUls_1-utlWcHfgddTy63qJM/edit

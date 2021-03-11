@@ -21,17 +21,21 @@ The datasets we will be using are:
 - https://www.bls.gov/lau/#tables
 
 **GDP and Total Employment** Bureau of Economic Analysis
-- https://www.bea.gov/
+- https://www.bea.gov/data/gdp/gdp-county-metro-and-other-areas
 
+**Labor Force**
+- https://api.bls.gov/publicAPI/v2/timeseries/data/ 
 
-We also looked at several other databases and resources when formalizing our project. Some of these included:
+**Annual Mean Wage**
+- https://www.bls.gov/oes/home.htm
 
-
-We decided not to use this dataset because we needed to keep data on the same granularity scale. When looking to rank cities we want to keep dataset just to cities for scale and easibility in preparing the data. 
-
+**Business Applications**
 - https://www.census.gov/library/visualizations/interactive/bfs-annual-state-county.html
 
-Originally we wanted to use this resource that had statistics for new business application at the state and county level to use as a feature in our dataset to measure growth. For the same reason as above we decided to keep all data on the same granularity scale and continued digging for city data. 
+**Consumer price index**
+- https://api.bls.gov/publicAPI/v2/timeseries/data/
+
+We also looked at several other databases and resources when formalizing our project.
 
 Lastly we researched various ranking methodologies and how we could best implement a ranking methodology to dataset. Some research links include
 
@@ -48,17 +52,17 @@ Lastly we researched various ranking methodologies and how we could best impleme
 ## Technology
 Our technology plan includes:
 
-**Preparing Data:** 
+**ETL:**
 Python/Pandas
 
-**ETL:**
-Mongo
+**Database:**
+MongoDB
 
 **Visualization:** 
-Flask and Plotly
+Flask, Plotly, GraphJS
 
 **Web App:**
-Heroku
+Heroku: https://msa-prediction.herokuapp.com/
 
 **Presentation:**
 https://docs.google.com/presentation/d/1hDRkBLbo_e6D-0roOfvdUls_1-utlWcHfgddTy63qJM/edit
